@@ -30,6 +30,8 @@ class OecdFetcher(object):
     def fetch(self):
         html = self._html_getter(self.url)
         records = parse_oecd_html(html, self.url, self.limit)
+        if not records:
+            raise RuntimeError("OECD GlobalRecalls returned no records")
         result = FetchResult(source=self.name, records=records)
         result.status = SourceStatus(self.name, True, utc_now_iso(), len(records))
         return result

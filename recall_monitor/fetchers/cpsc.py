@@ -1,8 +1,14 @@
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals
 
-from recall_monitor.fetchers.base import FetchResult, http_get_json, stable_id, utc_now_iso
+import requests
+
+from recall_monitor.fetchers.base import FetchResult, stable_id, utc_now_iso
 from recall_monitor.model import RecallRecord, SourceStatus
+
+DEFAULT_HEADERS = {
+    "User-Agent": "Mozilla/5.0 (compatible; recall-monitor/0.1; +https://github.com/xuweiqiang/recall_monitor)"
+}
 
 
 class CpscFetcher(object):
@@ -10,6 +16,7 @@ class CpscFetcher(object):
 
     def __init__(self, limit=50):
         self.limit = limit
+        self.headers = dict(DEFAULT_HEADERS)
 
     def fetch(self):
         url = (
@@ -17,8 +24,14 @@ class CpscFetcher(object):
             % self.limit
         )
         payload = http_get_json(url)
-        records = [map_cpsc_item(item) for item in _items(payload)]
+        records = [map_cpsc_item(item) for item in _items(payload)[: self.limit]]
         return _fetch_result(self.name, records)
+
+
+def http_get_json(url, timeout=20.0):
+    response = requests.get(url, timeout=timeout, headers=DEFAULT_HEADERS)
+    response.raise_for_status()
+    return response.json()
 
 
 def map_cpsc_item(item):

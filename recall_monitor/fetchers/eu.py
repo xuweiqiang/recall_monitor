@@ -30,6 +30,8 @@ class EuSafetyGateFetcher(object):
     def fetch(self):
         html = self._html_getter(self.url)
         records = parse_eu_html(html, self.url, self.limit)
+        if not records:
+            raise RuntimeError("EU Safety Gate returned no records")
         result = FetchResult(source=self.name, records=records)
         result.status = SourceStatus(self.name, True, utc_now_iso(), len(records))
         return result

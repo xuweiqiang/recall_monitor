@@ -61,3 +61,32 @@ def test_cpsc_fetcher_builds_url_and_maps_results(monkeypatch):
     assert result.status.ok is True
     assert result.status.count == 1
     assert result.records[0].brand == "Battery Co"
+
+
+def test_cpsc_fetcher_uses_browser_user_agent():
+    fetcher = CpscFetcher(limit=3)
+
+    assert "Mozilla" in fetcher.headers["User-Agent"]
+
+
+def test_cpsc_fetcher_limits_results_when_api_ignores_take(monkeypatch):
+    def fake_get_json(url):
+        return [
+            {
+                "RecallID": str(index),
+                "RecallDate": "2026-06-12",
+                "Title": "Power bank recalled",
+                "Description": "Fire hazard",
+                "Products": [{"Name": "Power Bank"}],
+                "Manufacturers": [{"Name": "Battery Co"}],
+                "URL": "https://www.cpsc.gov/recalls/r%s" % index,
+            }
+            for index in range(5)
+        ]
+
+    monkeypatch.setattr("recall_monitor.fetchers.cpsc.http_get_json", fake_get_json)
+
+    result = CpscFetcher(limit=2).fetch()
+
+    assert len(result.records) == 2
+    assert result.status.count == 2

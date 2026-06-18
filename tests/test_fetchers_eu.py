@@ -89,3 +89,18 @@ def test_eu_fetcher_fetch_uses_injected_html_getter():
     assert result.status.ok is True
     assert result.status.count == 1
     assert result.records[0].source_url == "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/100"
+
+
+def test_eu_fetcher_raises_when_page_has_no_alert_records():
+    fetcher = EuSafetyGateFetcher(
+        limit=2,
+        url="https://ec.europa.eu",
+        html_getter=lambda url: "<html><body>No records</body></html>",
+    )
+
+    try:
+        fetcher.fetch()
+    except RuntimeError as exc:
+        assert "EU Safety Gate returned no records" in str(exc)
+    else:
+        raise AssertionError("expected empty EU source failure")

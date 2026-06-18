@@ -16,7 +16,7 @@ from recall_monitor.fetchers.base import FetchResult, stable_id, utc_now_iso
 from recall_monitor.model import RecallRecord, SourceStatus
 
 
-CHINA_SAMR_URL = "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/zhiliangfz/art/"
+CHINA_SAMR_URL = "https://qxzh.samr.gov.cn/qxzh/qxxxcx/web.jsp"
 
 
 class ChinaFetcher(object):

@@ -88,3 +88,17 @@ def test_oecd_fetcher_fetch_uses_injected_html_getter():
     assert result.status.ok is True
     assert result.status.count == 1
     assert result.records[0].source_url == "https://globalrecalls.oecd.org/recall/123"
+
+
+def test_oecd_fetcher_raises_when_page_has_no_recall_records():
+    fetcher = OecdFetcher(
+        limit=2,
+        html_getter=lambda url: "<html><body>No recalls</body></html>",
+    )
+
+    try:
+        fetcher.fetch()
+    except RuntimeError as exc:
+        assert "OECD GlobalRecalls returned no records" in str(exc)
+    else:
+        raise AssertionError("expected empty OECD source failure")

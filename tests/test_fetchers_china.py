@@ -6,7 +6,7 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from recall_monitor.fetchers.china import ChinaFetcher, map_china_item, parse_china_html
+from recall_monitor.fetchers.china import CHINA_SAMR_URL, ChinaFetcher, map_china_item, parse_china_html
 
 
 def test_map_china_item_maps_local_sample_fields():
@@ -58,6 +58,7 @@ def test_china_fetcher_default_url_is_configurable():
 
     assert fetcher.url == "https://example.cn/list.html"
     assert fetcher.limit == 3
+    assert CHINA_SAMR_URL == "https://qxzh.samr.gov.cn/qxzh/qxxxcx/web.jsp"
 
 
 def test_china_fetcher_fetch_uses_injected_html_getter():
