@@ -1647,6 +1647,6 @@ Only run this commit if `git status --short` shows generated data changes that s
 ## Self-Review
 
 - Spec coverage: model, classification, source status, fault isolation, GitHub Pages, GitHub Actions, local keyword matching, source links, and static deployment are covered.
-- Known v1 gap: this first implementation plan wires FDA and CPSC live fetchers plus sample data. China, Canada, EU, OECD, NHTSA, and USDA remain extension tasks because their source formats need separate verification and should not block a useful v1 dashboard.
+- Source coverage: v1 wires FDA, CPSC, NHTSA, USDA FSIS, China SAMR-style pages, Canada Recalls, EU Safety Gate, OECD GlobalRecalls, and sample data. Sources without stable public APIs are implemented with conservative parsing and source-level failure isolation so they do not block the dashboard.
 - Placeholder scan: no placeholder tasks remain.
 - Type consistency: `RecallRecord`, `SourceStatus`, `FetchResult`, `Fetcher`, and frontend JSON field names are consistent across tasks.
