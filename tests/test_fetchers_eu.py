@@ -45,6 +45,35 @@ def test_map_eu_item_maps_local_sample_fields():
     assert record.raw == item
 
 
+def test_map_eu_item_maps_opendatasoft_fields():
+    item = {
+        "alert_number": "SR/01636/26",
+        "rapex_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099149",
+        "alert_date": "2026-06-12",
+        "product_category": "Cosmetics",
+        "alert_type": ["Chemical"],
+        "product_brand": "Jenessa",
+        "product_name": "10",
+        "product_model_type": "8010",
+        "alert_country": "Italy",
+        "alert_description": "Contains prohibited TPO.",
+        "measures_country": ["Ban on marketing"],
+    }
+
+    record = map_eu_item(item)
+
+    assert record.id == "SR/01636/26"
+    assert record.source_url == item["rapex_url"]
+    assert record.published_at == "2026-06-12"
+    assert record.categories == ["Cosmetics"]
+    assert record.risks == ["Chemical"]
+    assert record.brand == "Jenessa"
+    assert record.product == "10"
+    assert record.model == "8010"
+    assert "Contains prohibited TPO." in record.summary_zh
+    assert record.action == "Ban on marketing"
+
+
 def test_parse_eu_html_extracts_safety_gate_links():
     html = """
     <html><body>
@@ -89,6 +118,32 @@ def test_eu_fetcher_fetch_uses_injected_html_getter():
     assert result.status.ok is True
     assert result.status.count == 1
     assert result.records[0].source_url == "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/100"
+
+
+def test_eu_fetcher_fetch_uses_opendatasoft_payload():
+    fetcher = EuSafetyGateFetcher(
+        limit=2,
+        json_getter=lambda url: {
+            "results": [
+                {
+                    "alert_number": "SR/1",
+                    "rapex_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/1",
+                    "alert_date": "2026-06-12",
+                    "product_category": "Toys",
+                    "alert_type": ["Choking"],
+                    "product_name": "Toy",
+                    "alert_description": "Small parts.",
+                }
+            ]
+        },
+    )
+
+    result = fetcher.fetch()
+
+    assert result.source == "EU Safety Gate"
+    assert result.status.ok is True
+    assert result.status.count == 1
+    assert result.records[0].source_url.endswith("/1")
 
 
 def test_eu_fetcher_raises_when_page_has_no_alert_records():

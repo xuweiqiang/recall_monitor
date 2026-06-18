@@ -10,29 +10,64 @@ try:
 except ImportError:
     from urlparse import urljoin
 
+import base64
 import requests
 
-from recall_monitor.fetchers.base import FetchResult, stable_id, utc_now_iso
+from recall_monitor.fetchers.base import FetchResult, sanitize_url, stable_id, utc_now_iso
 from recall_monitor.model import RecallRecord, SourceStatus
 
 
 CHINA_SAMR_URL = "https://qxzh.samr.gov.cn/qxzh/qxxxcx/web.jsp"
+CHINA_CAR_NEWS_URL = "https://qxzh.samr.gov.cn/qxzh/frame/car/siteNews"
+CHINA_CONSUMER_NEWS_URL = "https://qxzh.samr.gov.cn/qxzh/frame/car/consumeNews"
+CHINA_REFERER = "https://qxzh.samr.gov.cn/qxzh/qxxxcx/web.jsp"
 
 
 class ChinaFetcher(object):
     name = "China SAMR"
 
-    def __init__(self, limit=50, url=CHINA_SAMR_URL, html_getter=None):
+    def __init__(self, limit=50, url=CHINA_SAMR_URL, html_getter=None, json_getter=None):
         self.limit = limit
         self.url = url
         self._html_getter = html_getter or _http_get_text
+        self._json_getter = json_getter or _http_post_json
 
     def fetch(self):
-        html = self._html_getter(self.url)
-        records = parse_china_html(html, self.url, self.limit)
+        if self.url == CHINA_SAMR_URL:
+            records = self._fetch_json_records()
+        else:
+            html = self._html_getter(self.url)
+            records = parse_china_html(html, self.url, self.limit)
         result = FetchResult(source=self.name, records=records)
         result.status = SourceStatus(self.name, True, utc_now_iso(), len(records))
         return result
+
+    def _fetch_json_records(self):
+        page_size = max(1, min(self.limit, 50))
+        records = []
+        sources = [
+            (CHINA_CAR_NEWS_URL, "汽车"),
+            (CHINA_CONSUMER_NEWS_URL, "消费品"),
+        ]
+        for url, category in sources:
+            payload = self._json_getter(
+                url,
+                {
+                    "pageNo": encode_china_param("1"),
+                    "pageSize": encode_china_param(str(page_size)),
+                    "keyword": encode_china_param(""),
+                    "source": encode_china_param("GOVWEB"),
+                },
+            )
+            if not payload.get("successful", True):
+                raise RuntimeError(payload.get("error") or "China SAMR returned unsuccessful response")
+            for item in payload.get("rows", []):
+                copied = dict(item)
+                copied["category"] = category
+                records.append(map_china_item(copied))
+                if len(records) >= self.limit:
+                    return records
+        return records
 
 
 def parse_china_html(html, base_url, limit=50):
@@ -67,9 +102,9 @@ def _extract_links(html):
 
 
 def map_china_item(item):
-    title = _text(item.get("title"))
-    url = _text(item.get("url"))
-    date = _text(item.get("date"))
+    title = _text(item.get("title")) or _text(item.get("doctitle"))
+    url = _text(item.get("url")) or _text(item.get("docpuburl"))
+    date = _text(item.get("date")) or _text(item.get("docreltime"))
     product = _text(item.get("product"))
     company = _text(item.get("company"))
     risk = _text(item.get("risk"))
@@ -80,7 +115,7 @@ def map_china_item(item):
     return RecallRecord(
         id=_text(item.get("id")) or stable_id("China SAMR", title, url),
         source="China SAMR",
-        source_url=url,
+        source_url=sanitize_url(url),
         region="CN",
         published_at=date,
         updated_at=date,
@@ -105,6 +140,24 @@ def _http_get_text(url, timeout=20.0):
     if not response.encoding:
         response.encoding = response.apparent_encoding
     return response.text
+
+
+def _http_post_json(url, data, timeout=20.0):
+    response = requests.post(
+        url,
+        data=data,
+        timeout=timeout,
+        headers={
+            "User-Agent": "Mozilla/5.0 (compatible; recall-monitor/0.1; +https://github.com/xuweiqiang/recall_monitor)",
+            "Referer": CHINA_REFERER,
+        },
+    )
+    response.raise_for_status()
+    return response.json()
+
+
+def encode_china_param(value):
+    return base64.urlsafe_b64encode(_text(value).encode("utf-8")).decode("ascii")
 
 
 def _looks_like_recall(title, href):

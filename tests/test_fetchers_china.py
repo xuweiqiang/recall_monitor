@@ -6,7 +6,13 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from recall_monitor.fetchers.china import CHINA_SAMR_URL, ChinaFetcher, map_china_item, parse_china_html
+from recall_monitor.fetchers.china import (
+    CHINA_SAMR_URL,
+    ChinaFetcher,
+    encode_china_param,
+    map_china_item,
+    parse_china_html,
+)
 
 
 def test_map_china_item_maps_local_sample_fields():
@@ -36,6 +42,29 @@ def test_map_china_item_maps_local_sample_fields():
     assert record.risks == ["制动失效，存在受伤风险"]
     assert record.action == item["action"]
     assert record.raw == item
+
+
+def test_map_china_item_maps_official_news_fields():
+    item = {
+        "docpuburl": "https://www.samrdprc.org.cn/xfpzh/xfpgnzh/202606/t20260616_115652.html",
+        "docreltime": "2026-06-12",
+        "doctitle": "【广东】普宁市军埠石头王电器厂召回海雅牌延长线插座",
+        "category": "消费品",
+    }
+
+    record = map_china_item(item)
+
+    assert record.source == "China SAMR"
+    assert record.source_url == item["docpuburl"]
+    assert record.published_at == "2026-06-12"
+    assert record.title_original == item["doctitle"]
+    assert record.categories == ["消费品"]
+
+
+def test_encode_china_param_matches_site_base16_for_ascii_values():
+    assert encode_china_param("1") == "MQ=="
+    assert encode_china_param("10") == "MTA="
+    assert encode_china_param("GOVWEB") == "R09WV0VC"
 
 
 def test_parse_china_html_extracts_notice_links_with_absolute_urls():
@@ -74,3 +103,28 @@ def test_china_fetcher_fetch_uses_injected_html_getter():
     assert result.status.ok is True
     assert result.status.count == 1
     assert result.records[0].source_url == "https://www.samr.gov.cn/recall/notice-1.html"
+
+
+def test_china_fetcher_fetch_uses_official_json_getter():
+    def fake_json_getter(url, data):
+        assert data["pageNo"] == "MQ=="
+        assert data["pageSize"] == "Mg=="
+        assert "keyword" in data
+        return {
+            "successful": True,
+            "rows": [
+                {
+                    "docpuburl": "https://www.samrdprc.org.cn/xfpzh/xfpgnzh/202606/t20260616_115652.html",
+                    "docreltime": "2026-06-12",
+                    "doctitle": "【广东】普宁市军埠石头王电器厂召回海雅牌延长线插座",
+                }
+            ],
+        }
+
+    fetcher = ChinaFetcher(limit=2, json_getter=fake_json_getter)
+
+    result = fetcher.fetch()
+
+    assert result.status.ok is True
+    assert result.status.count == 2
+    assert {record.categories[0] for record in result.records} == {"汽车", "消费品"}

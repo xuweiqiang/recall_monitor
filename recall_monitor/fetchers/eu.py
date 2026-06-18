@@ -16,20 +16,29 @@ from recall_monitor.fetchers.base import FetchResult, sanitize_url, stable_id, u
 from recall_monitor.model import RecallRecord, SourceStatus
 
 
-EU_SAFETY_GATE_URL = "https://ec.europa.eu/safety-gate-alerts/screen/webReport"
+EU_SAFETY_GATE_URL = (
+    "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/"
+    "healthref-europe-rapex-en/records?limit={limit}&order_by=alert_date%20desc"
+)
+EU_SAFETY_GATE_WEB_URL = "https://ec.europa.eu/safety-gate-alerts/screen/webReport"
 
 
 class EuSafetyGateFetcher(object):
     name = "EU Safety Gate"
 
-    def __init__(self, limit=50, url=EU_SAFETY_GATE_URL, html_getter=None):
+    def __init__(self, limit=50, url=EU_SAFETY_GATE_URL, html_getter=None, json_getter=None):
         self.limit = limit
         self.url = url
         self._html_getter = html_getter or _http_get_text
+        self._json_getter = json_getter or _http_get_json
 
     def fetch(self):
-        html = self._html_getter(self.url)
-        records = parse_eu_html(html, self.url, self.limit)
+        if "{limit}" in self.url:
+            payload = self._json_getter(self.url.format(limit=self.limit))
+            records = [map_eu_item(item) for item in _items(payload)[: self.limit]]
+        else:
+            html = self._html_getter(self.url)
+            records = parse_eu_html(html, self.url, self.limit)
         if not records:
             raise RuntimeError("EU Safety Gate returned no records")
         result = FetchResult(source=self.name, records=records)
@@ -71,16 +80,20 @@ def _extract_links(html):
 
 
 def map_eu_item(item):
-    title = _text(item.get("title"))
-    url = _text(item.get("url"))
-    date = _text(item.get("date"))
-    category = _text(item.get("category"))
-    risk = _text(item.get("risk"))
-    brand = _text(item.get("brand"))
-    product = _text(item.get("product"))
-    model = _text(item.get("model"))
-    country = _text(item.get("country"))
+    title = _text(item.get("title")) or _join_nonempty(
+        [_text(item.get("product_type")), _text(item.get("product_name"))]
+    )
+    url = _text(item.get("url")) or _text(item.get("rapex_url"))
+    date = _text(item.get("date")) or _text(item.get("alert_date"))
+    category = _text(item.get("category")) or _text(item.get("product_category"))
+    risk = _first_text(item.get("risk")) or _first_text(item.get("alert_type"))
+    brand = _text(item.get("brand")) or _text(item.get("product_brand"))
+    product = _text(item.get("product")) or _text(item.get("product_name"))
+    model = _text(item.get("model")) or _text(item.get("product_model_type")) or _text(item.get("product_batch_number"))
+    country = _text(item.get("country")) or _text(item.get("alert_country"))
     alert_number = _text(item.get("alert_number"))
+    description = _text(item.get("alert_description"))
+    action = _first_text(item.get("measures_country"))
 
     return RecallRecord(
         id=alert_number or stable_id("EU Safety Gate", title, url),
@@ -91,13 +104,13 @@ def map_eu_item(item):
         updated_at=date,
         title_original=title,
         title_zh=title,
-        summary_zh=_join_nonempty([country, product, risk]) or title,
+        summary_zh=_join_nonempty([country, product, risk, description]) or title,
         brand=brand,
         product=product,
         model=model,
         categories=[category] if category else [],
         risks=[risk] if risk else [],
-        action="",
+        action=action,
         severity="unknown",
         dedupe_key=stable_id("EU Safety Gate", brand, product, model, title),
         raw=dict(item),
@@ -108,6 +121,18 @@ def _http_get_text(url, timeout=20.0):
     response = requests.get(url, timeout=timeout)
     response.raise_for_status()
     return response.text
+
+
+def _http_get_json(url, timeout=20.0):
+    response = requests.get(url, timeout=timeout)
+    response.raise_for_status()
+    return response.json()
+
+
+def _items(payload):
+    if isinstance(payload, dict):
+        return payload.get("results") or []
+    return []
 
 
 def _looks_like_alert(title, href):
@@ -126,6 +151,16 @@ def _text(value):
         return unicode(value).strip()
     except NameError:
         return str(value).strip()
+
+
+def _first_text(value):
+    if isinstance(value, list):
+        for item in value:
+            text = _text(item)
+            if text:
+                return text
+        return ""
+    return _text(value)
 
 
 class _LinkParser(HTMLParser):
