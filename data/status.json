@@ -1,0 +1,82 @@
+{
+  "generated_at": "2026-06-18T07:42:09Z",
+  "sources": [
+    {
+      "count": 50,
+      "error": null,
+      "fetched_at": "2026-06-18T07:41:56Z",
+      "ok": true,
+      "source": "FDA Food"
+    },
+    {
+      "count": 50,
+      "error": null,
+      "fetched_at": "2026-06-18T07:41:57Z",
+      "ok": true,
+      "source": "FDA Drug"
+    },
+    {
+      "count": 50,
+      "error": null,
+      "fetched_at": "2026-06-18T07:41:57Z",
+      "ok": true,
+      "source": "FDA Device"
+    },
+    {
+      "count": 0,
+      "error": "403 Client Error: Forbidden for url: https://www.saferproducts.gov/RestWebServices/Recall?format=json&take=50",
+      "fetched_at": "2026-06-18T07:41:57Z",
+      "ok": false,
+      "source": "CPSC"
+    },
+    {
+      "count": 50,
+      "error": null,
+      "fetched_at": "2026-06-18T07:42:00Z",
+      "ok": true,
+      "source": "NHTSA"
+    },
+    {
+      "count": 0,
+      "error": "403 Client Error: Forbidden for url: https://www.fsis.usda.gov/fsis/api/recall/v/1?field_recall_date_value=&field_states_id=All&items_per_page=50",
+      "fetched_at": "2026-06-18T07:42:00Z",
+      "ok": false,
+      "source": "USDA FSIS"
+    },
+    {
+      "count": 50,
+      "error": null,
+      "fetched_at": "2026-06-18T07:42:06Z",
+      "ok": true,
+      "source": "Canada Recalls"
+    },
+    {
+      "count": 0,
+      "error": "403 Client Error: Forbidden for url: https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/zhiliangfz/art/",
+      "fetched_at": "2026-06-18T07:42:06Z",
+      "ok": false,
+      "source": "China SAMR"
+    },
+    {
+      "count": 0,
+      "error": null,
+      "fetched_at": "2026-06-18T07:42:08Z",
+      "ok": true,
+      "source": "EU Safety Gate"
+    },
+    {
+      "count": 0,
+      "error": null,
+      "fetched_at": "2026-06-18T07:42:09Z",
+      "ok": true,
+      "source": "OECD GlobalRecalls"
+    },
+    {
+      "count": 2,
+      "error": null,
+      "fetched_at": "2026-06-18T07:42:09Z",
+      "ok": true,
+      "source": "SAMPLE"
+    }
+  ]
+}

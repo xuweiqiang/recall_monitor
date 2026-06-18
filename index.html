@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>全球召回雷达</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <p class="eyebrow">Recall Monitor</p>
+      <h1>全球召回雷达</h1>
+      <p class="subtitle">聚合公开召回信息，便于按风险、品类和个人关注关键词快速筛选。</p>
+    </div>
+    <div class="updated-panel" aria-live="polite">
+      <span>更新时间</span>
+      <strong id="updatedAt">加载中...</strong>
+    </div>
+  </header>
+
+  <main class="layout">
+    <section class="controls" aria-label="筛选条件">
+      <label class="search-label" for="searchInput">搜索召回信息</label>
+      <input id="searchInput" type="search" placeholder="输入品牌、产品、型号、风险或地区">
+
+      <div class="category-tabs" id="categoryTabs" aria-label="分类筛选"></div>
+
+      <div class="watch-panel">
+        <label for="watchKeywords">我的关注关键词</label>
+        <textarea id="watchKeywords" rows="5" placeholder="每行一个关键词，例如：婴儿床&#10;充电宝&#10;China"></textarea>
+        <div class="watch-actions">
+          <button id="saveWatch" type="button">本地保存</button>
+          <span id="saveHint" role="status" aria-live="polite"></span>
+        </div>
+        <p>关键词仅保存在当前浏览器 localStorage，不会上传。</p>
+      </div>
+    </section>
+
+    <aside class="status-panel" aria-labelledby="sourceStatusTitle">
+      <h2 id="sourceStatusTitle">数据源状态</h2>
+      <div id="sourceStatus" class="source-list">加载中...</div>
+    </aside>
+
+    <section class="results" aria-labelledby="resultsTitle">
+      <div class="results-header">
+        <div>
+          <h2 id="resultsTitle">召回卡片列表</h2>
+          <p id="resultSummary">正在加载数据...</p>
+        </div>
+      </div>
+      <div id="recallList" class="recall-list"></div>
+    </section>
+  </main>
+
+  <template id="recallCardTemplate">
+    <article class="recall-card">
+      <div class="card-head">
+        <div>
+          <h3></h3>
+          <p class="original-title"></p>
+        </div>
+        <span class="severity"></span>
+      </div>
+      <dl class="meta-grid"></dl>
+      <p class="summary"></p>
+      <div class="detail-grid"></div>
+      <p class="action"></p>
+      <a class="source-link" target="_blank" rel="noopener noreferrer">查看来源</a>
+    </article>
+  </template>
+
+  <script src="./app.js" defer></script>
+</body>
+</html>
