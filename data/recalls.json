@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T07:42:09Z",
+  "generated_at": "2026-06-18T08:04:53Z",
   "records": [
     {
       "action": "立即停止给儿童使用，并按官方召回指引处理。",
@@ -440,6 +440,213 @@
     },
     {
       "action": "查看召回公告并按官方指引处理。",
+      "brand": "ChangShaShiMengQiSiDianZiShangMaoYouXianGongSi, of China",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "227951542ee31ead",
+      "id": "fca21c0f84d75c0e",
+      "model": "10821",
+      "product": "Kidisle Coffeemakers",
+      "published_at": "2026-06-11",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/Coffeemakers-Recalled-Due-to-Risk-of-Serious-Injury-from-Burn-Hazard-Imported-by-Kidisle",
+      "summary_zh": "This recall involves Kidisle-branded hot and iced coffee machines. The single-serve coffeemaker is designed with black, white and gray colors, measures about 11 inches high and 6 inches wide, and has a 50-ounce detachable water tank. The coffeemakers can brew 6 to 14 ounces of cupped or ground coffee. Model \"KC101B\" is printed on a sticker on the coffeemakers' underside and the brand name on the product order receipt.",
+      "title_original": "Coffeemakers Recalled Due to Risk of Serious Injury from Burn Hazard; Imported by Kidisle",
+      "title_zh": "Coffeemakers Recalled Due to Risk of Serious Injury from Burn Hazard; Imported by Kidisle",
+      "updated_at": "2026-06-11"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "Fujian Xiniuniu Home Furnishing Co., Ltd., of China",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "89c8dd30347d9cff",
+      "id": "fbbd5cc7f93d4504",
+      "model": "10811",
+      "product": "Timechee Changing Table Dressers",
+      "published_at": "2026-06-11",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/Timechee-Changing-Table-Dressers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units-Sold-on-Amazon-by-Timechee",
+      "summary_zh": "This recall involves Timechee Changing Table Dressers. The recalled dressers are made of wood and were sold in white. The dresser has five drawers and two shelves, and a two-section changing table top. It measures 47.2 inches long, by 19.5 inches wide, by 36.1 inches tall and weighs 160 pounds.  The dresser comes packaged in a cardboard box with \"KF200066US-01XN-003\" printed on the side.",
+      "title_original": "Timechee Changing Table Dressers Recalled Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units; Sold on Amazon by Timechee",
+      "title_zh": "Timechee Changing Table Dressers Recalled Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units; Sold on Amazon by Timechee",
+      "updated_at": "2026-06-11"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "Guangzhou Huanmao Business Service Co. Ltd., of China",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "c7b0d4665bcd5203",
+      "id": "c306c00b61ed343f",
+      "model": "10808",
+      "product": "LiKee Pull String Teething Toys",
+      "published_at": "2026-06-11",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/LiKee-Pull-String-Teething-Toys-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Violate-Mandatory-Standard-for-Toys-Sold-on-Amazon-by-ChilanTech",
+      "summary_zh": "This recall involves LiKee Pull String teething toys. The teething toys consist of an off-white disc shape with a blue ball in the center and six multi-colored, silicone tentacle-looking pull strings that run through the ball. The disc has three soft push buttons. The brand name and \"Baby Sensory Toy\" are printed on the front of the product packaging and \"Model No. LK-FDWJ\" on the back.",
+      "title_original": "LiKee Pull String Teething Toys Recalled Due to Risk of Serious Injury or Death from Choking; Violate Mandatory Standard for Toys; Sold on Amazon by ChilanTech",
+      "title_zh": "LiKee Pull String Teething Toys Recalled Due to Risk of Serious Injury or Death from Choking; Violate Mandatory Standard for Toys; Sold on Amazon by ChilanTech",
+      "updated_at": "2026-06-11"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "Foshan Nanhai District Haichen Tengfei Hardware Factory, of China",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "06d928b81014a24b",
+      "id": "bedce6daa7233e64",
+      "model": "10819",
+      "product": "Houoto 642-2150V Pool Drain Covers",
+      "published_at": "2026-06-11",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/Houoto-642-2150V-Pool-Drain-Covers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Drowning-Hazards-Violate-Virginia-Graeme-Baker-Pool-Spa-Safety-Act-Sold-on-Amazon-by-Prosperity-goe-straight-up",
+      "summary_zh": "This recall involves Houoto 642-2150V Pool Drain Covers that are sold for use in swimming pools. The drain covers measure 7-5/8 inches in diameter and the screw hole spacing is 7 inches. They are white and made of ABS plastic. The brand and model number can be found on the product's order receipt.",
+      "title_original": "Houoto 642-2150V Pool Drain Covers Recalled Due to Risk of Serious Injury or Death from Entrapment and Drowning Hazards; Violate Virginia Graeme Baker Pool & Spa Safety Act; Sold on Amazon by Prosperity goes straight up",
+      "title_zh": "Houoto 642-2150V Pool Drain Covers Recalled Due to Risk of Serious Injury or Death from Entrapment and Drowning Hazards; Violate Virginia Graeme Baker Pool & Spa Safety Act; Sold on Amazon by Prosperity goes straight up",
+      "updated_at": "2026-06-11"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "e066bf93e548d73d",
+      "id": "b68e85fa8e8a773d",
+      "model": "10810",
+      "product": "Plastic Tip Restraint Kits",
+      "published_at": "2026-06-11",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/School-Specialty-Recalls-Tip-Restraint-Kits-Included-in-Childcraft-Furniture-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-Hazard",
+      "summary_zh": "This recall involves defective plastic tip restraint kits (also referred to as furniture straps) that were included in Childcraft furniture sold by School Specialty. The furniture included two plastic tip restraint kits in the box along with the product, with installation instructions. There is a label on the bottom of the furniture with the item number. Furniture that included the defective tip restraint kits is listed below along with the item number. The recalled tip restraint kits contain two white plastic brackets/mounts (one for connection to furniture and the other for connection to the wall), a white plastic cable zip tie, two different pairs of screws (one longer than the other) and two drywall anchors. CPSC's Anchor It! website, https://www.anchorit.gov/, has educational materials available to the public, including important instructions for properly anchoring furniture to prevent tip-overs.",
+      "title_original": "School Specialty Recalls Tip Restraint Kits Included in Childcraft Furniture Due to Risk of Serious Injury or Death from Tip-Over Hazard",
+      "title_zh": "School Specialty Recalls Tip Restraint Kits Included in Childcraft Furniture Due to Risk of Serious Injury or Death from Tip-Over Hazard",
+      "updated_at": "2026-06-11"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "Kawasaki Motors Manufacturing Corp., U.S.A., of Lincoln, Nebraska",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "1b4cb516ca1252ed",
+      "id": "b6435d62fc48d57e",
+      "model": "10814",
+      "product": "Model Year 2026 Teryx4 H2 and Teryx5 H2 recreational off-road vehicles",
+      "published_at": "2026-06-11",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/Kawasaki-Motors-USA-Recalls-Model-Year-2026-Teryx4-H2-and-Teryx5-H2-Recreational-Off-Road-Vehicles-Due-to-Impact-and-Injury-Hazards",
+      "summary_zh": "This recall involves Model Year 2026 Kawasaki Teryx4 H2 and Teryx5 H2 recreational off-road vehicles with the following model numbers: KRT1000D, KRT1000F and KRT1000G. Each unit has a unique VIN number located on the right rear of the main frame underneath the rear fender and above the rear wheel. The vehicles have either \"Teryx4 H2\" or \"Teryx5 H2\" on the driver and front passenger doors and the Kawasaki logo on both the left and right side above the rear wheels. The recalled vehicles were sold in lime green color. Model numbers are printed on the owner's manual.",
+      "title_original": "Kawasaki Motors USA Recalls Model Year 2026 Teryx4 H2 and Teryx5 H2 Recreational Off-Road Vehicles Due to Impact and Injury Hazards",
+      "title_zh": "Kawasaki Motors USA Recalls Model Year 2026 Teryx4 H2 and Teryx5 H2 Recreational Off-Road Vehicles Due to Impact and Injury Hazards",
+      "updated_at": "2026-06-11"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "7e6bc4a63bc23ecf",
+      "id": "adebe62dcf014909",
+      "model": "10815",
+      "product": "Nimood Adult Portable Bed Rails",
+      "published_at": "2026-06-11",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/Nimood-Adult-Portable-Bed-Rails-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Hazards-Violate-Mandatory-Standard-for-Adult-Portable-Bed-Rails",
+      "summary_zh": "This recall involves Nimood branded adult portable bed rails, models C3 Pro, C4 Pro, C5 Pro, and C5 Pro 2.0 sold for use on adult beds. The model numbers may be found on the assembly instructions, if kept. The C3 Pro bed support railing is made of white metal tubing with a rounded black foam rubber grip handle, and includes a fabric pouch, black strap, and a detachable adjustable magnetic motion light bar. The C3 Pro has two support legs and measures 16.7 inches wide, 26 inches long, and has an adjustable height between 28.9 to 44.9 inches. The C4 Pro bed support railing is made of black metal tubing with a rounded black foam rubber grip handle, and includes a fabric pouch, black strap, and a detachable adjustable magnetic motion light bar. The C4 Pro has two support legs with an adjustable height between 30.3 to 43.2 inches, an adjustable width between 26.4 to 35.8 inches, and an adjustable length between 25.2 and 32.9 inches. The C5 Pro bed support railing has a foldable frame made of black metal tubing with a rounded black foam rubber grip handle, and includes a fabric pouch, black strap, and a detachable adjustable magnetic motion light bar. The bed support railing has a foldable frame made of black metal and black foam padding on the grip handle. The C5 Pro has two support legs with an adjustable height between 29.5 to 42.4 inches, an adjustable width between 26 to 35.8 inches, and a length of 24.4 inches. The C5 Pro 2.0 bed support railing has a foldable frame made of black metal tubing with a rounded black foam rubber grip handle, and includes a fabric pouch, black strap, and a detachable adjustable motion light that is attached by Velcro. The bed support railing has a foldable frame made of black metal and black foam padding on the grip handle. The C5 Pro 2.0 has two support legs with an adjustable height between 30.3 to 40.3 inches, an adjustable width between 28.3 to 34.3 inches, and a length of 25.2 inches.",
+      "title_original": "Nimood Adult Portable Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation Hazards; Violate Mandatory Standard for Adult Portable Bed Rails",
+      "title_zh": "Nimood Adult Portable Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation Hazards; Violate Mandatory Standard for Adult Portable Bed Rails",
+      "updated_at": "2026-06-11"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "d943b751f557f90d",
+      "id": "ac69c7047adc53a5",
+      "model": "10817",
+      "product": "Arctic Zone Titan Pro Coolers",
+      "published_at": "2026-06-11",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/Arctic-Zone-Titan-Pro-Coolers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard-Imported-by-California-Innovations-and-Sold-at-Costco",
+      "summary_zh": "This recall involves Arctic Zone Titan Pro 40 can-capacity, iceless coolers. The rectangular coolers were sold in black and brown and have a built?in bottle opener. The zipperless coolers are collapsible and measure about 15 inches wide, 12 inches deep and 12 inches high when open. The coolers have a hard-top lid with a front latch, a front insulated compartment with a front zippered pocket, two mesh side pockets, a shoulder strap with pad and grab handles. \"Titan Pro by Arctic Zone\" is printed on the front of the coolers and style number 10006348 is on a sewn-in label inside the front zippered pocket.",
+      "title_original": "Arctic Zone Titan Pro Coolers Recalled Due to Risk of Serious Injury or Death from Choking Hazard; Imported by California Innovations and Sold at Costco",
+      "title_zh": "Arctic Zone Titan Pro Coolers Recalled Due to Risk of Serious Injury or Death from Choking Hazard; Imported by California Innovations and Sold at Costco",
+      "updated_at": "2026-06-11"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "ba0523c0c299e76c",
+      "id": "9f0dcf5e9ce149ff",
+      "model": "10813",
+      "product": "Hopelight Adult Portable Bed Rails",
+      "published_at": "2026-06-11",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/Hopelight-Adult-Portable-Bed-Rails-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violates-Mandatory-Standard-for-Adult-Portable-Bed-Rails-Sold-on-Amazon-by-MOCCI-SHOP",
+      "summary_zh": "This recall involves Hopelight adult portable bed rails. The bed rail comes in silver and black, measure 11.5 inches wide by 23.5 inches tall, is made of metal and weighs 4 pounds. It has the model number, F311, printed on the product's packaging.",
+      "title_original": "Hopelight Adult Portable Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violates Mandatory Standard for Adult Portable Bed Rails; Sold on Amazon by MOCCI SHOP",
+      "title_zh": "Hopelight Adult Portable Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violates Mandatory Standard for Adult Portable Bed Rails; Sold on Amazon by MOCCI SHOP",
+      "updated_at": "2026-06-11"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
       "brand": "TC",
       "categories": [
         "Car - SUV"
@@ -574,6 +781,167 @@
       "summary_zh": "Seats And Restraints",
       "title_original": "Transport Canada Recall - 2024084 - FORD",
       "title_zh": "Transport Canada Recall - 2024084 - FORD",
+      "updated_at": "2026-06-11"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "82b8105169c6ff41",
+      "id": "6bf20451b6f14413",
+      "model": "10820",
+      "product": "Model Year 2019-2025 UMAX Bistro and Bistro Deluxe Vehicles",
+      "published_at": "2026-06-11",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/Yamaha-Recalls-UMAX-Bistro-and-Bistro-Deluxe-Vehicles-Due-to-Injury-Hazard",
+      "summary_zh": "This recall involves Model Year 2019-2025 UMAX Bistro and Bistro Deluxe gas and electric vehicles. The gas models are J0G (YUM2A) with serial number 0000104-0601120. The electric models are J5D (YUM2E) with serial number 0000116-0000230. The food and merchandise service vehicles have a four-lid ice chest, sliding snack tray, and a vertical display case (Bistro Deluxe) with slanted shelves for displaying goods. The units were sold in white, green, red, teal, and brown colors. The serial number can be located under the rear cargo area, on the frame of the unit. Yamaha is written on the sides and on the front and back of the vehicle.",
+      "title_original": "Yamaha Recalls UMAX Bistro and Bistro Deluxe Vehicles Due to Injury Hazard",
+      "title_zh": "Yamaha Recalls UMAX Bistro and Bistro Deluxe Vehicles Due to Injury Hazard",
+      "updated_at": "2026-06-11"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "8e01d4ece22524b4",
+      "id": "5a84f4e219a3ff14",
+      "model": "10807",
+      "product": "Kitchen HQ Thermal Insulated Bowls with Detachable Hinged Lids",
+      "published_at": "2026-06-11",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/HSN-Recalls-Kitchen-HQ-Thermal-Insulated-Bowls-Due-to-Fire-Hazard",
+      "summary_zh": "This recall involves certain Kitchen HQ brand thermal insulated bowls with detachable-hinged lids. The bowls, which were sold in a variety of colors, have a metal interior and a plastic exterior with the words “KITCHEN HQ” written across the front. Affected models include the 10-cup bowl (SKN 817800), the pair of 10.5-cup and 2-cup bowls sold as a set (SKN 884907), and the 10.4-cup, 6-cup, and 2-cup bowls sold as a set of three (SKN 900600).",
+      "title_original": "HSN Recalls Kitchen HQ Thermal Insulated Bowls Due to Fire Hazard",
+      "title_zh": "HSN Recalls Kitchen HQ Thermal Insulated Bowls Due to Fire Hazard",
+      "updated_at": "2026-06-11"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "8704cea83612e10c",
+      "id": "4cc886a0509ac6a8",
+      "model": "10809",
+      "product": "Hot + Cool Heating and Cooling Fans",
+      "published_at": "2026-06-11",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/Merkury-Innovations-Recalls-Hot-Cool-Heating-and-Cooling-Fans-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Hazard",
+      "summary_zh": "This recall involves the Merkury Innovations Hot + Cool Heating and Cooling Fan, a portable hot-and-cool bladeless fan and heater with model number MI-DHC02. The model number MI-DHC02 can be found on a white label on the bottom of the product and on the packaging. The fan heater is approximately 13 inches tall, 5 inches wide and 5 inches deep and weighs about 2 pounds.",
+      "title_original": "Merkury Innovations Recalls Hot + Cool Heating and Cooling Fans Due to Risk of Serious Injury or Death from Fire Hazard",
+      "title_zh": "Merkury Innovations Recalls Hot + Cool Heating and Cooling Fans Due to Risk of Serious Injury or Death from Fire Hazard",
+      "updated_at": "2026-06-11"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "bb3587764ec0a8ba",
+      "id": "3343d9cee911db1b",
+      "model": "10818",
+      "product": "Girls' Sleepshirt and Kids' Unisex Jogger Pajama Sets",
+      "published_at": "2026-06-11",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/The-Black-Sheep-Fam-Recalls-Childrens-Pajamas-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard-Violates-Mandatory-Flammability-Standards-for-Childrens-Sleepwear",
+      "summary_zh": "This recall involves The Black Sheep Fam Kids' Unisex Jogger Pajama Sets and Girls' Sleepshirts. The recalled pajamas were sold in various children's sizes, colors and prints. Sizes include 2T, 3T, 4T, XS, SM, M and L. The size and \"Black Sheep Fam Kids\" are printed the neck label of the pajamas. The Girls' Sleepshirts have \"Made in China\" and \"96% polyester 4% spandex\" printed on the sewn-in side seam label. The Kids' Jogger Pajama sets have \"RN# 169608\" \"Made in Guatemala\" and \"95% cotton 5% spandex\" printed on the sewn-in side seam label.",
+      "title_original": "Arctic Zone Titan Pro Coolers Recalled Due to Risk of Serious Injury or Death from Burn Hazard; Violates Mandatory Flammability Standards for Children's Sleepwear",
+      "title_zh": "Arctic Zone Titan Pro Coolers Recalled Due to Risk of Serious Injury or Death from Burn Hazard; Violates Mandatory Flammability Standards for Children's Sleepwear",
+      "updated_at": "2026-06-11"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "80c9ff581e04782a",
+      "id": "1a365803d662e6ff",
+      "model": "10806",
+      "product": "Sloosh Dive Sticks",
+      "published_at": "2026-06-11",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/Joyin-Recalls-Sloosh-Dive-Sticks-Due-to-Risk-of-Serious-Injury-from-Impalement-Violate-Federal-Dive-Sticks-Ban",
+      "summary_zh": "This recall involves Sloosh dive sticks, contained in packages of Sloosh water toys, model 40041. The model number 40041 is printed on the back of the box of Sloosh water toys, next to the bar code and printed on top of one end of the dive stick, along with Joyin's name and tracking information. The Sloosh water toys package contains 30 pieces, including five dive sticks. The recalled dive sticks are made of hard plastic and are cylinder-shaped. Each stick measures approximately 7-inches in length and about 1-inch or less in diameter. They come in various colors and are packaged in a box with other pool diving toys in the Sloosh water toys package. Only the dive sticks with model 40041 contained in the Sloosh water toys sold prior to October 23, 2025, are being recalled. Consumers can continue to use the other items contained in the Sloosh water toys package.",
+      "title_original": "Joyin Recalls Sloosh Dive Sticks Due to Risk of Serious Injury from Impalement; Violate Federal Dive Sticks Ban",
+      "title_zh": "Joyin Recalls Sloosh Dive Sticks Due to Risk of Serious Injury from Impalement; Violate Federal Dive Sticks Ban",
+      "updated_at": "2026-06-11"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "f97d4ed24ac6aaa6",
+      "id": "0f0ab1961cf1fe4f",
+      "model": "10816",
+      "product": "Hasuit 7-Drawer Dressers",
+      "published_at": "2026-06-11",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/7-Drawer-Dressers-Recalled-Du-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units-Sold-on-Amazon-com-by-Hasuit-Direct",
+      "summary_zh": "This recall involves Hasuit 7-Drawer Dressers. The recalled dressers have seven drawers, are made of wood and come in black. They are 27.6 inches wide, 44.5 inches tall, 15.8 inches long and weigh 102 pounds. SKU: AJ-DJ502571_1\" is printed on the products packaging (box).",
+      "title_original": "7-Drawer Dressers Recalled Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units; Sold on Amazon.com by Hasuit Direct",
+      "title_zh": "7-Drawer Dressers Recalled Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units; Sold on Amazon.com by Hasuit Direct",
+      "updated_at": "2026-06-11"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "87f8c1ddde8318ab",
+      "id": "071309b8a738eb14",
+      "model": "10812",
+      "product": "Model Year 2021-2022 Yamaha Drive2 Electric Fleet Golf Cars",
+      "published_at": "2026-06-11",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/Yamaha-Recalls-Model-Year-2021-2022-Fleet-Golf-Cars-Due-to-Risk-of-Serious-Injury-or-Death-from-a-Crash-Hazard",
+      "summary_zh": "This recall involves model year 2021-2022 Yamaha Drive2 Electric Fleet Golf Cars. The golf cars were sold in mica (gold), arctic drift (blue), moonstone (gray), carbon (dark gray), bluestone, garnet (red), emerald (green), sunstone (yellow) and glacier (white). The serial number is located underneath the seat, on the frame of the unit. Yamaha will provide assistance if you can't locate the serial number. MODEL YEAR MODEL NAME 2021 JOJ Drive2 AC-L 2022 JOJ Drive2 AC-L 2022 J5B Drive2 AC-L Li",
+      "title_original": "Yamaha Recalls Model Year 2021-2022 Fleet Golf Cars Due to Risk of Serious Injury or Death from a Crash Hazard",
+      "title_zh": "Yamaha Recalls Model Year 2021-2022 Fleet Golf Cars Due to Risk of Serious Injury or Death from a Crash Hazard",
       "updated_at": "2026-06-11"
     },
     {
@@ -3821,6 +4189,213 @@
     },
     {
       "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "83d58995b84ce8b7",
+      "id": "ffb738d6b0808642",
+      "model": "10805",
+      "product": "SRTH Small Room Tower Heaters",
+      "published_at": "2026-06-04",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/Vornado-Air-Recalls-SRTH-Small-Room-Tower-Heaters-Due-to-Fire-Hazard",
+      "summary_zh": "The recalled Vornado SRTH small room tower heaters were sold in black and white and measure about 12.5 inches high by 6 inches in diameter. The recalled heaters have two heat settings (low and high) and a fan only/no heat setting. The word \"Vornado\" with a \"V\" behind it is printed on the front of the unit. The model \"TYPE SRTH\" is printed on the silver rating label located on the bottom of the product.",
+      "title_original": "Vornado Air Recalls SRTH Small Room Tower Heaters Due to Fire Hazard",
+      "title_zh": "Vornado Air Recalls SRTH Small Room Tower Heaters Due to Fire Hazard",
+      "updated_at": "2026-06-04"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "deca94ef32a740f8",
+      "id": "f797895a7d9c2a4b",
+      "model": "10801",
+      "product": "Gudook Adult Bike Helmets",
+      "published_at": "2026-06-04",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/Bicycle-Helmets-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Head-Injury-Violates-Mandatory-Standard-for-Bicycle-Helmets-Sold-on-Amazon-by-Gudook-Outdoor-Sports",
+      "summary_zh": "This recall involves Gudook-branded bicycle helmets, model KY-055. The helmets were sold in blue with white and in size medium (M), fitting a head circumference of about 21.3 to 22.4 inches. The helmets have red padding, black straps, a black and red buckle and a black fit-adjusting knob at the back. Only helmets with batch number 202503 and manufacture date of March 2025 are included in this recall. \"Gudook\" is printed on the side of the helmet. The model, batch number and manufacture date, in MM/YYYY format, are printed on a label on the inside of the helmet.",
+      "title_original": "Bicycle Helmets Recalled Due to Risk of Serious Injury or Death from Head Injury; Violates Mandatory Standard for Bicycle Helmets; Sold on Amazon by Gudook Outdoor Sports",
+      "title_zh": "Bicycle Helmets Recalled Due to Risk of Serious Injury or Death from Head Injury; Violates Mandatory Standard for Bicycle Helmets; Sold on Amazon by Gudook Outdoor Sports",
+      "updated_at": "2026-06-04"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "8de2c8ab03dee958",
+      "id": "b18e16ff3793046c",
+      "model": "10804",
+      "product": "SUNS SS6291 Solenoid Interlock Switches",
+      "published_at": "2026-06-04",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/SUNS-International-Recalls-Residential-Elevator-Interlock-Switches-Due-to-Fall-and-Crushing-Hazard-Risk-of-Death-or-Serious-Injury",
+      "summary_zh": "This recall involves all SUNS International SS6291 Solenoid Interlock switches used in residential elevators produced from August 20, 2024, through November 6, 2025, with date codes 2431 through 2543. The SUNS SS6291 interlock switch measures approximately 10 inches by 2 inches and weighs about 2-pounds. \"SUNS\", the model number and date code are printed on a label on the side of the product.",
+      "title_original": "SUNS International Recalls Residential Elevator Interlock Switches Due to Fall and Crushing Hazard; Risk of Death or Serious Injury",
+      "title_zh": "SUNS International Recalls Residential Elevator Interlock Switches Due to Fall and Crushing Hazard; Risk of Death or Serious Injury",
+      "updated_at": "2026-06-04"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "04db1d12175b86d4",
+      "id": "aa96d08920cdbb35",
+      "model": "10802",
+      "product": "Broqixin Pool Drain Covers",
+      "published_at": "2026-06-04",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/Pool-Drain-Covers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Drowning-Hazards-Violates-Virginia-Graeme-Baker-Pool-Spa-Safety-Act-Sold-on-Amazon-by-Broqixin",
+      "summary_zh": "This recall involves Broqixin-branded pool drain covers. The white plastic pool drain covers measure about 7.36 inches in diameter and weigh about 3.84 ounces and come with two screws. \"Model 11064W\" is printed on the product's packaging.",
+      "title_original": "Pool Drain Covers Recalled Due to Risk of Serious Injury or Death from Entrapment and Drowning Hazards; Violates Virginia Graeme Baker Pool & Spa Safety Act; Sold on Amazon by Broqixin",
+      "title_zh": "Pool Drain Covers Recalled Due to Risk of Serious Injury or Death from Entrapment and Drowning Hazards; Violates Virginia Graeme Baker Pool & Spa Safety Act; Sold on Amazon by Broqixin",
+      "updated_at": "2026-06-04"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "4464c1af05553dd9",
+      "id": "57d3de081eea8e85",
+      "model": "10803",
+      "product": "Boon NURSH 8 oz Reusable Baby Bottles",
+      "published_at": "2026-06-04",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/TOMY-Recalls-Boon-NURSH-8-oz-Reusable-Baby-Bottles-Due-to-Choking-Hazard-Sold-at-Walmart",
+      "summary_zh": "This recall involves Boon NURSH 8 oz Reusable Baby Bottles 3-Pack in pink tie dye.  The recalled bottles were sold in a package containing three bottles. The bottles have a hard outer plastic shell that encases a soft silicone pouch.  The Boon logo is on the side of the bottle's hard plastic shell. Item number B11654 and the UPC 669028116546 are printed on the bottom of the packaging.",
+      "title_original": "TOMY Recalls Boon NURSH 8 oz Reusable Baby Bottles Due to Choking Hazard; Sold at Walmart",
+      "title_zh": "TOMY Recalls Boon NURSH 8 oz Reusable Baby Bottles Due to Choking Hazard; Sold at Walmart",
+      "updated_at": "2026-06-04"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "0b54cf673c195985",
+      "id": "4571ad673249cb70",
+      "model": "10797",
+      "product": "Wyze Solar Cam Pan Security Cameras",
+      "published_at": "2026-06-04",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/Wyze-Labs-Recalls-Solar-Cam-Pan-Security-Cameras-Due-to-Risk-of-Serious-Injury-from-Fire-and-Burn-Hazards",
+      "summary_zh": "The recalled Wyze Solar Cam Pan are lithium-ion battery operated outdoor security cameras. The products are wire-free, equipped with motorized pan-and-tilt functionality and an integrated solar panel. The model number, WYZESCPWH, is located on the back of the camera. They were sold in white.",
+      "title_original": "Wyze Labs Recalls Solar Cam Pan Security Cameras Due to Risk of Serious Injury from Fire and Burn Hazards",
+      "title_zh": "Wyze Labs Recalls Solar Cam Pan Security Cameras Due to Risk of Serious Injury from Fire and Burn Hazards",
+      "updated_at": "2026-06-04"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "4a6b57f095c4fa96",
+      "id": "323f6661c628fed3",
+      "model": "10800",
+      "product": "Crenlux Pool Drain Covers",
+      "published_at": "2026-06-04",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/Crenlux-Pool-Drain-Covers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Drowning-Hazards-Violates-Virginia-Graeme-Baker-Pool-Spa-Safety-Act-Sold-on-Amazon-by-Eicong",
+      "summary_zh": "This recall involves Crenlux-branded pool drain covers. The white plastic pool drain covers measure about eight inches in diameter and weigh about 12.7 ounces. \"Crenlux\" is printed on the product's packaging.",
+      "title_original": "Crenlux Pool Drain Covers Recalled Due to Risk of Serious Injury or Death from Entrapment and Drowning Hazards; Violates Virginia Graeme Baker Pool & Spa Safety Act; Sold on Amazon by Eicong",
+      "title_zh": "Crenlux Pool Drain Covers Recalled Due to Risk of Serious Injury or Death from Entrapment and Drowning Hazards; Violates Virginia Graeme Baker Pool & Spa Safety Act; Sold on Amazon by Eicong",
+      "updated_at": "2026-06-04"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "ae736833243d0d5c",
+      "id": "0db972185d5f9356",
+      "model": "10799",
+      "product": "Children's Tiny Land Play Tents",
+      "published_at": "2026-06-04",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/Tiny-Land-Childrens-Play-Tents-Recalled-Due-to-Risk-of-Injury-from-Irritation-to-Skin-and-Eyes",
+      "summary_zh": "This recall involves Tiny Land-branded children's play tents. The play tents are made of a cream-colored fabric and have three windows, a closable fabric door, 34 poles, star-shaped lights, and a quilted play mat. When assembled, the tents measure about 57 inches high, 52 inches wide and 36 inches deep. The Tiny Land logo and \"SKU TLTGTT003BG-XYF1506251\" are printed on a label stitched inside of the tent.",
+      "title_original": "Tiny Land Children's Play Tents Recalled Due to Risk of Injury from Irritation to Skin and Eyes",
+      "title_zh": "Tiny Land Children's Play Tents Recalled Due to Risk of Injury from Irritation to Skin and Eyes",
+      "updated_at": "2026-06-04"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "4293034c3669783b",
+      "id": "0985bc4160135cf2",
+      "model": "10798",
+      "product": "Little Grape Land Nursing Pillows",
+      "published_at": "2026-06-04",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/Little-Grape-Land-Recalls-Nursing-Pillows-Due-to-Risk-of-Serious-Injury-or-Death-from-Suffocation-Violate-Mandatory-Standards-for-Nursing-Pillows-and-Infant-Support-Cushions",
+      "summary_zh": "This recall involves Little Grape Land Nursing Pillows. The nursing pillows are U-shaped and come in a rose floral, alligator, bear, butterfly, cactus, construction truck, forest deer, green leaves, little bunny, spring flower and woodland animal patterns. There are no markings or labels on the product.",
+      "title_original": "Little Grape Land Recalls Nursing Pillows Due to Risk of Serious Injury or Death from Suffocation; Violate Mandatory Standards for Nursing Pillows and Infant Support Cushions",
+      "title_zh": "Little Grape Land Recalls Nursing Pillows Due to Risk of Serious Injury or Death from Suffocation; Violate Mandatory Standards for Nursing Pillows and Infant Support Cushions",
+      "updated_at": "2026-06-04"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
       "brand": "Legacy Bakehouse LLC",
       "categories": [
         "未分类"
@@ -4071,6 +4646,236 @@
       "title_original": "Nicotine Transdermal System Patch, 14 mg, 14 patches per box, Aveva, Distributed by: RUGBY LABORATORIES, Indianapolis, IN 46268, www.majorpharmaceuticals.com, NDC 0536-5895-88.",
       "title_zh": "Nicotine Transdermal System Patch, 14 mg, 14 patches per box, Aveva, Distributed by: RUGBY LABORATORIES, Indianapolis, IN 46268, www.majorpharmaceuticals.com, NDC 0536-5895-88.",
       "updated_at": "2026-05-14"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "3a878d9af67fdb08",
+      "id": "e08114a8bf625e23",
+      "model": "10790",
+      "product": "VL2020 Lithium Coin Batteries",
+      "published_at": "2026-05-28",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/Lithium-Coin-Batteries-Recalled-Due-to-Battery-Ingestion-Violates-Federal-Statute-for-Child-Resistant-Packaging-of-Coin-Batteries-Imported-by-Proudly-American-Store-of-Canada",
+      "summary_zh": "This recall involves Panasonic-branded lithium coin batteries. The three-volt silver batteries were sold in clear plastic bags with one or two batteries. The brand name and \"VL2020\" are embossed on the battery. Panasonic is not alleged to have engaged in any wrongdoing.",
+      "title_original": "Lithium Coin Batteries Recalled Due to Battery Ingestion; Violates Federal Statute for Child-Resistant Packaging of Coin Batteries; Imported by Proudly American Store, of Canada",
+      "title_zh": "Lithium Coin Batteries Recalled Due to Battery Ingestion; Violates Federal Statute for Child-Resistant Packaging of Coin Batteries; Imported by Proudly American Store, of Canada",
+      "updated_at": "2026-05-28"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "988a65d7ab0e045c",
+      "id": "d3e0d6c28c050b9b",
+      "model": "10791",
+      "product": "SLF Sauna Blankets",
+      "published_at": "2026-05-28",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/Tzumi-Electronics-Recalls-SLF-Sauna-Blankets-Due-to-Fire-and-Burn-Hazards",
+      "summary_zh": "This recall involves SLF Sauna Blankets, model number 30065TAR with serial number WF2236430065. The sauna blankets were sold in one size, measuring 70 inches long by 31 inches wide. The sauna blankets are black with white accent handles and were sold with a control panel and wireless remote to adjust the time and temperature.",
+      "title_original": "Tzumi Electronics Recalls SLF Sauna Blankets Due to Fire and Burn Hazards",
+      "title_zh": "Tzumi Electronics Recalls SLF Sauna Blankets Due to Fire and Burn Hazards",
+      "updated_at": "2026-05-28"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "Hop Thang Interior Wood Co. Ltd., of Vietnam",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "ba3376a4f98436f4",
+      "id": "ce54c2a6fc35c472",
+      "model": "10796",
+      "product": "Mainstays 9-Drawer Fabric Dressers",
+      "published_at": "2026-05-28",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/Walmart-Recalls-Mainstays-9-Drawer-Fabric-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violates-Mandatory-Standard-for-Clothing-Storage-Units",
+      "summary_zh": "This recall involves Mainstays-branded dressers. The fabric dressers have a black metal frame and nine brown or black fabric drawers with handles. The dressers measure about 40 inches long, 13.75 inches wide and 45 inches tall and weigh 32 pounds and were manufactured from September 2023 through December 2025. The Tracking/Lot and the manufacture date in MM/YYYY format are printed on a label under the dresser's top panel of the dresser. \"Mainstays 9-Drawer Fabric Dresser\" is printed on the product order receipt and packaging.",
+      "title_original": "Walmart Recalls Mainstays 9-Drawer Fabric Dressers Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violates Mandatory Standard for Clothing Storage Units",
+      "title_zh": "Walmart Recalls Mainstays 9-Drawer Fabric Dressers Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violates Mandatory Standard for Clothing Storage Units",
+      "updated_at": "2026-05-28"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "7f8f6e5b2999c04d",
+      "id": "bfdce81d560bc9e2",
+      "model": "10794",
+      "product": "Misco Sports Light-Up Racket Sets, model MT2287",
+      "published_at": "2026-05-28",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/Missry-Associates-Recalls-Misco-Sports-Light-Up-Racket-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys",
+      "summary_zh": "This recall involves the Misco Sports Light-Up Racket Set, model MT2287. The set includes two black rackets, one ball and one shuttlecock. \"MT2287\" and \"100125\" are printed on the racket handle in white letters.",
+      "title_original": "Missry Associates Recalls Misco Sports Light-Up Racket Sets Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Toys",
+      "title_zh": "Missry Associates Recalls Misco Sports Light-Up Racket Sets Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Toys",
+      "updated_at": "2026-05-28"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "Shenzhenshibangduoladianzikejimaoyi Co., Ltd (Shenzhen Bangduola Electronic Technology Trade Co., Ltd.), doing business as Anzmtosn, of China",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "44f3eaea31b74a60",
+      "id": "b2993734220962c1",
+      "model": "10795",
+      "product": "Anzmtosn Luminous Fidget Spinner Balls",
+      "published_at": "2026-05-28",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/Luminous-Fidget-Spinner-Balls-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violates-Mandatory-Standard-for-Toys-Sold-on-Amazon-by-Anzmtosn",
+      "summary_zh": "This recall involves Anzmtosn's Luminous Fidget Spinner Balls, Model FS0862. The model number is located on the back of the packaging. The metal Luminous Fidget Spinner Balls are blue and silver and have a green dot in the center. They were sold with a mini flashlight designed to create a glowing effect while the ball is spinning. The mini flashlights have two removable button cell batteries.",
+      "title_original": "Luminous Fidget Spinner Balls Recalled Due to Risk of Serious Injury or Death from Battery Ingestion; Violates Mandatory Standard for Toys; Sold on Amazon by Anzmtosn",
+      "title_zh": "Luminous Fidget Spinner Balls Recalled Due to Risk of Serious Injury or Death from Battery Ingestion; Violates Mandatory Standard for Toys; Sold on Amazon by Anzmtosn",
+      "updated_at": "2026-05-28"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "17209a21a36c77df",
+      "id": "9ee43cdda51932e5",
+      "model": "10787",
+      "product": "Giantex and Costway 2-liter and 3-liter Portable Steam Saunas",
+      "published_at": "2026-05-28",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/Giantex-Recalls-Giantex-and-Costway-Portable-Steam-Saunas-Due-to-Burn-Hazard",
+      "summary_zh": "This recall involves Giantex and Costway branded portable steam saunas. The saunas were sold as part of a set that includes a folding chair, foot roller, felt mat and remote control. The portable saunas have a steam unit that connects to an enclosure via tubing. The enclosure has an opening for the user's head to remain outside the enclosure. The enclosures were sold in black, copper, beige, blue, green and pink. The name \"Giantex\" or \"Costway\" is imprinted on the front of the enclosure. The model numbers and/or SKU are printed on the item packaging. The model numbers and SKUs are: Model Number SKU BA7635US-BK GT7635US-BABK BA7635US-CF GT7635US-BACF BA7635US-GR GT7635US-GR-BA BA7635US-NY GT7635US-BANY BA7733US-BK GT7733US-BK-AB BA7733US-CF GT7733US-CF-AB BA7733US-GR GT7733US-GR-AB BA7733US-PI GT7733US-PI-AB BA7579US-BK GT7579US-BK-BA BA7579US-CF GT7579US-CF-BA BA7579US-GR GT7579US-GR-BA",
+      "title_original": "Giantex Recalls Giantex and Costway Portable Steam Saunas Due to Burn Hazard",
+      "title_zh": "Giantex Recalls Giantex and Costway Portable Steam Saunas Due to Burn Hazard",
+      "updated_at": "2026-05-28"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "Zhejiang Mingrui Furniture Co. Ltd. aka Joy Furniture",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "a48eb72e71519dce",
+      "id": "6dc93695e53564a0",
+      "model": "10793",
+      "product": "Talan and Royce Collection Sofas, Loveseats and Recliners",
+      "published_at": "2026-05-28",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/Joy-Furniture-Recalls-Talan-and-Royce-Living-Room-Furniture-Sets-Due-to-Risk-of-Serious-Injury-from-a-Fire-Hazard",
+      "summary_zh": "This recall involves the Talan powered group living room furniture set consisting of a sofa (model JF1126-4PHL), loveseat (model JF1126-5PHL) and recliner (model JF1126-9PHL) and the Royce group consisting of a sofa (model JF1155-4PHL), loveseat (model JF1155-5PHL) and recliner (model JF1155-9PHL). The sets come with a power headrest and lumbar, pillowed arms, ultra-padded seating and USB and wireless charging. The Talan set comes in a medium-gray color. The Royce set comes in a brown color.",
+      "title_original": "Joy Furniture Recalls Talan and Royce Living Room Furniture Sets Due to Risk of Serious Injury from a Fire Hazard",
+      "title_zh": "Joy Furniture Recalls Talan and Royce Living Room Furniture Sets Due to Risk of Serious Injury from a Fire Hazard",
+      "updated_at": "2026-05-28"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "c54bef04c3b29bc8",
+      "id": "6d5aa059f902763a",
+      "model": "10788",
+      "product": "MiniWarGaming and Primal Horizon Disc Magnets",
+      "published_at": "2026-05-28",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/MiniWarGaming-and-Primal-Horizon-Disc-Magnets-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Ingestion-Violate-Mandatory-Standard-for-Magnets-Imported-by-MiniWarGaming",
+      "summary_zh": "This recall involves MiniWarGaming and Primal Horizon Disc Magnets with the product codes listed in the chart below. The disc magnets are silver and measure between 1/16\" to ½\" wide by 1/32\" to 3/32\" high. The Primal Horizon disc magnets were sold in clamshells and have the size and quantity printed on the front of the package and the product code printed on the back of the package. Brand SKU# Size Packaging MiniWarGaming MWGMAG_116_132 1/16\" x 1/32\" Plastic Bag or Clamshell MiniWarGaming MWGMAG_12_116 ½\" x 1/16\" Plastic Bag or Clamshell MiniWarGaming MWGMAG_14_116 ¼\" x 1/16\" Plastic Bag or Clamshell MiniWarGaming MWGMAG_18_116 1/8\" x 1/16\" Plastic Bag or Clamshell MiniWarGaming MWGMAG_316_116 3/16\" x 1/16\" Plastic Bag or Clamshell MiniWarGaming MWGMAG_332_116 3/32\" x 1/16\" Plastic Bag or Clamshell MiniWarGaming MWGMAG_38_116 3/8\" x 1/16\" Plastic Bag or Clamshell MiniWarGaming MWGMAG_316_332 3/16\" x 3/32\" Plastic Bag or Clamshell MiniWarGaming MWGMAG_14_332 ¼\" x 3/32\" Plastic Bag or Clamshell MiniWarGaming MWGMAG_38_332 3/8\" x 3/32\" Plastic Bag or Clamshell MiniWarGaming MWGMAG_MEGA Various Sizes Plastic Bag or Clamshell Primal Horizon PH10001 1/16\" x 1/32\" Clamshell Primal Horizon PH10002 3/32\" x 1/16\" Clamshell Primal Horizon PH10003 1/8\" x 1/16\" Clamshell Primal Horizon PH10004 3/16\" x 1/16\" Clamshell Primal Horizon PH10005 ¼\" x 1/16\" Clamshell Primal Horizon PH10006 3/8\" x 1/16\" Clamshell Primal Horizon PH10007 Various Sizes Clamshell Primal Horizon PH10008 ½\" x 1/16\" Clamshell Primal Horizon PH10009 3/16\" x 3/32\" Clamshell Primal Horizon PH10010 ¼\" x 3/32\" Clamshell Primal Horizon PH10011 3/8\" x 3/32\" Clamshell Primal Horizon PH10201 1/16\" x 1/32\" Clamshell Primal Horizon PH10202 3/32\" x 1/16\" Clamshell Primal Horizon PH10203 1/8\" x 1/16\" Clamshell Primal Horizon PH10204 3/16\" x 1/16\" Clamshell Primal Horizon PH10210 Various Sizes Clamshell Primal Horizon PH10301 Various Sizes Clamshell",
+      "title_original": "MiniWarGaming and Primal Horizon Disc Magnets Recalled Due to Risk of Serious Injury or Death from Ingestion; Violate Mandatory Standard for Magnets; Imported by MiniWarGaming",
+      "title_zh": "MiniWarGaming and Primal Horizon Disc Magnets Recalled Due to Risk of Serious Injury or Death from Ingestion; Violate Mandatory Standard for Magnets; Imported by MiniWarGaming",
+      "updated_at": "2026-05-28"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "7ab3e1487252a2e6",
+      "id": "4f4e26dfb468c238",
+      "model": "10789",
+      "product": "Zen Fidget Magnetic Ball Sets",
+      "published_at": "2026-05-28",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/Daoen-Recalls-Zen-Magnetic-Promotional-Ball-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Magnet-Ingestion-Violate-Mandatory-Standard-for-Toys",
+      "summary_zh": "This recall involves Zen-branded magnetic balls. The fidget toy sets consist of four textured, silicone silver, light brown, tan and bronze magnetic balls. Each ball measures about 1.24 inches in diameter. The ball sets come in a round, zippered case with or without a white Gordon Sinclair logo printed on them.",
+      "title_original": "Daoen Recalls Zen Magnetic Promotional Ball Sets Due to Risk of Serious Injury or Death from Magnet Ingestion; Violate Mandatory Standard for Toys",
+      "title_zh": "Daoen Recalls Zen Magnetic Promotional Ball Sets Due to Risk of Serious Injury or Death from Magnet Ingestion; Violate Mandatory Standard for Toys",
+      "updated_at": "2026-05-28"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "3d7f1b6a86a9a572",
+      "id": "10065fa2924730b1",
+      "model": "10792",
+      "product": "Giantex outdoor lounge chairs",
+      "published_at": "2026-05-28",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/Giantex-Recalls-Lounge-Chairs-Due-to-Amputation-Hazard",
+      "summary_zh": "This recall involves Giantex outdoor lounge chairs with model number NP10025NY. The recalled lounge chairs are blue and measure 76-inches long, by 23-inches wide, by 13-inches high. They have a five-position adjustable locking system and the backrest height can be adjusted from 13.5 inches to 26.5 inches. Model number NP10025NY is printed on the front and side of the product packaging.",
+      "title_original": "Giantex Recalls Lounge Chairs Due to Amputation Hazard",
+      "title_zh": "Giantex Recalls Lounge Chairs Due to Amputation Hazard",
+      "updated_at": "2026-05-28"
     },
     {
       "action": "查看召回公告并按官方指引处理。",
@@ -4580,6 +5385,167 @@
     },
     {
       "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "b9fbd1a3ad916d5c",
+      "id": "efa2a5a29e42e721",
+      "model": "10781",
+      "product": "HomeProGym Resistance Bands",
+      "published_at": "2026-05-21",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/Resistance-Bands-Recalled-Due-to-Serious-Injury-from-Impact-Hazard-Imported-by-HomeProGym",
+      "summary_zh": "This recall involves HomeProGym-branded resistance bands. The latex, stackable bands have a silver metal D?ring at each end, attached to a black strap and were sold as part of the following sets and bundles: Add-on Stackable Resistance Bands - 130lbs (60kg), Stackable Resistance Bands Set Ultra 7 Bands, Stackable Resistance Bands Set Mega 9 Bands, PowerTube Stackable 450lbs Band Set + Bar & Ultra Door Anchor, Ultimate Bundle and Mega Bundle. Only the purple 60-pound resistance and the gray 70-pound resistance bands are included in this recall. The weight resistance, \"HOME PRO GYM\" and \"ULTRA\" or \"ULTRA PLUS\" are printed on the bands' strap.",
+      "title_original": "Resistance Bands Recalled Due to Serious Injury from Impact Hazard; Imported by HomeProGym",
+      "title_zh": "Resistance Bands Recalled Due to Serious Injury from Impact Hazard; Imported by HomeProGym",
+      "updated_at": "2026-05-21"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "b6a66d2c213f7127",
+      "id": "e328ec50cbb9d1de",
+      "model": "10784",
+      "product": "Portable Hook-On Chairs",
+      "published_at": "2026-05-21",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/PandaEar-Recalls-Portable-Hook-On-Chairs-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-Hazard-Violates-Mandatory-Standard-for-Portable-Hook-On-Chairs",
+      "summary_zh": "This recall involves two models of PandaEar portable hook-on chairs. The chairs are used to seat young children at the dining table. The chairs contain a black or gray metal frame covered with black, gray, or blue (dinosaur theme) polyester and cotton material and an attached restraint in the occupant seating area. There are two metal arms with plastic covers on top that anchor to a dining table, and the child is suspended from the table. \"Panda Ear\" can be found on a label stitched to the side of the fabric seats. \"Model C2102\" can be found on a label located on the bottom of the fabric seats. There are no markings on the product for model BTC-51.",
+      "title_original": "PandaEar Recalls Portable Hook-On Chairs Due to Risk of Serious Injury or Death from Fall Hazard; Violates Mandatory Standard for Portable Hook-On Chairs",
+      "title_zh": "PandaEar Recalls Portable Hook-On Chairs Due to Risk of Serious Injury or Death from Fall Hazard; Violates Mandatory Standard for Portable Hook-On Chairs",
+      "updated_at": "2026-05-21"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "29ed6811d0670f18",
+      "id": "e30fd4e3b0443dc3",
+      "model": "10780",
+      "product": "Toy Headbands, Electronic Pet Cage-Dinosaur Tribes, My Pet Bird Cute Bird Tribes",
+      "published_at": "2026-05-21",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/ABC-Trading-Recalls-Childrens-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violates-Mandatory-Standard-for-Toys",
+      "summary_zh": "This recall involves toy headbands and electronic pet cages. The toy headband, model 6300RP, is plastic and has a small push button on top of the bow to activate the lights in the bow. The bow is pink with white polka dots. The dinosaur toy, model 8266 (ZH998-22), is a silver plastic cage with a blue bottom, and contains a red dinosaur and a yellow egg inside the cage. The bird toy, model ZH998-23, is a plastic cage with a pink top and bottom and contains a blue bird inside the cage.",
+      "title_original": "ABC Trading Recalls Children's Toys Due to Risk of Serious Injury or Death from Battery Ingestion; Violates Mandatory Standard for Toys",
+      "title_zh": "ABC Trading Recalls Children's Toys Due to Risk of Serious Injury or Death from Battery Ingestion; Violates Mandatory Standard for Toys",
+      "updated_at": "2026-05-21"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "e39799e305c3c00c",
+      "id": "bde47805b835538c",
+      "model": "10783",
+      "product": "Sierra 125U Youth All-Terrain Vehicles (ATVs)",
+      "published_at": "2026-05-21",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/Lil-Pick-Up-Recalls-Youth-All-Terrain-Vehicles-ATVs-Due-to-Risk-of-Serious-Injury-or-Death-from-Crash-and-Burn-Hazards-Violates-Mandatory-Standard-for-ATVs",
+      "summary_zh": "This recall involves the Sierra 125U Youth ATVs sold under various brand names including \"Rider 9\". The model's name \"Sierra 125U\" is located on the VIN plate on the front frame column. The ATVs have a plate on the left front side of the frame column, stating \"This ATV is subject to LIL PICK UP INC's Action Plan approved by the U.S. Consumer Products Safety Commission.\" The ATVs were sold in red, blue, black, pink, gray, spider red and spider blue.",
+      "title_original": "Lil Pick Up Recalls Youth All-Terrain Vehicles (ATVs) Due to Risk of Serious Injury or Death from Crash and Burn Hazards; Violates Mandatory Standard for ATVs",
+      "title_zh": "Lil Pick Up Recalls Youth All-Terrain Vehicles (ATVs) Due to Risk of Serious Injury or Death from Crash and Burn Hazards; Violates Mandatory Standard for ATVs",
+      "updated_at": "2026-05-21"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "df01fef1d895d6f3",
+      "id": "b9a3d6b8f97115f7",
+      "model": "10785",
+      "product": "WSDZ Light-up Shot Glasses",
+      "published_at": "2026-05-21",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/ABC-Trading-Recalls-WSDZ-Light-up-Glasses-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Consumer-Products-with-Button-Cell-Batteries",
+      "summary_zh": "This recall involves WSDZ-branded LED shot glasses. The recalled plastic glasses are clear and have three button cell batteries in a compartment that power LED lights when the push button on the underside of the glass is pushed. The glasses were sold individually and in packs of 24 glasses. \"ITEM NO: LP-024 (122)\" and \"Importer: ABC Trading, Inc\" are printed on a label on the underside of the glasses.",
+      "title_original": "ABC Trading Recalls WSDZ Light-up Glasses Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Consumer Products with Button Cell Batteries",
+      "title_zh": "ABC Trading Recalls WSDZ Light-up Glasses Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Consumer Products with Button Cell Batteries",
+      "updated_at": "2026-05-21"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "67f860a526027622",
+      "id": "a2f9b07e3a57aeb6",
+      "model": "10782",
+      "product": "Orb Funkee Squeeze Toys",
+      "published_at": "2026-05-21",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/Orb-Funkee-Squeeze-Toys-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Asbestos-Exposure-Imported-by-The-Orb-Factory",
+      "summary_zh": "This recall involves two models of Orb Funkee squeeze toys with the date code 3102491A. The products are made of a soft, stretchable material and filled with sand. Model 17451 is a large golden monkey (stylized \"monkee\"), and model 41929 is an assortment of small \"monkees\" in various colors, including orange, purple and green. The date code can be found on the hand of the golden monkee or the back of the smaller monkees.",
+      "title_original": "Orb Funkee Squeeze Toys Recalled Due to Risk of Serious Injury or Death from Asbestos Exposure; Imported by The Orb Factory",
+      "title_zh": "Orb Funkee Squeeze Toys Recalled Due to Risk of Serious Injury or Death from Asbestos Exposure; Imported by The Orb Factory",
+      "updated_at": "2026-05-21"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "Bethlehem Lights LLC, of Naperville, Illinois",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "2028017633cb8164",
+      "id": "6fdf64c97c84f9ba",
+      "model": "10786",
+      "product": "Bethlehem Lights 10-inch Illuminated Ribbon Spheres",
+      "published_at": "2026-05-21",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/Bethlehem-Lights-Recalls-Bethlehem-Lights-10-inch-Illuminated-Ribbon-Spheres-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Hazard-Sold-by-QVC",
+      "summary_zh": "The recalled Bethlehem Lights 10-inch Illuminated Ribbon Sphere is a spherical ornament made of reflective, silver-toned material with a spiral faceted design. The sphere is illuminated from within by numerous small warm-white LED lights. The product has a 10-inch diameter.",
+      "title_original": "Bethlehem Lights Recalls Bethlehem Lights 10-inch Illuminated Ribbon Spheres Due to Risk of Serious Injury or Death from Fire Hazard; Sold by QVC",
+      "title_zh": "Bethlehem Lights Recalls Bethlehem Lights 10-inch Illuminated Ribbon Spheres Due to Risk of Serious Injury or Death from Fire Hazard; Sold by QVC",
+      "updated_at": "2026-05-21"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
       "brand": "Oasis Medical, Inc.",
       "categories": [
         "未分类"
@@ -4646,6 +5612,190 @@
       "title_original": "Buprenorphine Hydrochloride, Injection, 0.3mg/mL, 5x1 mL Single Dose Vials, Rx only, Manufactured for: Endo USA, Malvern, PA 19855, NDC 42023-179-05.",
       "title_zh": "Buprenorphine Hydrochloride, Injection, 0.3mg/mL, 5x1 mL Single Dose Vials, Rx only, Manufactured for: Endo USA, Malvern, PA 19855, NDC 42023-179-05.",
       "updated_at": "2026-03-13"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "3707975f93e3ef75",
+      "id": "d19132e632d1dad0",
+      "model": "10773",
+      "product": "Amazon Basics 55 Lbs. Adjustable Dumbbells",
+      "published_at": "2026-05-14",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/Amazon-Recalls-Amazon-Basics-55-Lbs-Adjustable-Dumbbells-Due-to-Impact-Hazard",
+      "summary_zh": "This recall involves the Amazon Basics 55 Lbs. Adjustable Dumbbells. The dumbbells were sold in pairs and single units in the color black and include handles, weight plates and a molded plastic tray. The dumbbells adjust from 5 to 55 pounds using manual adjustment knobs while the weights are nested in the base. The manufacturing lot code C250306VJAW5 is printed on the outer cardboard packaging box.",
+      "title_original": "Amazon Recalls Amazon Basics 55 Lbs. Adjustable Dumbbells Due to Impact Hazard",
+      "title_zh": "Amazon Recalls Amazon Basics 55 Lbs. Adjustable Dumbbells Due to Impact Hazard",
+      "updated_at": "2026-05-14"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "03ca7ba84654c8e0",
+      "id": "bb5d05585722049e",
+      "model": "10777",
+      "product": "Guidecraft Kitchen Helper Towers",
+      "published_at": "2026-05-14",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/Guidecraft-Childrens-Standing-Towers-Recalled-Due-to-Risk-of-Serious-Injury-from-Fall-Hazard",
+      "summary_zh": "This recall involves Classic and Contemporary Guidecraft Kitchen Helper Towers in nine colors sold from June 1, 2022, through October 31, 2023. Recalled towers have both an item number and lot number shown on the lists provided and were purchased from June 1, 2002, through October 31, 2023.  This information can be found on the foil sticker at the bottom of each tower's platform.",
+      "title_original": "Guidecraft Children's Standing Towers Recalled Due to Risk of Serious Injury from Fall Hazard",
+      "title_zh": "Guidecraft Children's Standing Towers Recalled Due to Risk of Serious Injury from Fall Hazard",
+      "updated_at": "2026-05-14"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "5a2a7bba79507f00",
+      "id": "856dc6a0204acfaa",
+      "model": "10770",
+      "product": "Misco Sports Badminton Toy Sets Red/Blue MT2383",
+      "published_at": "2026-05-14",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/Missry-Associates-Recalls-Misco-Sports-Badminton-Toy-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violates-Mandatory-Standard-for-Toys",
+      "summary_zh": "This recall involves Misco Sports Badminton Toy Sets (MT2383). The badminton toy sets come in blue and red and with a light up shuttlecock. The Badminton Toy Sets (MT2383) have \"MT2383\" and \"100125\" printed on products located on black handles in white color letters.",
+      "title_original": "Missry Associates Recalls Misco Sports Badminton Toy Sets Due to Risk of Serious Injury or Death from Battery Ingestion; Violates Mandatory Standard for Toys",
+      "title_zh": "Missry Associates Recalls Misco Sports Badminton Toy Sets Due to Risk of Serious Injury or Death from Battery Ingestion; Violates Mandatory Standard for Toys",
+      "updated_at": "2026-05-14"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "afa6baa93b98f358",
+      "id": "7380e82eaebbd48e",
+      "model": "10778",
+      "product": "Cosyland Children's Tower Stools",
+      "published_at": "2026-05-14",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/Cosyland-Childrens-Tower-Stools-Recalled-Due-to-Risk-of-Serious-Injury-and-Death-from-Entrapment-and-Fall-Hazards-Imported-by-Cosyland-Official",
+      "summary_zh": "This recall involves Cosyland-branded children's tower stools, models CS0003 and CS0092-4. The tower stools were sold in natural bamboo and gray, and measure about 16 inches deep by 18 inches wide and 35 inches tall. \"COSYLAND\" and warning labels are visible along the top rails.",
+      "title_original": "Cosyland Children's Tower Stools Recalled Due to Risk of Serious Injury and Death from Entrapment and Fall Hazards; Imported by Cosyland Official",
+      "title_zh": "Cosyland Children's Tower Stools Recalled Due to Risk of Serious Injury and Death from Entrapment and Fall Hazards; Imported by Cosyland Official",
+      "updated_at": "2026-05-14"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "08efd2717b7bae0b",
+      "id": "6279c178e8b86112",
+      "model": "10766",
+      "product": "Minka Bardon Series Pendant Light Fixtures",
+      "published_at": "2026-05-14",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https:/www.cpsc.gov/Recalls/2026/Minka-Lighting-Group-Recalls-Bardon-Series-Pendant-Light-Fixtures-Due-to-Risk-of-Serious-Injury-or-Death-from-an-Impact-Hazard",
+      "summary_zh": "This recall involves three models of the Minka Bardon Series Pendant Light Fixtures. Models include the 8-Light Pendant (model number N1847-776), the 12-Light Pendant (model number N1848-776) and the 5-Light Island (model number N1849-776). The model number is printed on the ceiling plate of the light fixture. For installed fixtures, consumers should identify the fixture based on the photographs below. The fixtures include either one downrod (8-Light and 12-Light Pendants) or two downrods (5-Light Island) to attach the fixture to the ceiling. Each of the fixtures has a polished brass finish with slatted frosted glass shades. Please note that the 4-Light Semi Flush fixture (model number N1844-776) does not utilize a downrod and is not affected by this recall.",
+      "title_original": "Minka Lighting Group Recalls Bardon Series Pendant Light Fixtures Due to Risk of Serious Injury or Death from an Impact Hazard",
+      "title_zh": "Minka Lighting Group Recalls Bardon Series Pendant Light Fixtures Due to Risk of Serious Injury or Death from an Impact Hazard",
+      "updated_at": "2026-05-14"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "Generac Power Systems Inc., of Waukesha, Wisconsin",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "908d1ab305f7b500",
+      "id": "54921a35a8f86a06",
+      "model": "10779",
+      "product": "Electric Start Pressure Washers",
+      "published_at": "2026-05-14",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/Generac-Power-Systems-Expands-Recall-of-Generac-and-DR-Power-Electric-Start-Pressure-Washers-Due-to-Risk-of-Serious-Injury-or-Death-from-Carbon-Monoxide-Hazard-Includes-Additional-Models",
+      "summary_zh": "This recall involves certain Generac brand electric start pressure washers with model number G0089111, G0088941, G0088951 and DR Power brand electric start pressure washer with model number DPW3109DEN. The pressure washers have an electric start/stop button for the unit's gasoline-powered engines, as well as a rechargeable battery used to power the button. Model and serial numbers are printed on a label located on the product's frame. Consumers can check specific unit type, model number and serial number location information at https://www.generac.com/support/product-info-user-manuals by clicking on \"Pressure Washers\" at the bottom of the page.",
+      "title_original": "Generac Power Systems Expands Recall of Generac and DR Power Electric Start Pressure Washers Due to Risk of Serious Injury or Death from Carbon Monoxide Hazard; Includes Additional Models",
+      "title_zh": "Generac Power Systems Expands Recall of Generac and DR Power Electric Start Pressure Washers Due to Risk of Serious Injury or Death from Carbon Monoxide Hazard; Includes Additional Models",
+      "updated_at": "2026-05-14"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "Guangzhou Lichengbei Battery Technology Co., Ltd., dba LiCB, of China",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "75e7cfd29ee3a39a",
+      "id": "3950301b0126287c",
+      "model": "10771",
+      "product": "LiCB CR2032 3V Lithium Coin Batteries",
+      "published_at": "2026-05-14",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/Lithium-Coin-Batteries-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violates-Federal-Statute-for-Child-Resistant-Packaging-of-Coin-Batteries-Imported-and-Sold-on-Amazon-by-LiCB",
+      "summary_zh": "This recall involves LiCB-branded lithium coin batteries. The three-volt silver batteries were sold in packs of two, each with five batteries. The brand name and \"CR2032\" are embossed on the battery and printed on the product packaging.",
+      "title_original": "Lithium Coin Batteries Recalled Due?to Risk of Serious Injury or Death from Battery Ingestion; Violates Federal Statute for Child-Resistant Packaging of Coin Batteries; Imported and Sold on Amazon by LiCB",
+      "title_zh": "Lithium Coin Batteries Recalled Due?to Risk of Serious Injury or Death from Battery Ingestion; Violates Federal Statute for Child-Resistant Packaging of Coin Batteries; Imported and Sold on Amazon by LiCB",
+      "updated_at": "2026-05-14"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "未分类"
+      ],
+      "dedupe_key": "6f4f0e060bd7de66",
+      "id": "0a2f9eb6d441e259",
+      "model": "10769",
+      "product": "Can-Am Outlander Pro and Max Pro All-Terrain Vehicles",
+      "published_at": "2026-05-14",
+      "region": "US",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "CPSC",
+      "source_url": "https://www.cpsc.gov/Recalls/2026/BRP-Recalls-Can-Am-All-Terrain-Vehicles-ATVs-Due-to-Risk-of-Serious-Injury-and-Death-from-Crash-Hazard",
+      "summary_zh": "This recall involves model years 25 and 26 Can-Am Outlander 500 or 700 Pro and Max Pro ATVs equipped with Speed Limiter Mode and model years 23 and 24 Can-Am Outlander Pro and Max Pro ATVs equipped with Speed Limiter Mode that received an Engine Control Module (ECM) software update at a dealership on or after February 3, 2026. The ATVs were sold in Tan, Green, Camo and Gray. The model year (MY) can be identified by the 10th character of the vehicle's 17-digit Vehicle Identification Number (VIN). P = 2023, R = 2024, S = 2025, T = 2026. The VIN label is located on the front right side of the vehicle, on the frame. The stamped VIN is located on the front member on the right side of the vehicle. The model name \"OUTLANDER PRO\" is displayed on the vehicle's front side and the 'Can?Am' branding is located on the left rear fender near the tail section.",
+      "title_original": "BRP Recalls Can-Am All-Terrain Vehicles (ATVs) Due to Risk of Serious Injury and Death from Crash Hazard",
+      "title_zh": "BRP Recalls Can-Am All-Terrain Vehicles (ATVs) Due to Risk of Serious Injury and Death from Crash Hazard",
+      "updated_at": "2026-05-14"
     },
     {
       "action": "查看召回公告并按官方指引处理。",
@@ -5796,6 +6946,29 @@
       "title_original": "NISSAN DIESEL AMERICA, INC UD UD3300 2007 SERVICE BRAKES, AIR:SUPPLY:QUICK RELEASE VALVE recall 10V005000",
       "title_zh": "NISSAN DIESEL AMERICA, INC UD UD3300 2007 SERVICE BRAKES, AIR:SUPPLY:QUICK RELEASE VALVE recall 10V005000",
       "updated_at": "2010-01-01"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车交通"
+      ],
+      "dedupe_key": "e7993b64417a2915",
+      "id": "3d6f108f65f7b899",
+      "model": "",
+      "product": "",
+      "published_at": "",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "",
+      "summary_zh": "缺陷汽车产品召回查询",
+      "title_original": "缺陷汽车产品召回查询",
+      "title_zh": "缺陷汽车产品召回查询",
+      "updated_at": ""
     }
   ]
 }
