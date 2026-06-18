@@ -7,9 +7,13 @@ import os
 
 from recall_monitor.classifier import classify_record_text
 from recall_monitor.fetchers.base import utc_now_iso
+from recall_monitor.fetchers.canada import CanadaFetcher
+from recall_monitor.fetchers.china import ChinaFetcher
 from recall_monitor.fetchers.cpsc import CpscFetcher
+from recall_monitor.fetchers.eu import EuSafetyGateFetcher
 from recall_monitor.fetchers.fda import FdaFetcher
 from recall_monitor.fetchers.nhtsa import NhtsaFetcher
+from recall_monitor.fetchers.oecd import OecdFetcher
 from recall_monitor.fetchers.sample import SampleFetcher
 from recall_monitor.fetchers.usda import UsdaFetcher
 from recall_monitor.model import SourceStatus, dumps_json
@@ -28,6 +32,10 @@ def default_fetchers(offline_sample=False):
         CpscFetcher(),
         NhtsaFetcher(),
         UsdaFetcher(),
+        CanadaFetcher(),
+        ChinaFetcher(),
+        EuSafetyGateFetcher(),
+        OecdFetcher(),
         SampleFetcher(),
     ]
 
@@ -57,14 +65,15 @@ def build_data(fetchers, output_dir=DEFAULT_OUTPUT_DIR):
 
         source_records = [_classified_record(record) for record in result.records]
         records.extend(source_records)
-        statuses.append(
-            SourceStatus(
+        status = getattr(result, "status", None)
+        if status is None:
+            status = SourceStatus(
                 source=result.source,
                 ok=True,
                 fetched_at=fetched_at,
                 count=len(source_records),
             )
-        )
+        statuses.append(status)
 
     records.sort(key=lambda record: (record.published_at, record.id), reverse=True)
 

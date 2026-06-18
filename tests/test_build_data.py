@@ -1,8 +1,11 @@
+# -*- coding: utf-8 -*-
+from __future__ import unicode_literals
+
 import json
-from pathlib import Path
+import os
 import sys
 
-sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from recall_monitor.build_data import build_data, default_fetchers
 from recall_monitor.fetchers.base import FetchResult
@@ -97,7 +100,7 @@ def test_build_data_isolates_fetcher_exceptions(tmp_path):
     assert status["sources"][1]["ok"] is True
 
 
-def test_default_fetchers_include_us_sources_and_offline_sample_only():
+def test_default_fetchers_include_us_and_global_sources_and_offline_sample_only():
     online_names = [fetcher.name for fetcher in default_fetchers(offline_sample=False)]
     offline_names = [fetcher.name for fetcher in default_fetchers(offline_sample=True)]
 
@@ -108,6 +111,10 @@ def test_default_fetchers_include_us_sources_and_offline_sample_only():
         "CPSC",
         "NHTSA",
         "USDA FSIS",
+        "Canada Recalls",
+        "China SAMR",
+        "EU Safety Gate",
+        "OECD GlobalRecalls",
         "sample",
     ]
     assert offline_names == ["sample"]
