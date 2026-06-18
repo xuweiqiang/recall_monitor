@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T08:04:53Z",
+  "generated_at": "2026-06-18T08:53:24Z",
   "records": [
     {
       "action": "立即停止给儿童使用，并按官方召回指引处理。",
@@ -23,190 +23,6 @@
       "title_original": "Infant toy recalled for choking risk",
       "title_zh": "婴儿玩具因小零件脱落风险召回",
       "updated_at": "2026-06-18"
-    },
-    {
-      "action": "Verify if your product is affected.Consult your healthcare provider prior to discontinuing use of the affected product(s), or for any health concerns.Contact the recalling firm if you have any questions about the recall.Report any health product&nbsp;related&nbsp;side effects&nbsp;to Health Canada.Report any other health product safety&nbsp;complaints&nbsp;to&nbsp;Health Canada.",
-      "brand": "Drugs and health products",
-      "categories": [
-        "Veterinary drugs"
-      ],
-      "dedupe_key": "8b8e6e89fd9f1071",
-      "id": "82227",
-      "model": "",
-      "product": "Polyflex 25 g/vial powder for suspension",
-      "published_at": "2026-06-17",
-      "region": "CA",
-      "risks": [
-        "Product quality"
-      ],
-      "severity": "Type II",
-      "source": "Canada Recalls",
-      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/polyflex-powder-suspension-cracked-vials",
-      "summary_zh": "Product quality Verify if your product is affected.Consult your healthcare provider prior to discontinuing use of the affected product(s), or for any health concerns.Contact the recalling firm if you have any questions about the recall.Report any health product&nbsp;related&nbsp;side effects&nbsp;to Health Canada.Report any other health product safety&nbsp;complaints&nbsp;to&nbsp;Health Canada.",
-      "title_original": "Polyflex powder for suspension; Cracked vials",
-      "title_zh": "Polyflex powder for suspension; Cracked vials",
-      "updated_at": "2026-06-17"
-    },
-    {
-      "action": "查看召回公告并按官方指引处理。",
-      "brand": "CFIA",
-      "categories": [
-        "Alcoholic"
-      ],
-      "dedupe_key": "564d65f6ae3c93e9",
-      "id": "82223",
-      "model": "",
-      "product": "Sangria Cider",
-      "published_at": "2026-06-17",
-      "region": "CA",
-      "risks": [
-        "Non harmful (quality or spoilage)"
-      ],
-      "severity": "Class 3",
-      "source": "Canada Recalls",
-      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/ernest-cider-brand-sangria-cider-recalled-due-yeast",
-      "summary_zh": "Non harmful (quality or spoilage)",
-      "title_original": "Ernest Cider brand Sangria Cider recalled due to yeast",
-      "title_zh": "Ernest Cider brand Sangria Cider recalled due to yeast",
-      "updated_at": "2026-06-17"
-    },
-    {
-      "action": "查看召回公告并按官方指引处理。",
-      "brand": "Medical devices",
-      "categories": [
-        "General hospital and personal use"
-      ],
-      "dedupe_key": "6dce0370518e54ee",
-      "id": "82218",
-      "model": "",
-      "product": "Plum™ Precision IV Pumps",
-      "published_at": "2026-06-17",
-      "region": "CA",
-      "risks": [
-        "Performance"
-      ],
-      "severity": "Type II",
-      "source": "Canada Recalls",
-      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/plumtm-precision-iv-pumps",
-      "summary_zh": "Performance",
-      "title_original": "Plum™ Precision IV Pumps",
-      "title_zh": "Plum™ Precision IV Pumps",
-      "updated_at": "2026-06-17"
-    },
-    {
-      "action": "查看召回公告并按官方指引处理。",
-      "brand": "Medical devices",
-      "categories": [
-        "Orthopaedics"
-      ],
-      "dedupe_key": "24751e9a93ec5254",
-      "id": "82217",
-      "model": "",
-      "product": "Single Use Distal Cover",
-      "published_at": "2026-06-17",
-      "region": "CA",
-      "risks": [
-        "Performance"
-      ],
-      "severity": "Type II",
-      "source": "Canada Recalls",
-      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/single-use-distal-cover-0",
-      "summary_zh": "Performance",
-      "title_original": "Single Use Distal Cover",
-      "title_zh": "Single Use Distal Cover",
-      "updated_at": "2026-06-17"
-    },
-    {
-      "action": "查看召回公告并按官方指引处理。",
-      "brand": "Medical devices",
-      "categories": [
-        "Radiology"
-      ],
-      "dedupe_key": "b3cbf016f32652ff",
-      "id": "82216",
-      "model": "",
-      "product": "ARTIS icono ceiling",
-      "published_at": "2026-06-17",
-      "region": "CA",
-      "risks": [
-        "Device compatibility"
-      ],
-      "severity": "Type II",
-      "source": "Canada Recalls",
-      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/artis-icono-ceiling-0",
-      "summary_zh": "Device compatibility",
-      "title_original": "ARTIS icono ceiling",
-      "title_zh": "ARTIS icono ceiling",
-      "updated_at": "2026-06-17"
-    },
-    {
-      "action": "查看召回公告并按官方指引处理。",
-      "brand": "Medical devices",
-      "categories": [
-        "Ophthalmology"
-      ],
-      "dedupe_key": "b370c91e45edd271",
-      "id": "82215",
-      "model": "",
-      "product": "CorNeat KPro",
-      "published_at": "2026-06-17",
-      "region": "CA",
-      "risks": [
-        "Performance"
-      ],
-      "severity": "Type II",
-      "source": "Canada Recalls",
-      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/corneat-kpro",
-      "summary_zh": "Performance",
-      "title_original": "CorNeat KPro",
-      "title_zh": "CorNeat KPro",
-      "updated_at": "2026-06-17"
-    },
-    {
-      "action": "查看召回公告并按官方指引处理。",
-      "brand": "Medical devices",
-      "categories": [
-        "General hospital and personal use"
-      ],
-      "dedupe_key": "7436c57444c2aa3f",
-      "id": "82197",
-      "model": "",
-      "product": "HALYARD* PUREZERO* Ultraviolet* Nitrile Exam Gloves",
-      "published_at": "2026-06-17",
-      "region": "CA",
-      "risks": [
-        "Performance"
-      ],
-      "severity": "Type II",
-      "source": "Canada Recalls",
-      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/halyard-purezero-ultraviolet-nitrile-exam-gloves",
-      "summary_zh": "Performance",
-      "title_original": "HALYARD* PUREZERO* Ultraviolet* Nitrile Exam Gloves",
-      "title_zh": "HALYARD* PUREZERO* Ultraviolet* Nitrile Exam Gloves",
-      "updated_at": "2026-06-17"
-    },
-    {
-      "action": "Consumers should immediately stop using the recalled products return them to an Urban Kids or Urban Planet store for a refund.For more information, consumers can contact YM Inc. by telephone at 1-866-717-7008, from 9 a.m. to 5 pm ET, Monday though Friday, by email at customerservice@yminc.ca, or visit the company’s website.Please note that the Canada Consumer Product Safety Act prohibits recalled products from being redistributed, sold or even given away in Canada.Health Canada would like to remind consumers to report any health or safety incidents related to the use of this product or any other consumer product or cosmetic by filling out the Consumer Product Incident Report Form.This recall is also posted on the OECD Global Portal on Product Recalls website. You can visit this site for more information on other international consumer product recalls.",
-      "brand": "Consumer product safety",
-      "categories": [
-        "Clothing"
-      ],
-      "dedupe_key": "7b6c2b639494d066",
-      "id": "82094",
-      "model": "",
-      "product": "U Kids We Love Cozy 2-piece Pajamas Sets and Lounge Pants",
-      "published_at": "2026-06-17",
-      "region": "CA",
-      "risks": [
-        "Flammability hazard"
-      ],
-      "severity": "unknown",
-      "source": "Canada Recalls",
-      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/expanded-recall-u-kids-we-love-cozy-2-piece-pajamas-sets-and-lounge-pants-recalled-due",
-      "summary_zh": "Flammability hazard Consumers should immediately stop using the recalled products return them to an Urban Kids or Urban Planet store for a refund.For more information, consumers can contact YM Inc. by telephone at 1-866-717-7008, from 9 a.m. to 5 pm ET, Monday though Friday, by email at customerservice@yminc.ca, or visit the company’s website.Please note that the Canada Consumer Product Safety Act prohibits recalled products from being redistributed, sold or even given away in Canada.Health Canada would like to remind consumers to report any health or safety incidents related to the use of this product or any other consumer product or cosmetic by filling out the Consumer Product Incident Report Form.This recall is also posted on the OECD Global Portal on Product Recalls website. You can visit this site for more information on other international consumer product recalls.",
-      "title_original": "Expanded recall: U Kids We Love Cozy 2-piece Pajamas Sets and Lounge Pants recalled due to flammability Hazard",
-      "title_zh": "Expanded recall: U Kids We Love Cozy 2-piece Pajamas Sets and Lounge Pants recalled due to flammability Hazard",
-      "updated_at": "2026-06-17"
     },
     {
       "action": "立即停止使用，远离可燃物，并按官方召回指引处理。",
@@ -302,49 +118,1176 @@
     },
     {
       "action": "查看召回公告并按官方指引处理。",
-      "brand": "TC",
+      "brand": "",
       "categories": [
-        "Minibike/ Moped /Scooter"
+        "汽车"
       ],
-      "dedupe_key": "630e433cc70c2806",
-      "id": "82225",
+      "dedupe_key": "150146bbbec29d7e",
+      "id": "ea6b8f1f86166b02",
       "model": "",
-      "product": "Minibike/ Moped /Scooter recalled by PIAGGIO GROUP",
-      "published_at": "2026-06-15",
-      "region": "CA",
+      "product": "",
+      "published_at": "2026-06-12",
+      "region": "CN",
       "risks": [
-        "Visual System"
+        "未分类"
       ],
       "severity": "unknown",
-      "source": "Canada Recalls",
-      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/transport-canada-recall-2026267-piaggio-group",
-      "summary_zh": "Visual System",
-      "title_original": "Transport Canada Recall - 2026267 - PIAGGIO GROUP",
-      "title_zh": "Transport Canada Recall - 2026267 - PIAGGIO GROUP",
-      "updated_at": "2026-06-15"
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202606/t20260611_115632.html",
+      "summary_zh": "四川南骏汽车集团有限公司扩大召回部分新祥康EDH纯电动自卸汽车",
+      "title_original": "四川南骏汽车集团有限公司扩大召回部分新祥康EDH纯电动自卸汽车",
+      "title_zh": "四川南骏汽车集团有限公司扩大召回部分新祥康EDH纯电动自卸汽车",
+      "updated_at": "2026-06-12"
     },
     {
-      "action": "查看召回公告并按官方指引处理。",
-      "brand": "TC",
+      "action": "Measures ordered by economic operators (to: Distributor) Stop of sales",
+      "brand": "Barry M",
       "categories": [
-        "SUV"
+        "Cosmetics"
       ],
-      "dedupe_key": "ae8a726a1f452e66",
-      "id": "82224",
+      "dedupe_key": "858f5e4bd85b1245",
+      "id": "SR/01724/26",
       "model": "",
-      "product": "SUV recalled by MERCEDES-BENZ",
-      "published_at": "2026-06-15",
-      "region": "CA",
+      "product": "",
+      "published_at": "2026-06-12",
+      "region": "EU",
       "risks": [
-        "Seats And Restraints"
+        "Environment"
       ],
       "severity": "unknown",
-      "source": "Canada Recalls",
-      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/transport-canada-recall-2026266-mercedes-benz",
-      "summary_zh": "Seats And Restraints",
-      "title_original": "Transport Canada Recall - 2026266 - MERCEDES-BENZ",
-      "title_zh": "Transport Canada Recall - 2026266 - MERCEDES-BENZ",
-      "updated_at": "2026-06-15"
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099259",
+      "summary_zh": "Denmark Environment The product contains perfluorononyl dimethicone, which is a perfluorooctanoic acid (PFOA) related compound. PFOAs pose a risk to human health and the environment.",
+      "title_original": "Eyeliner",
+      "title_zh": "Eyeliner",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by public authorities (to: Retailer) Withdrawal of the product from market",
+      "brand": "One Two Fun",
+      "categories": [
+        "Toys"
+      ],
+      "dedupe_key": "6715826a04f6bb31",
+      "id": "SR/01722/26",
+      "model": "092024",
+      "product": "MA TABLETE A DESSINS \"MY DRAWING PAD\" (PIZARRA MAGICA 24 CM ANIMALITOS OTF)",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Choking"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099220",
+      "summary_zh": "Spain MA TABLETE A DESSINS \"MY DRAWING PAD\" (PIZARRA MAGICA 24 CM ANIMALITOS OTF) Choking The toy has small parts (the protective part on the tip of the stylus and the tip itself) which can easily detach. Small children could put them in the mouth and choke.",
+      "title_original": "Toy drawing board MA TABLETE A DESSINS \"MY DRAWING PAD\" (PIZARRA MAGICA 24 CM ANIMALITOS OTF)",
+      "title_zh": "Toy drawing board MA TABLETE A DESSINS \"MY DRAWING PAD\" (PIZARRA MAGICA 24 CM ANIMALITOS OTF)",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by public authorities (to: Importer) Recall of the product from end users",
+      "brand": "",
+      "categories": [
+        "Protective equipment"
+      ],
+      "dedupe_key": "f6332a1bc089d6af",
+      "id": "SR/01720/26",
+      "model": "",
+      "product": "Twistlok Carabiners, Rope Pulleys and Swing Swivels",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Injuries"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099177",
+      "summary_zh": "United Kingdom in respect of Northern Ireland Twistlok Carabiners, Rope Pulleys and Swing Swivels Injuries The carabiner's turn lock sleeve may malfunction and detach during use, leading to the user falling from a height and suffering injuries.",
+      "title_original": "Protective bungee trampoline accessories Twistlok Carabiners, Rope Pulleys and Swing Swivels",
+      "title_zh": "Protective bungee trampoline accessories Twistlok Carabiners, Rope Pulleys and Swing Swivels",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by economic operators (to: Manufacturer) Making the marketing of the product subject to prior conditions",
+      "brand": "Detake",
+      "categories": [
+        "Lighting equipment"
+      ],
+      "dedupe_key": "453b0ce768a57ec0",
+      "id": "SR/01719/26",
+      "model": "LD067-WH,  LD067-WH-EU",
+      "product": "Nachtlicht Steckdose mit Dämmerungssensor",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Electric shock"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099139",
+      "summary_zh": "Germany Nachtlicht Steckdose mit Dämmerungssensor Electric shock The housing can easily detach from the holder, leaving the plug with two exposed lamp contact points in the socket. The user could touch live parts and receive an electric shock",
+      "title_original": "Nightlight Nachtlicht Steckdose mit Dämmerungssensor",
+      "title_zh": "Nightlight Nachtlicht Steckdose mit Dämmerungssensor",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by public authorities (to: Importer) Import rejected at border",
+      "brand": "Shenzhen Opolo tech Co., Ltd",
+      "categories": [
+        "Electrical appliances and equipment"
+      ],
+      "dedupe_key": "60a52d906283f5a4",
+      "id": "SR/01714/26",
+      "model": "IN11-B001",
+      "product": "Shenzhen Opolo tech Co., Ltd Hair Dryer",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Burns"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10098965",
+      "summary_zh": "United Kingdom in respect of Northern Ireland Shenzhen Opolo tech Co., Ltd Hair Dryer Burns The motor continues to operate when airflow is restricted. This could lead to the product overheating and catching fire. Moreover, the external surfaces may reach excessive temperatures.",
+      "title_original": "Hair dryer Shenzhen Opolo tech Co., Ltd Hair Dryer",
+      "title_zh": "Hair dryer Shenzhen Opolo tech Co., Ltd Hair Dryer",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by public authorities (to: Distributor) Recall of the product from end users",
+      "brand": "",
+      "categories": [
+        "Lighting chains"
+      ],
+      "dedupe_key": "b08f171ab959e1e6",
+      "id": "SR/01708/26",
+      "model": "",
+      "product": "135LED90",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Electric shock"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099170",
+      "summary_zh": "Hungary 135LED90 Electric shock The product has inadequate insulation and the dimensions of the power socket do not comply with the specifications. The user could touch accessible live parts, which may lead to an electric shock.",
+      "title_original": "Lighting tree 135LED90",
+      "title_zh": "Lighting tree 135LED90",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by economic operators (to: Retailer) Recall of the product from end users",
+      "brand": "Kenzo",
+      "categories": [
+        "Cosmetics"
+      ],
+      "dedupe_key": "eab4185ed8088f72",
+      "id": "SR/01703/26",
+      "model": "3N01",
+      "product": "Flower",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Chemical"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099185",
+      "summary_zh": "United Kingdom in respect of Northern Ireland Flower Chemical According to the list of ingredients, the product contains 2-(4-tert-butylbenzyl) propionaldehyde (BMHCA), which is prohibited in cosmetic products. BMHCA may harm the reproductive system, may harm the health of the unborn child and may cause skin sensitisation. Moreover, the product contains hydroxyisohexyl 3-cyclohexene carboxaldehyde (HICC), which is prohibited in cosmetic products. HICC may cause an allergic skin reaction.",
+      "title_original": "Eau de toilette Flower",
+      "title_zh": "Eau de toilette Flower",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by economic operators (to: Retailer) Recall of the product from end users",
+      "brand": "Jean Paul Gaultier",
+      "categories": [
+        "Cosmetics"
+      ],
+      "dedupe_key": "e42bb4de6bd24159",
+      "id": "SR/01702/26",
+      "model": "90161",
+      "product": "Classique",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Chemical"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099184",
+      "summary_zh": "United Kingdom in respect of Northern Ireland Classique Chemical According to the list of ingredients, the product contains 2-(4-tert-butylbenzyl) propionaldehyde (BMHCA), which is prohibited in cosmetic products. BMHCA may harm the reproductive system, may harm the health of the unborn child and may cause skin sensitisation. Moreover, the product contains hydroxyisohexyl 3-cyclohexene carboxaldehyde (HICC), which is prohibited in cosmetic products. HICC may cause an allergic skin reaction.",
+      "title_original": "Eau de toilette Classique",
+      "title_zh": "Eau de toilette Classique",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by economic operators (to: Retailer) Recall of the product from end users",
+      "brand": "Davidoff",
+      "categories": [
+        "Cosmetics"
+      ],
+      "dedupe_key": "2c60ef9d4e2c81af",
+      "id": "SR/01699/26",
+      "model": "C006045742830065\nK90603810491\nL60776931240",
+      "product": "Hot Water",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Chemical"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099181",
+      "summary_zh": "United Kingdom in respect of Northern Ireland Hot Water Chemical According to the list of ingredients, the product contains 2-(4-tert-butylbenzyl) propionaldehyde (BMHCA), which is prohibited in cosmetic products. BMHCA may harm the reproductive system, may harm the health of the unborn child and may cause skin sensitisation. Moreover, the product contains hydroxyisohexyl 3-cyclohexene carboxaldehyde (HICC), which is prohibited in cosmetic products. HICC may cause an allergic skin reaction.",
+      "title_original": "Eau de toilette Hot Water",
+      "title_zh": "Eau de toilette Hot Water",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by economic operators (to: Retailer) Recall of the product from end users",
+      "brand": "Calvin Klein",
+      "categories": [
+        "Cosmetics"
+      ],
+      "dedupe_key": "1b0f3bc92d469025",
+      "id": "SR/01697/26",
+      "model": "9282",
+      "product": "one",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Chemical"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099175",
+      "summary_zh": "United Kingdom in respect of Northern Ireland one Chemical According to the list of ingredients, the product contains 2-(4-tert-butylbenzyl) propionaldehyde (BMHCA), which is prohibited in cosmetic products. BMHCA may harm the reproductive system, may harm the health of the unborn child and may cause skin sensitisation. Moreover, the product contains hydroxyisohexyl 3-cyclohexene carboxaldehyde (HICC), which is prohibited in cosmetic products. HICC may cause an allergic skin reaction.",
+      "title_original": "Eau de toilette one",
+      "title_zh": "Eau de toilette one",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by public authorities (to: Distributor) Ban on the marketing of the product and any accompanying measures",
+      "brand": "Estrosa",
+      "categories": [
+        "Cosmetics"
+      ],
+      "dedupe_key": "fd44e7abfec9d2b9",
+      "id": "SR/01694/26",
+      "model": "161",
+      "product": "Fluo Vernis - Orange Fluo",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Chemical"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099129",
+      "summary_zh": "Italy Fluo Vernis - Orange Fluo Chemical According to the list of ingredients, the product contains Diphenyl(2,4,6-trimethylbenzoyl)phosphine oxide (TPO), which is prohibited in cosmetic products. TPO may harm the reproductive system, may harm the health of the unborn child and may cause allergic skin reactions.",
+      "title_original": "Gel nail polish Fluo Vernis - Orange Fluo",
+      "title_zh": "Gel nail polish Fluo Vernis - Orange Fluo",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by economic operators (to: Other) Other:  Warning the seller about the risks linked with the product",
+      "brand": "JIADUN",
+      "categories": [
+        "Childcare articles and children's equipment"
+      ],
+      "dedupe_key": "afe1ececd95f52b4",
+      "id": "SR/01693/26",
+      "model": "SG26-30",
+      "product": "Echarpe de transport de bébé multifonctionelle, siège de hanche de bébé léger et portable - Noir",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Injuries"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099226",
+      "summary_zh": "France Echarpe de transport de bébé multifonctionelle, siège de hanche de bébé léger et portable - Noir Injuries The product lacks instructions, which could lead to a child not being properly secured in the baby carrier, with the risk of falling as a result of incorrect positioning of the child or incorrect adjustment of the product.",
+      "title_original": "Baby carrier Echarpe de transport de bébé multifonctionelle, siège de hanche de bébé léger et portable - Noir",
+      "title_zh": "Baby carrier Echarpe de transport de bébé multifonctionelle, siège de hanche de bébé léger et portable - Noir",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by public authorities (to: Distributor) Ban on the marketing of the product and any accompanying measures",
+      "brand": "Je - Jessie Milano",
+      "categories": [
+        "Cosmetics"
+      ],
+      "dedupe_key": "21dc522c608f1b4f",
+      "id": "SR/01692/26",
+      "model": "J930 trasparente",
+      "product": "Buider Gel - No Burn Extremely strong",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Chemical"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099231",
+      "summary_zh": "Italy Buider Gel - No Burn Extremely strong Chemical According to the list of ingredients, the product contains Diphenyl(2,4,6-trimethylbenzoyl)phosphine oxide (TPO), which is prohibited in cosmetic products. TPO may harm the reproductive system, may harm the health of the unborn child and may cause allergic skin reactions.",
+      "title_original": "Gel nail polish Buider Gel - No Burn Extremely strong",
+      "title_zh": "Gel nail polish Buider Gel - No Burn Extremely strong",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by economic operators (to: Other) Removal of this product listing by the online marketplace",
+      "brand": "JINHUAI",
+      "categories": [
+        "Electrical appliances and equipment"
+      ],
+      "dedupe_key": "b999db306b9c22c0",
+      "id": "SR/01688/26",
+      "model": "F20U/QL1098U",
+      "product": "Power Socket",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Electric shock"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099033",
+      "summary_zh": "Germany Power Socket Electric shock The product does not provide adequate earthing protection. Additionally, the cross-sectional area of the cable is insufficient and the wires soldering can easily deteriorate. Consequently, the user can access live parts and receive an electric shock, and the wires of the product could overheat and catch fire.",
+      "title_original": "Extension lead Power Socket",
+      "title_zh": "Extension lead Power Socket",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by public authorities (to: Distributor) Ban on the marketing of the product and any accompanying measures",
+      "brand": "Estrosa",
+      "categories": [
+        "Cosmetics"
+      ],
+      "dedupe_key": "332f10f15dc020af",
+      "id": "SR/01686/26",
+      "model": "160",
+      "product": "Pink Fluo",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Chemical"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099130",
+      "summary_zh": "Italy Pink Fluo Chemical According to the list of ingredients, the product contains Diphenyl(2,4,6-trimethylbenzoyl)phosphine oxide (TPO), which is prohibited in cosmetic products. TPO may harm the reproductive system, may harm the health of the unborn child and may cause allergic skin reactions.",
+      "title_original": "Gel nail polish Pink Fluo",
+      "title_zh": "Gel nail polish Pink Fluo",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by public authorities (to: Retailer) Withdrawal of the product from market",
+      "brand": "",
+      "categories": [
+        "Chemical products"
+      ],
+      "dedupe_key": "56c38932120eeb78",
+      "id": "SR/01684/26",
+      "model": "WH20-FG9036",
+      "product": "Whoop Fogo Tobacco",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Chemical"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099269",
+      "summary_zh": "Lithuania Whoop Fogo Tobacco Chemical The product has an excessive concentration of nicotine (measured value up to 24.1 mg/ml). Nicotine is acutely toxic and can endanger the user’s safety, notably if the product comes into contact with the skin or is ingested.\nAdditionally, the product does not have an information leaflet. As a consequence, consumers cannot make informed decisions regarding the safe use of the product.",
+      "title_original": "Electronic cigarette cartridge Whoop Fogo Tobacco",
+      "title_zh": "Electronic cigarette cartridge Whoop Fogo Tobacco",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by economic operators (to: Manufacturer) Recall of the product from end users",
+      "brand": "Iveco",
+      "categories": [
+        "Motor vehicles"
+      ],
+      "dedupe_key": "45431eb0ecc31292",
+      "id": "SR/01681/26",
+      "model": "e3*2007/46*0143, 33;  e3*2007/46*0136, 31, 34, 35, 36;  e3*2007/46*0135, 29, 30, 31",
+      "product": "S-WAY, X-WAY MY24",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Injuries"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10097674",
+      "summary_zh": "Italy S-WAY, X-WAY MY24 Injuries The upper part of the front leaf spring may break, which could affect vehicle handling and increase the risk of an accident.",
+      "title_original": "Lorry S-WAY, X-WAY MY24",
+      "title_zh": "Lorry S-WAY, X-WAY MY24",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by economic operators (to: Manufacturer) Stop of sales",
+      "brand": "XTool",
+      "categories": [
+        "Machinery"
+      ],
+      "dedupe_key": "e42e3764e3da8b19",
+      "id": "SR/01680/26",
+      "model": "XT-CS-01",
+      "product": "X-Tool XT-CS-01",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Injuries"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10098221",
+      "summary_zh": "Austria X-Tool XT-CS-01 Injuries Due to an inadequate safety device, the product may be activated unintentionally. Unintentional activation may catch the user unaware in a vulnerable situation, which could result in injury.",
+      "title_original": "Chainsaw X-Tool XT-CS-01",
+      "title_zh": "Chainsaw X-Tool XT-CS-01",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by public authorities (to: Retailer) Ban on the marketing of the product and any accompanying measures",
+      "brand": "OPI",
+      "categories": [
+        "Cosmetics"
+      ],
+      "dedupe_key": "a0ab80a3b29f905d",
+      "id": "SR/01678/26",
+      "model": "2059",
+      "product": "Gel Color - Cajun Shrimp",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Chemical"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099074",
+      "summary_zh": "Italy Gel Color - Cajun Shrimp Chemical According to the list of ingredients, the product contains Diphenyl(2,4,6-trimethylbenzoyl)phosphine oxide (TPO), which is prohibited in cosmetic products. TPO may harm the reproductive system, may harm the health of the unborn child and may cause allergic skin reactions.",
+      "title_original": "Gel nail polish Gel Color - Cajun Shrimp",
+      "title_zh": "Gel nail polish Gel Color - Cajun Shrimp",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by public authorities (to: Distributor) Ban on the marketing of the product and any accompanying measures",
+      "brand": "Estrosa",
+      "categories": [
+        "Cosmetics"
+      ],
+      "dedupe_key": "0505259ff5554964",
+      "id": "SR/01677/26",
+      "model": "Smalto gel semipermanente 157",
+      "product": "Coral Bay metallic",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Chemical"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099123",
+      "summary_zh": "Italy Coral Bay metallic Chemical According to the list of ingredients, the product contains Diphenyl(2,4,6-trimethylbenzoyl)phosphine oxide (TPO), which is prohibited in cosmetic products. TPO may harm the reproductive system, may harm the health of the unborn child and may cause allergic skin reactions.",
+      "title_original": "Gel nail polish Coral Bay metallic",
+      "title_zh": "Gel nail polish Coral Bay metallic",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by economic operators (to: Other) Removal of this product listing by the online marketplace",
+      "brand": "",
+      "categories": [
+        "Childcare articles and children's equipment"
+      ],
+      "dedupe_key": "6b5f676ae4c11306",
+      "id": "SR/01674/26",
+      "model": "",
+      "product": "Infant Sleep Positioner Anti Roll Pillow for Head",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Suffocation"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099179",
+      "summary_zh": "United Kingdom in respect of Northern Ireland Infant Sleep Positioner Anti Roll Pillow for Head Suffocation The pillow is not firm enough, leading to a risk of suffocation for the baby if their face is turned towards or leaning against the cushion for a long period.",
+      "title_original": "Baby pillow Infant Sleep Positioner Anti Roll Pillow for Head",
+      "title_zh": "Baby pillow Infant Sleep Positioner Anti Roll Pillow for Head",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by public authorities (to: Retailer) Ban on the marketing of the product and any accompanying measures",
+      "brand": "OPI",
+      "categories": [
+        "Cosmetics"
+      ],
+      "dedupe_key": "649b0fc5da626262",
+      "id": "SR/01673/26",
+      "model": "8207",
+      "product": "Gel Color - Bogotà Blackberry",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Chemical"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099073",
+      "summary_zh": "Italy Gel Color - Bogotà Blackberry Chemical According to the list of ingredients, the product contains Diphenyl(2,4,6-trimethylbenzoyl)phosphine oxide (TPO), which is prohibited in cosmetic products. TPO may harm the reproductive system, may harm the health of the unborn child and may cause allergic skin reactions.",
+      "title_original": "Gel nail polish Gel Color - Bogotà Blackberry",
+      "title_zh": "Gel nail polish Gel Color - Bogotà Blackberry",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by public authorities (to: Distributor) Ban on the marketing of the product and any accompanying measures",
+      "brand": "Estrosa",
+      "categories": [
+        "Cosmetics"
+      ],
+      "dedupe_key": "ff5e949cded59753",
+      "id": "SR/01672/26",
+      "model": "Smalto gel semipermanente 148",
+      "product": "Rosa Reale Metallic",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Chemical"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099125",
+      "summary_zh": "Italy Rosa Reale Metallic Chemical According to the list of ingredients, the product contains Diphenyl(2,4,6-trimethylbenzoyl)phosphine oxide (TPO), which is prohibited in cosmetic products. TPO may harm the reproductive system, may harm the health of the unborn child and may cause allergic skin reactions.",
+      "title_original": "Gel nail polish Rosa Reale Metallic",
+      "title_zh": "Gel nail polish Rosa Reale Metallic",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by economic operators (to: Other) Removal of this product listing by the online marketplace",
+      "brand": "",
+      "categories": [
+        "Toys"
+      ],
+      "dedupe_key": "a69d066e774ba032",
+      "id": "SR/01669/26",
+      "model": "BCD25101000054135, S25100905764600101",
+      "product": "Ensemble de costume de sirène",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Choking"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099167",
+      "summary_zh": "France Ensemble de costume de sirène Choking The product has functional cords close to the neck area, to be tied at the front or at the back of the upper body. The cords may become trapped during various activities of a child, resulting in injuries and/or strangulation. \n\nIn addition, the product has small parts (white bead on the flower) that can easily detach. A small child may put them in the mouth and choke.",
+      "title_original": "Fancy-dress costume Ensemble de costume de sirène",
+      "title_zh": "Fancy-dress costume Ensemble de costume de sirène",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by economic operators (to: Importer) Withdrawal of the product from market",
+      "brand": "Samsung",
+      "categories": [
+        "Electrical appliances and equipment"
+      ],
+      "dedupe_key": "1a86d4fcb9bb5e93",
+      "id": "SR/01668/26",
+      "model": "EP-TA0EWE",
+      "product": "Adaptive Fast Charging",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Electric shock"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099198",
+      "summary_zh": "France Adaptive Fast Charging Electric shock The creepage and clearance distances between the primary and secondary circuits are inadequate. The user could touch accessible live parts and receive an electric shock.",
+      "title_original": "USB charger Adaptive Fast Charging",
+      "title_zh": "USB charger Adaptive Fast Charging",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by public authorities (to: Distributor) Ban on the marketing of the product and any accompanying measures",
+      "brand": "Estrosa",
+      "categories": [
+        "Cosmetics"
+      ],
+      "dedupe_key": "2657e7e26d0987c3",
+      "id": "SR/01666/26",
+      "model": "8536",
+      "product": "Base Rubber - Cover Rose",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Chemical"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099104",
+      "summary_zh": "Italy Base Rubber - Cover Rose Chemical According to the list of ingredients, the product contains Diphenyl(2,4,6-trimethylbenzoyl)phosphine oxide (TPO), which is prohibited in cosmetic products. TPO may harm the reproductive system, may harm the health of the unborn child and may cause allergic skin reactions.",
+      "title_original": "Gel nail polish Base Rubber - Cover Rose",
+      "title_zh": "Gel nail polish Base Rubber - Cover Rose",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by public authorities (to: Distributor) Ban on the marketing of the product and any accompanying measures",
+      "brand": "Estrosa",
+      "categories": [
+        "Cosmetics"
+      ],
+      "dedupe_key": "3e1393803473985f",
+      "id": "SR/01664/26",
+      "model": "8532",
+      "product": "Base Rubber - Glitter Pink",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Chemical"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099105",
+      "summary_zh": "Italy Base Rubber - Glitter Pink Chemical According to the list of ingredients, the product contains Diphenyl(2,4,6-trimethylbenzoyl)phosphine oxide (TPO), which is prohibited in cosmetic products. TPO may harm the reproductive system, may harm the health of the unborn child and may cause allergic skin reactions.",
+      "title_original": "Gel nail polish Base Rubber - Glitter Pink",
+      "title_zh": "Gel nail polish Base Rubber - Glitter Pink",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by economic operators (to: Importer) Recall of the product from end users",
+      "brand": "",
+      "categories": [
+        "Toys"
+      ],
+      "dedupe_key": "e7c52bbe0a03129f",
+      "id": "SR/01661/26",
+      "model": "",
+      "product": "Wooden toy",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Choking"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099147",
+      "summary_zh": "Germany Wooden toy Choking The toy has small parts (metal bells) that can easily detach. Small children may put them in the mouth and choke.",
+      "title_original": "Toy rattle Wooden toy",
+      "title_zh": "Toy rattle Wooden toy",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by public authorities (to: Retailer) Stop of sales",
+      "brand": "ELFLIQ",
+      "categories": [
+        "Chemical products"
+      ],
+      "dedupe_key": "9d257292cb77c81a",
+      "id": "SR/01657/26",
+      "model": "DOUBLE APPLE",
+      "product": "NIC SALTS, POWERED BY ELFBAR",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Chemical"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099193",
+      "summary_zh": "Czechia NIC SALTS, POWERED BY ELFBAR Chemical The product has an excessive concentration of nicotine (50mg/ml). This could lead to the accidental consumption of a high dose of nicotine. Nicotine is acutely toxic and can endanger the user’s safety, notably if the product comes into contact with the skin or is ingested.",
+      "title_original": "Electronic cigarette cartridge NIC SALTS, POWERED BY ELFBAR",
+      "title_zh": "Electronic cigarette cartridge NIC SALTS, POWERED BY ELFBAR",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by public authorities (to: Distributor) Withdrawal of the product from market",
+      "brand": "",
+      "categories": [
+        "Lighting chains"
+      ],
+      "dedupe_key": "147776304904e870",
+      "id": "SR/01656/26",
+      "model": "CY-45",
+      "product": "30M",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Electric shock"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099201",
+      "summary_zh": "Hungary 30M Electric shock The product has inadequate insulation and a flashover may occur during use. The user could touch accessible live parts and receive an electric shock.",
+      "title_original": "Lighting chain 30M",
+      "title_zh": "Lighting chain 30M",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by public authorities (to: Retailer) Stop of sales",
+      "brand": "ELFLIQ",
+      "categories": [
+        "Chemical products"
+      ],
+      "dedupe_key": "0bbd72651a6d44cd",
+      "id": "SR/01655/26",
+      "model": "GRAPE CHERRY",
+      "product": "NIC SALTS, POWERED BY ELFBAR",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Chemical"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099194",
+      "summary_zh": "Czechia NIC SALTS, POWERED BY ELFBAR Chemical The product has an excessive concentration of nicotine (50mg/ml). This could lead to the accidental consumption of a high dose of nicotine. Nicotine is acutely toxic and can endanger the user’s safety, notably if the product comes into contact with the skin or is ingested.",
+      "title_original": "Electronic cigarette cartridge NIC SALTS, POWERED BY ELFBAR",
+      "title_zh": "Electronic cigarette cartridge NIC SALTS, POWERED BY ELFBAR",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by public authorities (to: Distributor) Ban on the marketing of the product and any accompanying measures",
+      "brand": "Estrosa",
+      "categories": [
+        "Cosmetics"
+      ],
+      "dedupe_key": "3fa6b5396a4d7a93",
+      "id": "SR/01653/26",
+      "model": "190",
+      "product": "Viola profondo",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Chemical"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099134",
+      "summary_zh": "Italy Viola profondo Chemical According to the list of ingredients, the product contains Diphenyl(2,4,6-trimethylbenzoyl)phosphine oxide (TPO), which is prohibited in cosmetic products. TPO may harm the reproductive system, may harm the health of the unborn child and may cause allergic skin reactions.",
+      "title_original": "Gel nail polish Viola profondo",
+      "title_zh": "Gel nail polish Viola profondo",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by public authorities (to: Distributor) Ban on the marketing of the product and any accompanying measures",
+      "brand": "Estrosa",
+      "categories": [
+        "Cosmetics"
+      ],
+      "dedupe_key": "52edad7550071930",
+      "id": "SR/01652/26",
+      "model": "194",
+      "product": "Viola Glamour",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Chemical"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099140",
+      "summary_zh": "Italy Viola Glamour Chemical According to the list of ingredients, the product contains Diphenyl(2,4,6-trimethylbenzoyl)phosphine oxide (TPO), which is prohibited in cosmetic products. TPO may harm the reproductive system, may harm the health of the unborn child and may cause allergic skin reactions.",
+      "title_original": "Gel nail polish Viola Glamour",
+      "title_zh": "Gel nail polish Viola Glamour",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by public authorities (to: Retailer) Stop of sales",
+      "brand": "ELFLIQ",
+      "categories": [
+        "Chemical products"
+      ],
+      "dedupe_key": "279fb4e38b3d7279",
+      "id": "SR/01651/26",
+      "model": "CHERRY LEMON PEACH",
+      "product": "NIC SALTS",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Chemical"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099195",
+      "summary_zh": "Czechia NIC SALTS Chemical The product has an excessive volume of nicotine-containing liquid (10 ml) and an excessive concentration of nicotine (50 mg/ml). This could lead to the accidental consumption of a high dose of nicotine. Nicotine is acutely toxic and can endanger the user’s safety, notably if the product comes into contact with the skin or is ingested. Additionally, the product lacks an information leaflet. As a consequence, consumers cannot make informed decisions regarding the safe use of the product.",
+      "title_original": "Electronic cigarette cartridge NIC SALTS",
+      "title_zh": "Electronic cigarette cartridge NIC SALTS",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by public authorities (to: Retailer) Stop of sales",
+      "brand": "ELFLIQ",
+      "categories": [
+        "Chemical products"
+      ],
+      "dedupe_key": "f31496112624854e",
+      "id": "SR/01650/26",
+      "model": "BLUEBERRY",
+      "product": "NIC SALTS",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Chemical"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099191",
+      "summary_zh": "Czechia NIC SALTS Chemical The product has an excessive volume of nicotine-containing liquid (10 ml) and an excessive concentration of nicotine (50 mg/ml). This could lead to the accidental consumption of a high dose of nicotine. Nicotine is acutely toxic and can endanger the user’s safety, notably if the product comes into contact with the skin or is ingested. Additionally, the product lacks an information leaflet. As a consequence, consumers cannot make informed decisions regarding the safe use of the product.",
+      "title_original": "Electronic cigarette cartridge NIC SALTS",
+      "title_zh": "Electronic cigarette cartridge NIC SALTS",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by economic operators (to: Manufacturer) Recall of the product from end users",
+      "brand": "Bmw",
+      "categories": [
+        "Motor vehicles"
+      ],
+      "dedupe_key": "c4665efec19955c5",
+      "id": "SR/01648/26",
+      "model": "e1*2002/24*0627* (C1EV), e1*168/2013*00041* (3CEV), e1*168/2013*00042* (3CEV)",
+      "product": "C evolution",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Fire"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099156",
+      "summary_zh": "Germany C evolution Fire The connectors of the 12 V battery supplying the DC/DC converter are insufficiently sealed against splash water. This may allow water to penetrate the connectors and cause a short circuit and lead to a fire.",
+      "title_original": "Motorcycle C evolution",
+      "title_zh": "Motorcycle C evolution",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by economic operators (to: Retailer) Recall of the product from end users",
+      "brand": "ProfixOrganics",
+      "categories": [
+        "Cosmetics"
+      ],
+      "dedupe_key": "46e7105edef4aac1",
+      "id": "SR/01646/26",
+      "model": "098292",
+      "product": "Henna Permanent Powder Hair Colour",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Chemical"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10098982",
+      "summary_zh": "Austria Henna Permanent Powder Hair Colour Chemical The product contains p-phenylenediamine without coupler components that is potentially genotoxic and a skin sensitizer when in prolonged contact on the hair in contact with the scalp. It also contains “brilliant green”, which is also skin sensitizing ” and not authorised for use in hair dye.",
+      "title_original": "Hair dye Henna Permanent Powder Hair Colour",
+      "title_zh": "Hair dye Henna Permanent Powder Hair Colour",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by public authorities (to: Other) Removal of this product listing by the online marketplace",
+      "brand": "ZF",
+      "categories": [
+        "Toys"
+      ],
+      "dedupe_key": "c420c0d91910f7d7",
+      "id": "SR/01641/26",
+      "model": "9901",
+      "product": "Innovation Remote Control Centipede Toy",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Burns"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099057",
+      "summary_zh": "United Kingdom in respect of Northern Ireland Innovation Remote Control Centipede Toy Burns The battery compartment can be easily opened without the aid of a tool, leaving button batteries accessible. A child may put the batteries in the mouth, which could cause damage to the child’s gastrointestinal tract if swallowed.",
+      "title_original": "Remote control toy Innovation Remote Control Centipede Toy",
+      "title_zh": "Remote control toy Innovation Remote Control Centipede Toy",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by public authorities (to: Distributor) Ban on the marketing of the product and any accompanying measures",
+      "brand": "Estrosa",
+      "categories": [
+        "Cosmetics"
+      ],
+      "dedupe_key": "3b4f763ee6f17a6a",
+      "id": "SR/01637/26",
+      "model": "Gel semipermanente per unghie 180",
+      "product": "Rosè",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Chemical"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099112",
+      "summary_zh": "Italy Rosè Chemical According to the list of ingredients, the product contains Diphenyl(2,4,6-trimethylbenzoyl)phosphine oxide (TPO), which is prohibited in cosmetic products. TPO may harm the reproductive system, may harm the health of the unborn child and may cause allergic skin reactions.",
+      "title_original": "Gel nail polish Rosè",
+      "title_zh": "Gel nail polish Rosè",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by public authorities (to: Distributor) Ban on the marketing of the product and any accompanying measures",
+      "brand": "Jenessa",
+      "categories": [
+        "Cosmetics"
+      ],
+      "dedupe_key": "79edef3482340c22",
+      "id": "SR/01636/26",
+      "model": "8010",
+      "product": "10",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Chemical"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099149",
+      "summary_zh": "Italy 10 Chemical According to the list of ingredients, the product contains Diphenyl(2,4,6-trimethylbenzoyl)phosphine oxide (TPO), which is prohibited in cosmetic products. TPO may harm the reproductive system, may harm the health of the unborn child and may cause allergic skin reactions.",
+      "title_original": "Gel nail polish 10",
+      "title_zh": "Gel nail polish 10",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by economic operators (to: Retailer) Stop of sales",
+      "brand": "Pop Mart (COUNTERFEIT)",
+      "categories": [
+        "Toys"
+      ],
+      "dedupe_key": "0b9fa57c2d26fdb6",
+      "id": "SR/01632/26",
+      "model": "12402230008",
+      "product": "THE MONSTERS - Have a Seat Vinyl Plush Blind Box",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Chemical"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099056",
+      "summary_zh": "Germany THE MONSTERS - Have a Seat Vinyl Plush Blind Box Chemical The plastic material of the product has an excessive concentration of bis(2-ethylhexyl) phthalate (DEHP) (measured value up to 43.4% by weight). These phthalates may harm the health of children, causing possible damage to their reproductive system.",
+      "title_original": "Soft toy THE MONSTERS - Have a Seat Vinyl Plush Blind Box",
+      "title_zh": "Soft toy THE MONSTERS - Have a Seat Vinyl Plush Blind Box",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by public authorities (to: Distributor) Ban on the marketing of the product and any accompanying measures",
+      "brand": "Estrosa",
+      "categories": [
+        "Cosmetics"
+      ],
+      "dedupe_key": "c4bed2d5238c9107",
+      "id": "SR/01631/26",
+      "model": "Smalto gel semipermanente 171",
+      "product": "Arancio Energy",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Chemical"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099113",
+      "summary_zh": "Italy Arancio Energy Chemical According to the list of ingredients, the product contains Diphenyl(2,4,6-trimethylbenzoyl)phosphine oxide (TPO), which is prohibited in cosmetic products. TPO may harm the reproductive system, may harm the health of the unborn child and may cause allergic skin reactions.",
+      "title_original": "Gel nail polish Arancio Energy",
+      "title_zh": "Gel nail polish Arancio Energy",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by economic operators (to: Other) Removal of this product listing by the online marketplace",
+      "brand": "",
+      "categories": [
+        "Lighters"
+      ],
+      "dedupe_key": "fc068d0e34b6d1f4",
+      "id": "SR/01629/26",
+      "model": "Glumanda / Charmanda",
+      "product": "",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Burns"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099078",
+      "summary_zh": "Germany Burns Due to its shape and colour, the lighter is appealing to children. They could play with it and suffer burns or cause a fire.",
+      "title_original": "Novelty lighter",
+      "title_zh": "Novelty lighter",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by economic operators (to: Other) Warning consumers of the risks",
+      "brand": "",
+      "categories": [
+        "Toys"
+      ],
+      "dedupe_key": "be7f894db89926b1",
+      "id": "SR/01627/26",
+      "model": "BCD25061900074012, S25061800811500101",
+      "product": "Peluche lapin magnon",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Choking"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099114",
+      "summary_zh": "France Peluche lapin magnon Choking The product has small parts (left eye) that may easily detach. Small children may put them in the mouth and choke.",
+      "title_original": "Soft toy Peluche lapin magnon",
+      "title_zh": "Soft toy Peluche lapin magnon",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by economic operators (to: Manufacturer) Recall of the product from end users",
+      "brand": "Mercedes-Benz",
+      "categories": [
+        "Motor vehicles"
+      ],
+      "dedupe_key": "75acf639e0f856c4",
+      "id": "SR/01626/26",
+      "model": "F2CLA, MMCLAE, F2A, R2CW, R2CS, R2EW, R2ES, R2S, R1SLAMG, R2CLECA, F2B, E2EQEW, H1GLE, R2CGLC, E2EQEX, e1*2007/46*1912*23-*24, e1*2018/858*00500*01-*03, e1*2007/46*1829*23, e1*2018/858*00016*11-*13, e1*2018/858*00017*11, e1*2018/858*00213*03-*06, e1*2018/858*00214*01-*03, e1*2007/46*2115*13-*18,, e1*2018/858*00137*06, e1*2018/858*00311*03-*06, e1*2007/46*1909*25-*30, e1*2018/858*00036*06-*08, e1*2007/46*1885*24-*27, e1*2018/858*00186*10-*12, e1*2018/858*00187*04-*07",
+      "product": "A-class, A-class AMG, B--class, C-class, C-class AMG, CLA, CLA AMG, CLE, E-class and others",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Injuries"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099002",
+      "summary_zh": "Germany A-class, A-class AMG, B--class, C-class, C-class AMG, CLA, CLA AMG, CLE, E-class and others Injuries The wheel bolts were not tightened in accordance with the torque specifications. The bolts and the wheel assembly could detach while the vehicle is in motion, increasing the risk of accidents.",
+      "title_original": "Passenger car A-class, A-class AMG, B--class, C-class, C-class AMG, CLA, CLA AMG, CLE, E-class and others",
+      "title_zh": "Passenger car A-class, A-class AMG, B--class, C-class, C-class AMG, CLA, CLA AMG, CLE, E-class and others",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by economic operators (to: Retailer) Recall of the product from end users",
+      "brand": "Beyonce",
+      "categories": [
+        "Cosmetics"
+      ],
+      "dedupe_key": "2d98e9f0de74c041",
+      "id": "SR/01568/26",
+      "model": "",
+      "product": "Rise",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Chemical"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099090",
+      "summary_zh": "United Kingdom in respect of Northern Ireland Rise Chemical According to the list of ingredients, the product contains 2-(4-tert-butylbenzyl) propionaldehyde (BMHCA), which is prohibited in cosmetic products. BMHCA may harm the reproductive system, may harm the health of the unborn child and may cause skin sensitisation.",
+      "title_original": "Eau de toilette Rise",
+      "title_zh": "Eau de toilette Rise",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by public authorities (to: Manufacturer) Recall of the product from end users",
+      "brand": "",
+      "categories": [
+        "Lighting equipment"
+      ],
+      "dedupe_key": "a19cefe7a752c848",
+      "id": "OR/00078/26",
+      "model": "MH-Dan-50W",
+      "product": "LED LIGHT",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Electric shock"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099089",
+      "summary_zh": "Germany LED LIGHT Electric shock The product's plastic casing is not sufficiently resistant, which could cause live parts to become accessible. The user could receive an electric shock.",
+      "title_original": "Spotlight LED LIGHT",
+      "title_zh": "Spotlight LED LIGHT",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by public authorities (to: Distributor) Withdrawal of the product from market",
+      "brand": "EXPERT PERFORMANCE",
+      "categories": [
+        "Machinery"
+      ],
+      "dedupe_key": "a9dc9ae5d780cb01",
+      "id": "OR/00075/26",
+      "model": "NXCD36",
+      "product": "3.6V LITHIUM CORDLESS SCREWDRIVER WITH 45 PCS ACCESSORIES",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Burns"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099223",
+      "summary_zh": "Hungary 3.6V LITHIUM CORDLESS SCREWDRIVER WITH 45 PCS ACCESSORIES Burns The battery management system lacks a cell temperature monitoring device. The product can overheat and cause burns.",
+      "title_original": "Cordless screwdriver 3.6V LITHIUM CORDLESS SCREWDRIVER WITH 45 PCS ACCESSORIES",
+      "title_zh": "Cordless screwdriver 3.6V LITHIUM CORDLESS SCREWDRIVER WITH 45 PCS ACCESSORIES",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by public authorities (to: Importer) Withdrawal of the product from market",
+      "brand": "Pannonfitt",
+      "categories": [
+        "Electrical appliances and equipment"
+      ],
+      "dedupe_key": "8165325a28085a52",
+      "id": "OR/00073/26",
+      "model": "CDU23, JG044961",
+      "product": "Family Laser",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Burns"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099208",
+      "summary_zh": "Hungary Family Laser Burns The battery management system lacks a cell temperature monitoring device. The product can overheat and cause burns.",
+      "title_original": "Laser therapy device Family Laser",
+      "title_zh": "Laser therapy device Family Laser",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "Measures ordered by public authorities (to: Distributor) Ban on the marketing of the product and any accompanying measures",
+      "brand": "",
+      "categories": [
+        "Electrical appliances and equipment"
+      ],
+      "dedupe_key": "f308b12f16bca240",
+      "id": "OR/00072/26",
+      "model": "KMS-E89, E89",
+      "product": "Wireless Speaker",
+      "published_at": "2026-06-12",
+      "region": "EU",
+      "risks": [
+        "Burns"
+      ],
+      "severity": "unknown",
+      "source": "EU Safety Gate",
+      "source_url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10099165",
+      "summary_zh": "Hungary Wireless Speaker Burns The battery management system lacks a cell temperature monitoring device. The product can overheat and cause burns.",
+      "title_original": "Wireless speaker Wireless Speaker",
+      "title_zh": "Wireless speaker Wireless Speaker",
+      "updated_at": "2026-06-12"
     },
     {
       "action": "查看召回公告并按官方指引处理。",
@@ -436,6 +1379,29 @@
       "summary_zh": "Other",
       "title_original": "Transport Canada Recall - 2026238 - HYUNDAI",
       "title_zh": "Transport Canada Recall - 2026238 - HYUNDAI",
+      "updated_at": "2026-06-12"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "20968375ad8e0cf1",
+      "id": "54276edaf4566ef4",
+      "model": "",
+      "product": "",
+      "published_at": "2026-06-12",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202606/t20260611_115631.html",
+      "summary_zh": "大众汽车（中国）销售有限公司召回部分进口宾利欧陆系列汽车",
+      "title_original": "大众汽车（中国）销售有限公司召回部分进口宾利欧陆系列汽车",
+      "title_zh": "大众汽车（中国）销售有限公司召回部分进口宾利欧陆系列汽车",
       "updated_at": "2026-06-12"
     },
     {
@@ -4170,10 +5136,10 @@
       "categories": [
         "Car - SUV"
       ],
-      "dedupe_key": "a339022b22e72f88",
+      "dedupe_key": "55210386b0e85fb9",
       "id": "81968",
       "model": "",
-      "product": "SUV recalled by HYUNDAI",
+      "product": "Car recalled by HYUNDAI",
       "published_at": "2026-06-08",
       "region": "CA",
       "risks": [
@@ -4186,6 +5152,213 @@
       "title_original": "Transport Canada Recall - 2026185 - HYUNDAI",
       "title_zh": "Transport Canada Recall - 2026185 - HYUNDAI",
       "updated_at": "2026-06-08"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "TC",
+      "categories": [
+        "Minivan - Light Truck & Van - SUV - Car"
+      ],
+      "dedupe_key": "aa793d7037e1ffb2",
+      "id": "82178",
+      "model": "",
+      "product": "Car recalled by HONDA",
+      "published_at": "2026-06-05",
+      "region": "CA",
+      "risks": [
+        "Seats And Restraints"
+      ],
+      "severity": "unknown",
+      "source": "Canada Recalls",
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/transport-canada-recall-2026251-honda",
+      "summary_zh": "Seats And Restraints",
+      "title_original": "Transport Canada Recall - 2026251 - HONDA",
+      "title_zh": "Transport Canada Recall - 2026251 - HONDA",
+      "updated_at": "2026-06-05"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "TC",
+      "categories": [
+        "RV Trailer"
+      ],
+      "dedupe_key": "8f089ca7c17e2011",
+      "id": "82177",
+      "model": "",
+      "product": "RV Trailer recalled by KZ  RECREATIONAL VEHICLES",
+      "published_at": "2026-06-05",
+      "region": "CA",
+      "risks": [
+        "Suspension"
+      ],
+      "severity": "unknown",
+      "source": "Canada Recalls",
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/transport-canada-recall-2026247-kz-recreational-vehicles",
+      "summary_zh": "Suspension",
+      "title_original": "Transport Canada Recall - 2026247 - KZ  RECREATIONAL VEHICLES",
+      "title_zh": "Transport Canada Recall - 2026247 - KZ  RECREATIONAL VEHICLES",
+      "updated_at": "2026-06-05"
+    },
+    {
+      "action": "Consumers should immediately stop using the recalled products and store them away from children until repaired. Contact Wan Yi for repair parts, which include protective nets, stabilizing feet, and installation instructions. The firm will mail the repair parts directly to consumers free of charge.For more information, consumers can contact Wan Yi&nbsp; by telephone at 866-677-3889, between 9 a.m. and 5 p.m. PT, Monday to Friday, by email at&nbsp;customerservice-ca@cosyland.com&nbsp;visit the company website at https://cosyland.com/en-ca/pages/recall&nbsp;or&nbsp;www.cosyland.com&nbsp;and click on “Product Recalls” at the top of the page for more information.Please note that the Canada Consumer Product Safety Act prohibits recalled products from being redistributed, sold or even given away in Canada.Health Canada would like to remind consumers to report any health or safety incidents related to the use of this product or any other consumer product or cosmetic by filling out the Consumer Product Incident Report Form.This recall is also posted on the OECD Global Portal on Product Recalls website. You can visit this site for more information on other international consumer product recalls.",
+      "brand": "Consumer product safety",
+      "categories": [
+        "Furniture and furnishings"
+      ],
+      "dedupe_key": "173ccab96492e1bd",
+      "id": "82165",
+      "model": "",
+      "product": "Cosyland Kids Kitchen Step Stools",
+      "published_at": "2026-06-05",
+      "region": "CA",
+      "risks": [
+        "Consumer products"
+      ],
+      "severity": "unknown",
+      "source": "Canada Recalls",
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/cosyland-kids-kitchen-step-stools-recalled-due-fall-and-entrapment-hazards",
+      "summary_zh": "Consumer products Consumers should immediately stop using the recalled products and store them away from children until repaired. Contact Wan Yi for repair parts, which include protective nets, stabilizing feet, and installation instructions. The firm will mail the repair parts directly to consumers free of charge.For more information, consumers can contact Wan Yi&nbsp; by telephone at 866-677-3889, between 9 a.m. and 5 p.m. PT, Monday to Friday, by email at&nbsp;customerservice-ca@cosyland.com&nbsp;visit the company website at https://cosyland.com/en-ca/pages/recall&nbsp;or&nbsp;www.cosyland.com&nbsp;and click on “Product Recalls” at the top of the page for more information.Please note that the Canada Consumer Product Safety Act prohibits recalled products from being redistributed, sold or even given away in Canada.Health Canada would like to remind consumers to report any health or safety incidents related to the use of this product or any other consumer product or cosmetic by filling out the Consumer Product Incident Report Form.This recall is also posted on the OECD Global Portal on Product Recalls website. You can visit this site for more information on other international consumer product recalls.",
+      "title_original": "Cosyland Kids Kitchen Step Stools recalled due to fall and entrapment hazards",
+      "title_zh": "Cosyland Kids Kitchen Step Stools recalled due to fall and entrapment hazards",
+      "updated_at": "2026-06-05"
+    },
+    {
+      "action": "Consumers should immediately stop using the recalled product and return it to Costco Wholesale Canada for a refund.For more information, consumers can contact MAV Beauty Brands by telephone at 1-888-224-8485, 9 am to 5 pm EST, Monday to Friday, or by email at customerservice@mavbeautybrands.com. Please note that, in addition to the requirements of the Cosmetic Regulations, the Food and Drugs Act (FDA) prohibits the sale of cosmetics that are either made with hazardous substances, or under unsanitary conditions, to users in Canada.Health Canada would like to remind consumers to report any health or safety incidents related to the use of this product or any other consumer product or cosmetic by filling out the Consumer Product Incident Report Form.This recall is also posted on the OECD Global Portal on Product Recalls website. You can visit this site for more information on other international consumer product recalls.",
+      "brand": "Consumer product safety",
+      "categories": [
+        "Beauty and personal care"
+      ],
+      "dedupe_key": "0166e155a8a8444d",
+      "id": "82163",
+      "model": "",
+      "product": "Renpure Tea Tree & Rosemary Scalp Rebalancing Shampoo & Conditioner",
+      "published_at": "2026-06-05",
+      "region": "CA",
+      "risks": [
+        "Microbial hazard"
+      ],
+      "severity": "unknown",
+      "source": "Canada Recalls",
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/renpure-tea-tree-rosemary-scalp-rebalancing-shampoo-conditioner-recalled-due-microbial",
+      "summary_zh": "Microbial hazard Consumers should immediately stop using the recalled product and return it to Costco Wholesale Canada for a refund.For more information, consumers can contact MAV Beauty Brands by telephone at 1-888-224-8485, 9 am to 5 pm EST, Monday to Friday, or by email at customerservice@mavbeautybrands.com. Please note that, in addition to the requirements of the Cosmetic Regulations, the Food and Drugs Act (FDA) prohibits the sale of cosmetics that are either made with hazardous substances, or under unsanitary conditions, to users in Canada.Health Canada would like to remind consumers to report any health or safety incidents related to the use of this product or any other consumer product or cosmetic by filling out the Consumer Product Incident Report Form.This recall is also posted on the OECD Global Portal on Product Recalls website. You can visit this site for more information on other international consumer product recalls.",
+      "title_original": "Renpure Tea Tree & Rosemary Scalp Rebalancing Shampoo & Conditioner recalled due to microbial contamination",
+      "title_zh": "Renpure Tea Tree & Rosemary Scalp Rebalancing Shampoo & Conditioner recalled due to microbial contamination",
+      "updated_at": "2026-06-05"
+    },
+    {
+      "action": "Consumers should immediately stop using the recall product and dispose of it according to municipal hazardous waste guidelines.For more information, consumers can contact Utopia Distribute by telephone at 647-647-4597, 9 a.m. to 5 p.m. ET, Monday to Friday or by email at contact@utopiadistribute.com.Please note that the Canada Consumer Product Safety Act prohibits recalled products from being redistributed, sold or even given away in Canada.Health Canada would like to remind consumers to report any health or safety incidents related to the use of this product or any other consumer product or cosmetic by filling out the Consumer Product Incident Report Form.This recall is also posted on the OECD Global Portal on Product Recalls website. You can visit this site for more information on other international consumer product recalls.",
+      "brand": "Consumer product safety",
+      "categories": [
+        "Chemicals"
+      ],
+      "dedupe_key": "fc12a4edc7bd5e8c",
+      "id": "82162",
+      "model": "",
+      "product": "ODOR-CLO2 Chlorine Dioxide Odor Removal- Air Freshener & Deodorizer",
+      "published_at": "2026-06-05",
+      "region": "CA",
+      "risks": [
+        "Labelling and packaging"
+      ],
+      "severity": "unknown",
+      "source": "Canada Recalls",
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/safrax-odor-clo2-chlorine-dioxide-odor-removal-air-freshener-deodorizer-recalled-due",
+      "summary_zh": "Labelling and packaging Consumers should immediately stop using the recall product and dispose of it according to municipal hazardous waste guidelines.For more information, consumers can contact Utopia Distribute by telephone at 647-647-4597, 9 a.m. to 5 p.m. ET, Monday to Friday or by email at contact@utopiadistribute.com.Please note that the Canada Consumer Product Safety Act prohibits recalled products from being redistributed, sold or even given away in Canada.Health Canada would like to remind consumers to report any health or safety incidents related to the use of this product or any other consumer product or cosmetic by filling out the Consumer Product Incident Report Form.This recall is also posted on the OECD Global Portal on Product Recalls website. You can visit this site for more information on other international consumer product recalls.",
+      "title_original": "​Safrax ODOR-CLO2 Chlorine Dioxide Odor Removal- Air Freshener & Deodorizer​ recalled due to improper labelling and lack of child-resistant packaging",
+      "title_zh": "​Safrax ODOR-CLO2 Chlorine Dioxide Odor Removal- Air Freshener & Deodorizer​ recalled due to improper labelling and lack of child-resistant packaging",
+      "updated_at": "2026-06-05"
+    },
+    {
+      "action": "Consumers should immediately stop using the recalled product, keep it out of reach of children and dispose of it or return to Panda Mart for a refund. For more information, consumers can contact Panda Mart by telephone at (416) 757-5557, operating Monday to Sunday from 9 am to 9 pm EST, by email at info@pandamartcanada.ca or visit the company website.Please note that the Canada Consumer Product Safety Act prohibits recalled products from being redistributed, sold or even given away in Canada.Health Canada would like to remind consumers to report any health or safety incidents related to the use of this product or any other consumer product or cosmetic by filling out the Consumer Product Incident Report Form.This recall is also posted on the OECD Global Portal on Product Recalls website. You can visit this site for more information on other international consumer product recalls.",
+      "brand": "Consumer product safety",
+      "categories": [
+        "Household items"
+      ],
+      "dedupe_key": "e1b3217454f5ac82",
+      "id": "82151",
+      "model": "",
+      "product": "Window Roller Blind",
+      "published_at": "2026-06-05",
+      "region": "CA",
+      "risks": [
+        "Strangulation hazard"
+      ],
+      "severity": "unknown",
+      "source": "Canada Recalls",
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/hj-window-roller-blind-recalled-due-strangulation-hazard",
+      "summary_zh": "Strangulation hazard Consumers should immediately stop using the recalled product, keep it out of reach of children and dispose of it or return to Panda Mart for a refund. For more information, consumers can contact Panda Mart by telephone at (416) 757-5557, operating Monday to Sunday from 9 am to 9 pm EST, by email at info@pandamartcanada.ca or visit the company website.Please note that the Canada Consumer Product Safety Act prohibits recalled products from being redistributed, sold or even given away in Canada.Health Canada would like to remind consumers to report any health or safety incidents related to the use of this product or any other consumer product or cosmetic by filling out the Consumer Product Incident Report Form.This recall is also posted on the OECD Global Portal on Product Recalls website. You can visit this site for more information on other international consumer product recalls.",
+      "title_original": "​​HJ Window Roller Blind​ recalled due to strangulation hazard",
+      "title_zh": "​​HJ Window Roller Blind​ recalled due to strangulation hazard",
+      "updated_at": "2026-06-05"
+    },
+    {
+      "action": "Consumers should immediately stop using the recalled product and return it to Leapfrog Outdoor Sports and Apparel for a refund.For more information, consumers can contact Leapfrog Outdoor Sports and Apparel by telephone at 587-486-0563, Tuesday to Friday from 10:00-17:00 MST, by email at info@leapfrogoutdoor.ca or visit the company website.Please note that the Canada Consumer Product Safety Act prohibits recalled products from being redistributed,&nbsp;sold&nbsp;or even given away in Canada.Health Canada would like to remind consumers to report any health or safety incidents related to the use of this product or any other consumer product or cosmetic by filling out the&nbsp;Consumer Product Incident Report Form.This recall is also posted on the&nbsp;OECD Global Portal on Product Recalls website.&nbsp;You can visit this site for more information on other international consumer product recalls.",
+      "brand": "Consumer product safety",
+      "categories": [
+        "Electronics"
+      ],
+      "dedupe_key": "9ef1b7e866b73bcc",
+      "id": "82150",
+      "model": "",
+      "product": "Steambow Archery AR-Series Laser Sight",
+      "published_at": "2026-06-05",
+      "region": "CA",
+      "risks": [
+        "Injury hazard"
+      ],
+      "severity": "unknown",
+      "source": "Canada Recalls",
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/steambow-archery-ar-series-laser-sight-green-recalled-due-eye-injury-hazard",
+      "summary_zh": "Injury hazard Consumers should immediately stop using the recalled product and return it to Leapfrog Outdoor Sports and Apparel for a refund.For more information, consumers can contact Leapfrog Outdoor Sports and Apparel by telephone at 587-486-0563, Tuesday to Friday from 10:00-17:00 MST, by email at info@leapfrogoutdoor.ca or visit the company website.Please note that the Canada Consumer Product Safety Act prohibits recalled products from being redistributed,&nbsp;sold&nbsp;or even given away in Canada.Health Canada would like to remind consumers to report any health or safety incidents related to the use of this product or any other consumer product or cosmetic by filling out the&nbsp;Consumer Product Incident Report Form.This recall is also posted on the&nbsp;OECD Global Portal on Product Recalls website.&nbsp;You can visit this site for more information on other international consumer product recalls.",
+      "title_original": "​​Steambow Archery AR-Series Laser Sight (Green)​ recalled due to eye injury hazard",
+      "title_zh": "​​Steambow Archery AR-Series Laser Sight (Green)​ recalled due to eye injury hazard",
+      "updated_at": "2026-06-05"
+    },
+    {
+      "action": "Check to see if you have recalled productsDo not consume recalled products to which you are allergic or sensitive as they may cause a serious or life-threatening reactionDo not serve, use, sell or distribute recalled productsRecalled products should be thrown out or returned to the location where they were purchasedLearn more:Learn more about common food allergiesSign up for recall notifications by email and follow us on social mediaView our detailed explanation of the food safety investigation and recall processReport a food safety or labelling concern",
+      "brand": "CFIA",
+      "categories": [
+        "Processed"
+      ],
+      "dedupe_key": "af628085ff306e97",
+      "id": "81423",
+      "model": "",
+      "product": "Tako Wasabi - Wasabi Flavoured Octopus, Seasoned Octopus with Wasabi Sauce (Tako Wasabi)",
+      "published_at": "2026-06-05",
+      "region": "CA",
+      "risks": [
+        "Fish"
+      ],
+      "severity": "Class 1",
+      "source": "Canada Recalls",
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/tako-wasabi-products-recalled-due-undeclared-fish",
+      "summary_zh": "Fish Check to see if you have recalled productsDo not consume recalled products to which you are allergic or sensitive as they may cause a serious or life-threatening reactionDo not serve, use, sell or distribute recalled productsRecalled products should be thrown out or returned to the location where they were purchasedLearn more:Learn more about common food allergiesSign up for recall notifications by email and follow us on social mediaView our detailed explanation of the food safety investigation and recall processReport a food safety or labelling concern",
+      "title_original": "Tako Wasabi products recalled due to undeclared fish",
+      "title_zh": "Tako Wasabi products recalled due to undeclared fish",
+      "updated_at": "2026-06-05"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "949cabc5871d3965",
+      "id": "7ff1eb6020c160bf",
+      "model": "",
+      "product": "",
+      "published_at": "2026-06-05",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202606/t20260604_115617.html",
+      "summary_zh": "宝马（中国）汽车贸易有限公司召回部分进口摩托车",
+      "title_original": "宝马（中国）汽车贸易有限公司召回部分进口摩托车",
+      "title_zh": "宝马（中国）汽车贸易有限公司召回部分进口摩托车",
+      "updated_at": "2026-06-05"
     },
     {
       "action": "查看召回公告并按官方指引处理。",
@@ -4277,6 +5450,52 @@
       "summary_zh": "This recall involves Broqixin-branded pool drain covers. The white plastic pool drain covers measure about 7.36 inches in diameter and weigh about 3.84 ounces and come with two screws. \"Model 11064W\" is printed on the product's packaging.",
       "title_original": "Pool Drain Covers Recalled Due to Risk of Serious Injury or Death from Entrapment and Drowning Hazards; Violates Virginia Graeme Baker Pool & Spa Safety Act; Sold on Amazon by Broqixin",
       "title_zh": "Pool Drain Covers Recalled Due to Risk of Serious Injury or Death from Entrapment and Drowning Hazards; Violates Virginia Graeme Baker Pool & Spa Safety Act; Sold on Amazon by Broqixin",
+      "updated_at": "2026-06-04"
+    },
+    {
+      "action": "Consumers should immediately stop using the recalled Wyze Solar Cam Pan and visit the Wyze Labs Inc website&nbsp;for the company’s refund process. For more information, consumers can contact Wyze labs, Inc by telephone toll-free at 1-888-832-7226 from 8:00 a.m. to 6:00 p.m. PST Monday to Friday, by email at recall@wyze.com or visit the company website.Joint recall with Health Canada, the United States Consumer Product Safety Commission (US CPSC) and Wyze Labs, Inc.Please note that the Canada Consumer Product Safety Act prohibits recalled products from being redistributed, sold or even given away in Canada.Health Canada would like to remind consumers to report any health or safety incidents related to the use of this product or any other consumer product or cosmetic by filling out the Consumer Product Incident Report Form.This recall is also posted on the OECD Global Portal on Product Recalls website. You can visit this site for more information on other international consumer product recalls.",
+      "brand": "Consumer product safety",
+      "categories": [
+        "Audio visual and photography"
+      ],
+      "dedupe_key": "b743dfc7a7934480",
+      "id": "82139",
+      "model": "",
+      "product": "Wyze Solar Cam Pan",
+      "published_at": "2026-06-04",
+      "region": "CA",
+      "risks": [
+        "Burn hazard - Fire hazard"
+      ],
+      "severity": "unknown",
+      "source": "Canada Recalls",
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/wyze-solar-cam-pan-recalled-due-burn-and-fire-hazards",
+      "summary_zh": "Burn hazard - Fire hazard Consumers should immediately stop using the recalled Wyze Solar Cam Pan and visit the Wyze Labs Inc website&nbsp;for the company’s refund process. For more information, consumers can contact Wyze labs, Inc by telephone toll-free at 1-888-832-7226 from 8:00 a.m. to 6:00 p.m. PST Monday to Friday, by email at recall@wyze.com or visit the company website.Joint recall with Health Canada, the United States Consumer Product Safety Commission (US CPSC) and Wyze Labs, Inc.Please note that the Canada Consumer Product Safety Act prohibits recalled products from being redistributed, sold or even given away in Canada.Health Canada would like to remind consumers to report any health or safety incidents related to the use of this product or any other consumer product or cosmetic by filling out the Consumer Product Incident Report Form.This recall is also posted on the OECD Global Portal on Product Recalls website. You can visit this site for more information on other international consumer product recalls.",
+      "title_original": "Wyze Solar Cam Pan recalled due to burn and fire hazards",
+      "title_zh": "Wyze Solar Cam Pan recalled due to burn and fire hazards",
+      "updated_at": "2026-06-04"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "TC",
+      "categories": [
+        "Bus"
+      ],
+      "dedupe_key": "d8b2e33fce83d9e1",
+      "id": "81852",
+      "model": "",
+      "product": "Bus recalled by NOVA BUS",
+      "published_at": "2026-06-04",
+      "region": "CA",
+      "risks": [
+        "Seats And Restraints"
+      ],
+      "severity": "unknown",
+      "source": "Canada Recalls",
+      "source_url": "https://recalls-rappels.canada.ca/en/alert-recall/transport-canada-recall-2026137-nova-bus",
+      "summary_zh": "Seats And Restraints",
+      "title_original": "Transport Canada Recall - 2026137 - NOVA BUS",
+      "title_zh": "Transport Canada Recall - 2026137 - NOVA BUS",
       "updated_at": "2026-06-04"
     },
     {
@@ -4646,6 +5865,52 @@
       "title_original": "Nicotine Transdermal System Patch, 14 mg, 14 patches per box, Aveva, Distributed by: RUGBY LABORATORIES, Indianapolis, IN 46268, www.majorpharmaceuticals.com, NDC 0536-5895-88.",
       "title_zh": "Nicotine Transdermal System Patch, 14 mg, 14 patches per box, Aveva, Distributed by: RUGBY LABORATORIES, Indianapolis, IN 46268, www.majorpharmaceuticals.com, NDC 0536-5895-88.",
       "updated_at": "2026-05-14"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "98e395fab07bb6b7",
+      "id": "95e6663fe421c302",
+      "model": "",
+      "product": "",
+      "published_at": "2026-05-29",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202605/t20260528_115593.html",
+      "summary_zh": "北京奔驰汽车有限公司召回部分国产汽车",
+      "title_original": "北京奔驰汽车有限公司召回部分国产汽车",
+      "title_zh": "北京奔驰汽车有限公司召回部分国产汽车",
+      "updated_at": "2026-05-29"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "d4077190daf4782c",
+      "id": "79999346d7bc9cfa",
+      "model": "",
+      "product": "",
+      "published_at": "2026-05-29",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202605/t20260528_115592.html",
+      "summary_zh": "现代汽车（中国）投资有限公司召回部分进口帕里斯帝汽车",
+      "title_original": "现代汽车（中国）投资有限公司召回部分进口帕里斯帝汽车",
+      "title_zh": "现代汽车（中国）投资有限公司召回部分进口帕里斯帝汽车",
+      "updated_at": "2026-05-29"
     },
     {
       "action": "查看召回公告并按官方指引处理。",
@@ -5387,6 +6652,98 @@
       "action": "查看召回公告并按官方指引处理。",
       "brand": "",
       "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "0a6c84be3dad0b73",
+      "id": "e701582b137527b8",
+      "model": "",
+      "product": "",
+      "published_at": "2026-05-22",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202605/t20260520_115568.html",
+      "summary_zh": "洛阳中集凌宇汽车有限公司召回部分凌宇牌混凝土搅拌车",
+      "title_original": "洛阳中集凌宇汽车有限公司召回部分凌宇牌混凝土搅拌车",
+      "title_zh": "洛阳中集凌宇汽车有限公司召回部分凌宇牌混凝土搅拌车",
+      "updated_at": "2026-05-22"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "685c693a70364ddd",
+      "id": "9ed23c3cf4e81e0e",
+      "model": "",
+      "product": "",
+      "published_at": "2026-05-22",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202605/t20260520_115566.html",
+      "summary_zh": "东风汽车有限公司召回部分东风日产N7、N6汽车",
+      "title_original": "东风汽车有限公司召回部分东风日产N7、N6汽车",
+      "title_zh": "东风汽车有限公司召回部分东风日产N7、N6汽车",
+      "updated_at": "2026-05-22"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "373b67bb0ab5901b",
+      "id": "5049be4cea0b5a6f",
+      "model": "",
+      "product": "",
+      "published_at": "2026-05-22",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202605/t20260520_115549.html",
+      "summary_zh": "福特汽车（中国）有限公司召回部分进口探险者汽车",
+      "title_original": "福特汽车（中国）有限公司召回部分进口探险者汽车",
+      "title_zh": "福特汽车（中国）有限公司召回部分进口探险者汽车",
+      "updated_at": "2026-05-22"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "5083fff3fadc99e9",
+      "id": "209a5cde6dc7363d",
+      "model": "",
+      "product": "",
+      "published_at": "2026-05-22",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202605/t20260520_115550.html",
+      "summary_zh": "阿斯顿马丁拉共达（中国）汽车销售有限公司召回部分进口DBX系列汽车",
+      "title_original": "阿斯顿马丁拉共达（中国）汽车销售有限公司召回部分进口DBX系列汽车",
+      "title_zh": "阿斯顿马丁拉共达（中国）汽车销售有限公司召回部分进口DBX系列汽车",
+      "updated_at": "2026-05-22"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
         "未分类"
       ],
       "dedupe_key": "b9fbd1a3ad916d5c",
@@ -5796,6 +7153,949 @@
       "title_original": "BRP Recalls Can-Am All-Terrain Vehicles (ATVs) Due to Risk of Serious Injury and Death from Crash Hazard",
       "title_zh": "BRP Recalls Can-Am All-Terrain Vehicles (ATVs) Due to Risk of Serious Injury and Death from Crash Hazard",
       "updated_at": "2026-05-14"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "3d5237301d3b1dad",
+      "id": "145f61c39608bd04",
+      "model": "",
+      "product": "",
+      "published_at": "2026-05-09",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202605/t20260509_115444.html",
+      "summary_zh": "中国重汽集团济宁商用车有限公司召回部分厢式运输车",
+      "title_original": "中国重汽集团济宁商用车有限公司召回部分厢式运输车",
+      "title_zh": "中国重汽集团济宁商用车有限公司召回部分厢式运输车",
+      "updated_at": "2026-05-09"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "f667ae8b692bc214",
+      "id": "c0d721064231a315",
+      "model": "",
+      "product": "",
+      "published_at": "2026-04-30",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202604/t20260429_115395.html",
+      "summary_zh": "梅赛德斯-奔驰（中国）汽车销售有限公司召回部分进口G 580纯电动汽车",
+      "title_original": "梅赛德斯-奔驰（中国）汽车销售有限公司召回部分进口G 580纯电动汽车",
+      "title_zh": "梅赛德斯-奔驰（中国）汽车销售有限公司召回部分进口G 580纯电动汽车",
+      "updated_at": "2026-04-30"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "1b3ca200b931813a",
+      "id": "a47f80c2b54fb1ee",
+      "model": "",
+      "product": "",
+      "published_at": "2026-04-30",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202604/t20260429_115394.html",
+      "summary_zh": "一汽-大众汽车有限公司召回部分进口和国产奥迪E-TRON汽车",
+      "title_original": "一汽-大众汽车有限公司召回部分进口和国产奥迪E-TRON汽车",
+      "title_zh": "一汽-大众汽车有限公司召回部分进口和国产奥迪E-TRON汽车",
+      "updated_at": "2026-04-30"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "c0520662d2f0d700",
+      "id": "91fd59eae83798b7",
+      "model": "",
+      "product": "",
+      "published_at": "2026-04-30",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202604/t20260415_115367.html",
+      "summary_zh": "本田摩托车销售（上海）有限公司召回部分进口CB1000R型摩托车",
+      "title_original": "本田摩托车销售（上海）有限公司召回部分进口CB1000R型摩托车",
+      "title_zh": "本田摩托车销售（上海）有限公司召回部分进口CB1000R型摩托车",
+      "updated_at": "2026-04-30"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "ea7b0b79debdf153",
+      "id": "eb634bafa0c40c82",
+      "model": "",
+      "product": "",
+      "published_at": "2026-04-24",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202604/t20260424_115384.html",
+      "summary_zh": "四川南骏汽车集团有限公司召回部分新祥康EDH纯电动自卸汽车",
+      "title_original": "四川南骏汽车集团有限公司召回部分新祥康EDH纯电动自卸汽车",
+      "title_zh": "四川南骏汽车集团有限公司召回部分新祥康EDH纯电动自卸汽车",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "03ff9ba153b35dbb",
+      "id": "a487e9fe033a3af4",
+      "model": "",
+      "product": "",
+      "published_at": "2026-04-24",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202604/t20260424_115383.html",
+      "summary_zh": "丰田海南出行有限公司召回部分进口LX600汽车",
+      "title_original": "丰田海南出行有限公司召回部分进口LX600汽车",
+      "title_zh": "丰田海南出行有限公司召回部分进口LX600汽车",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "6b11bdc1b8928fa8",
+      "id": "d2741153ae3c942f",
+      "model": "",
+      "product": "",
+      "published_at": "2026-04-17",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202604/t20260415_115366.html",
+      "summary_zh": "丰田汽车（中国）投资有限公司召回部分进口雷克萨斯汽车",
+      "title_original": "丰田汽车（中国）投资有限公司召回部分进口雷克萨斯汽车",
+      "title_zh": "丰田汽车（中国）投资有限公司召回部分进口雷克萨斯汽车",
+      "updated_at": "2026-04-17"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "f36e4ce6b26a6b3b",
+      "id": "5e4c562acf1b375c",
+      "model": "",
+      "product": "",
+      "published_at": "2026-04-17",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202604/t20260415_115364.html",
+      "summary_zh": "浙江吉利汽车有限公司召回部分86千瓦时版极星4汽车",
+      "title_original": "浙江吉利汽车有限公司召回部分86千瓦时版极星4汽车",
+      "title_zh": "浙江吉利汽车有限公司召回部分86千瓦时版极星4汽车",
+      "updated_at": "2026-04-17"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "d4077190daf4782c",
+      "id": "51ab480799294eec",
+      "model": "",
+      "product": "",
+      "published_at": "2026-04-17",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202604/t20260415_115365.html",
+      "summary_zh": "现代汽车（中国）投资有限公司召回部分进口帕里斯帝汽车",
+      "title_original": "现代汽车（中国）投资有限公司召回部分进口帕里斯帝汽车",
+      "title_zh": "现代汽车（中国）投资有限公司召回部分进口帕里斯帝汽车",
+      "updated_at": "2026-04-17"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "3ce440d48bf095cc",
+      "id": "edda0e7d2871f6e0",
+      "model": "",
+      "product": "",
+      "published_at": "2026-04-10",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202604/t20260409_115344.html",
+      "summary_zh": "东风商用车有限公司召回部分东风牌汽车",
+      "title_original": "东风商用车有限公司召回部分东风牌汽车",
+      "title_zh": "东风商用车有限公司召回部分东风牌汽车",
+      "updated_at": "2026-04-10"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "6412c56d3bb00373",
+      "id": "7410a424791935f0",
+      "model": "",
+      "product": "",
+      "published_at": "2026-04-10",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202604/t20260409_115345.html",
+      "summary_zh": "北京现代汽车有限公司召回部分索纳塔汽车",
+      "title_original": "北京现代汽车有限公司召回部分索纳塔汽车",
+      "title_zh": "北京现代汽车有限公司召回部分索纳塔汽车",
+      "updated_at": "2026-04-10"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "95e31d101f466cd4",
+      "id": "f88abd97a724dff0",
+      "model": "",
+      "product": "",
+      "published_at": "2026-04-07",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202604/t20260403_115314.html",
+      "summary_zh": "捷豹路虎（中国）投资有限公司召回部分进口路虎揽胜、揽胜运动版汽车",
+      "title_original": "捷豹路虎（中国）投资有限公司召回部分进口路虎揽胜、揽胜运动版汽车",
+      "title_zh": "捷豹路虎（中国）投资有限公司召回部分进口路虎揽胜、揽胜运动版汽车",
+      "updated_at": "2026-04-07"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "67507a083e331932",
+      "id": "87c5535de13c67df",
+      "model": "",
+      "product": "",
+      "published_at": "2026-04-07",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202604/t20260403_115315.html",
+      "summary_zh": "本田技研工业（中国）投资有限公司召回部分进口CM500型摩托车",
+      "title_original": "本田技研工业（中国）投资有限公司召回部分进口CM500型摩托车",
+      "title_zh": "本田技研工业（中国）投资有限公司召回部分进口CM500型摩托车",
+      "updated_at": "2026-04-07"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "daeb03090ac8db61",
+      "id": "7824efbe0b98327a",
+      "model": "",
+      "product": "",
+      "published_at": "2026-04-07",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202604/t20260403_115313.html",
+      "summary_zh": "江苏悦达起亚汽车有限公司召回起亚EV5纯电动汽车",
+      "title_original": "江苏悦达起亚汽车有限公司召回起亚EV5纯电动汽车",
+      "title_zh": "江苏悦达起亚汽车有限公司召回起亚EV5纯电动汽车",
+      "updated_at": "2026-04-07"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "a75ce908a0d00590",
+      "id": "7746b2975983c292",
+      "model": "",
+      "product": "",
+      "published_at": "2026-04-07",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202604/t20260403_115316.html",
+      "summary_zh": "宝马（中国）汽车贸易有限公司召回部分劳斯莱斯汽车",
+      "title_original": "宝马（中国）汽车贸易有限公司召回部分劳斯莱斯汽车",
+      "title_zh": "宝马（中国）汽车贸易有限公司召回部分劳斯莱斯汽车",
+      "updated_at": "2026-04-07"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "4282f818e9d93f93",
+      "id": "80955936166c18ed",
+      "model": "",
+      "product": "",
+      "published_at": "2026-03-27",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202603/t20260325_115293.html",
+      "summary_zh": "广汽丰田汽车有限公司、一汽丰田汽车有限公司召回部分国产汽车",
+      "title_original": "广汽丰田汽车有限公司、一汽丰田汽车有限公司召回部分国产汽车",
+      "title_zh": "广汽丰田汽车有限公司、一汽丰田汽车有限公司召回部分国产汽车",
+      "updated_at": "2026-03-27"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "9f74c2b2a466df0b",
+      "id": "44156e818b3b18fb",
+      "model": "",
+      "product": "",
+      "published_at": "2026-03-27",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202603/t20260325_115294.html",
+      "summary_zh": "中集车辆（江门市）有限公司召回中集牌混凝土搅拌车",
+      "title_original": "中集车辆（江门市）有限公司召回中集牌混凝土搅拌车",
+      "title_zh": "中集车辆（江门市）有限公司召回中集牌混凝土搅拌车",
+      "updated_at": "2026-03-27"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "57833a0fc3156e40",
+      "id": "6c22fac002ce8d78",
+      "model": "",
+      "product": "",
+      "published_at": "2026-03-24",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202603/t20260319_115263.html",
+      "summary_zh": "英轮凯旋（上海）商贸有限公司召回部分进口摩托车",
+      "title_original": "英轮凯旋（上海）商贸有限公司召回部分进口摩托车",
+      "title_zh": "英轮凯旋（上海）商贸有限公司召回部分进口摩托车",
+      "updated_at": "2026-03-24"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "8330d3b54fd4add3",
+      "id": "3d66ab7c0eb11221",
+      "model": "",
+      "product": "",
+      "published_at": "2026-03-24",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202603/t20260319_115262.html",
+      "summary_zh": "华晨宝马汽车有限公司、宝马（中国）汽车贸易有限公司召回部分国产及进口宝马汽车",
+      "title_original": "华晨宝马汽车有限公司、宝马（中国）汽车贸易有限公司召回部分国产及进口宝马汽车",
+      "title_zh": "华晨宝马汽车有限公司、宝马（中国）汽车贸易有限公司召回部分国产及进口宝马汽车",
+      "updated_at": "2026-03-24"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "a4b6983689b76a23",
+      "id": "bf8892226bbce0a6",
+      "model": "",
+      "product": "",
+      "published_at": "2026-03-11",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202603/t20260304_115216.html",
+      "summary_zh": "浙江豪情汽车制造有限公司召回部分精灵#1、精灵#3汽车",
+      "title_original": "浙江豪情汽车制造有限公司召回部分精灵#1、精灵#3汽车",
+      "title_zh": "浙江豪情汽车制造有限公司召回部分精灵#1、精灵#3汽车",
+      "updated_at": "2026-03-11"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "bb708c08aba5255c",
+      "id": "b9f720a5671e61cd",
+      "model": "",
+      "product": "",
+      "published_at": "2026-03-11",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202603/t20260304_115217.html",
+      "summary_zh": "丰田汽车（中国）投资有限公司召回部分进口汽车",
+      "title_original": "丰田汽车（中国）投资有限公司召回部分进口汽车",
+      "title_zh": "丰田汽车（中国）投资有限公司召回部分进口汽车",
+      "updated_at": "2026-03-11"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "c9d2c9301baa3c71",
+      "id": "a59f75f831865554",
+      "model": "",
+      "product": "",
+      "published_at": "2026-03-11",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202602/t20260227_115212.html",
+      "summary_zh": "上海豪摩贸易有限公司召回部分进口杜卡迪Panigale V4 7G系列摩托车",
+      "title_original": "上海豪摩贸易有限公司召回部分进口杜卡迪Panigale V4 7G系列摩托车",
+      "title_zh": "上海豪摩贸易有限公司召回部分进口杜卡迪Panigale V4 7G系列摩托车",
+      "updated_at": "2026-03-11"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "794d23f8631a1c54",
+      "id": "48ba27ed0f8616a1",
+      "model": "",
+      "product": "",
+      "published_at": "2026-03-11",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202603/t20260304_115218.html",
+      "summary_zh": "宝马（中国）汽车贸易有限公司召回部分进口汽车",
+      "title_original": "宝马（中国）汽车贸易有限公司召回部分进口汽车",
+      "title_zh": "宝马（中国）汽车贸易有限公司召回部分进口汽车",
+      "updated_at": "2026-03-11"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "7e84d3bdc4bf3417",
+      "id": "1b914a1e64bf804a",
+      "model": "",
+      "product": "",
+      "published_at": "2026-02-14",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202602/t20260214_115202.html",
+      "summary_zh": "北京奔驰汽车有限公司召回部分国产EQA和EQB汽车",
+      "title_original": "北京奔驰汽车有限公司召回部分国产EQA和EQB汽车",
+      "title_zh": "北京奔驰汽车有限公司召回部分国产EQA和EQB汽车",
+      "updated_at": "2026-02-14"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "33a7b5a6a826ca95",
+      "id": "f9cb65ca7894d2a6",
+      "model": "",
+      "product": "",
+      "published_at": "2026-02-12",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202602/t20260211_115186.html",
+      "summary_zh": "东风商用车有限公司召回部分东风牌KC、KL系列纯电动车",
+      "title_original": "东风商用车有限公司召回部分东风牌KC、KL系列纯电动车",
+      "title_zh": "东风商用车有限公司召回部分东风牌KC、KL系列纯电动车",
+      "updated_at": "2026-02-12"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "6f687a0312da2efa",
+      "id": "8d6782bc339f2f59",
+      "model": "",
+      "product": "",
+      "published_at": "2026-02-12",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202601/t20260130_115049.html",
+      "summary_zh": "克莱斯勒（中国）汽车销售有限公司召回部分进口牧马人汽车",
+      "title_original": "克莱斯勒（中国）汽车销售有限公司召回部分进口牧马人汽车",
+      "title_zh": "克莱斯勒（中国）汽车销售有限公司召回部分进口牧马人汽车",
+      "updated_at": "2026-02-12"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "0eec6a48ec8baf35",
+      "id": "1e598b3a4f472532",
+      "model": "",
+      "product": "",
+      "published_at": "2026-02-12",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202602/t20260211_115185.html",
+      "summary_zh": "东风汽车有限公司召回部分东风日产奇骏汽车",
+      "title_original": "东风汽车有限公司召回部分东风日产奇骏汽车",
+      "title_zh": "东风汽车有限公司召回部分东风日产奇骏汽车",
+      "updated_at": "2026-02-12"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "aeb941b1757a91fd",
+      "id": "e0c1eab5d3c4ae9f",
+      "model": "",
+      "product": "",
+      "published_at": "2026-02-09",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202602/t20260209_115153.html",
+      "summary_zh": "上海蔚来汽车有限公司召回部分ES8、ES6、EC6纯电动汽车",
+      "title_original": "上海蔚来汽车有限公司召回部分ES8、ES6、EC6纯电动汽车",
+      "title_zh": "上海蔚来汽车有限公司召回部分ES8、ES6、EC6纯电动汽车",
+      "updated_at": "2026-02-09"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "87b8fd1222bc921c",
+      "id": "b72e52b467b2f4f3",
+      "model": "",
+      "product": "",
+      "published_at": "2026-02-09",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202602/t20260209_115154.html",
+      "summary_zh": "浙江极氪智能科技有限公司召回部分极氪001WE版汽车",
+      "title_original": "浙江极氪智能科技有限公司召回部分极氪001WE版汽车",
+      "title_zh": "浙江极氪智能科技有限公司召回部分极氪001WE版汽车",
+      "updated_at": "2026-02-09"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "039b28bdd2d18538",
+      "id": "68eb3026e2e3a486",
+      "model": "",
+      "product": "",
+      "published_at": "2026-02-06",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202602/t20260206_115109.html",
+      "summary_zh": "浙江豪情汽车制造有限公司召回部分国产沃尔沃XC70汽车",
+      "title_original": "浙江豪情汽车制造有限公司召回部分国产沃尔沃XC70汽车",
+      "title_zh": "浙江豪情汽车制造有限公司召回部分国产沃尔沃XC70汽车",
+      "updated_at": "2026-02-06"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "95b5b8a4901cd63c",
+      "id": "5fd3cfcc78ae0cd8",
+      "model": "",
+      "product": "",
+      "published_at": "2026-02-06",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202602/t20260206_115115.html",
+      "summary_zh": "捷豹路虎（中国）投资有限公司召回部分进口路虎揽胜运动版插电式混合动力汽车",
+      "title_original": "捷豹路虎（中国）投资有限公司召回部分进口路虎揽胜运动版插电式混合动力汽车",
+      "title_zh": "捷豹路虎（中国）投资有限公司召回部分进口路虎揽胜运动版插电式混合动力汽车",
+      "updated_at": "2026-02-06"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "fcae29094f37bc33",
+      "id": "483ce66d37588c91",
+      "model": "",
+      "product": "",
+      "published_at": "2026-02-06",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202602/t20260206_115107.html",
+      "summary_zh": "一汽-大众汽车有限公司召回部分国产奥迪Q2L汽车",
+      "title_original": "一汽-大众汽车有限公司召回部分国产奥迪Q2L汽车",
+      "title_zh": "一汽-大众汽车有限公司召回部分国产奥迪Q2L汽车",
+      "updated_at": "2026-02-06"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "951f58260910f452",
+      "id": "420515a2e0b25a18",
+      "model": "",
+      "product": "",
+      "published_at": "2026-02-06",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202602/t20260206_115111.html",
+      "summary_zh": "福特汽车（中国）有限公司召回部分林肯航海家汽车",
+      "title_original": "福特汽车（中国）有限公司召回部分林肯航海家汽车",
+      "title_zh": "福特汽车（中国）有限公司召回部分林肯航海家汽车",
+      "updated_at": "2026-02-06"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "d660618ef0b96cd7",
+      "id": "1ae3f4c6da97f044",
+      "model": "",
+      "product": "",
+      "published_at": "2026-02-06",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202602/t20260206_115113.html",
+      "summary_zh": "斯泰兰蒂斯（上海）汽车有限公司召回部分进口朱丽叶汽车",
+      "title_original": "斯泰兰蒂斯（上海）汽车有限公司召回部分进口朱丽叶汽车",
+      "title_zh": "斯泰兰蒂斯（上海）汽车有限公司召回部分进口朱丽叶汽车",
+      "updated_at": "2026-02-06"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "6f0c2e72d0de1397",
+      "id": "a449eeb8c8e3d815",
+      "model": "",
+      "product": "",
+      "published_at": "2026-02-04",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202601/t20260123_115010.html",
+      "summary_zh": "梅赛德斯-奔驰（中国）汽车销售有限公司和北京奔驰汽车有限公司召回部分进口和国产汽车",
+      "title_original": "梅赛德斯-奔驰（中国）汽车销售有限公司和北京奔驰汽车有限公司召回部分进口和国产汽车",
+      "title_zh": "梅赛德斯-奔驰（中国）汽车销售有限公司和北京奔驰汽车有限公司召回部分进口和国产汽车",
+      "updated_at": "2026-02-04"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "f3c68d84b06ab74b",
+      "id": "82cf970ada6022b2",
+      "model": "",
+      "product": "",
+      "published_at": "2026-02-04",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202601/t20260123_115012.html",
+      "summary_zh": "本田技研工业（中国）投资有限公司召回部分进口CBR650型摩托车",
+      "title_original": "本田技研工业（中国）投资有限公司召回部分进口CBR650型摩托车",
+      "title_zh": "本田技研工业（中国）投资有限公司召回部分进口CBR650型摩托车",
+      "updated_at": "2026-02-04"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "51888ede554caba6",
+      "id": "35725a00262617e7",
+      "model": "",
+      "product": "",
+      "published_at": "2026-02-04",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202601/t20260123_115011.html",
+      "summary_zh": "捷豹路虎（中国）投资有限公司召回部分进口路虎揽胜、揽胜运动版系列汽车",
+      "title_original": "捷豹路虎（中国）投资有限公司召回部分进口路虎揽胜、揽胜运动版系列汽车",
+      "title_zh": "捷豹路虎（中国）投资有限公司召回部分进口路虎揽胜、揽胜运动版系列汽车",
+      "updated_at": "2026-02-04"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "42e7d951bd4f8870",
+      "id": "1b5c71326953770f",
+      "model": "",
+      "product": "",
+      "published_at": "2026-02-04",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202601/t20260123_115009.html",
+      "summary_zh": "东风汽车股份有限公司召回部分EV18纯电动厢式物流车",
+      "title_original": "东风汽车股份有限公司召回部分EV18纯电动厢式物流车",
+      "title_zh": "东风汽车股份有限公司召回部分EV18纯电动厢式物流车",
+      "updated_at": "2026-02-04"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "62bdceb6f5f303c7",
+      "id": "62640b11bb0c1076",
+      "model": "",
+      "product": "",
+      "published_at": "2026-01-23",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202601/t20260123_115008.html",
+      "summary_zh": "一汽丰田汽车（成都）有限公司长春丰越分公司、广汽丰田汽车有限公司召回部分汽车",
+      "title_original": "一汽丰田汽车（成都）有限公司长春丰越分公司、广汽丰田汽车有限公司召回部分汽车",
+      "title_zh": "一汽丰田汽车（成都）有限公司长春丰越分公司、广汽丰田汽车有限公司召回部分汽车",
+      "updated_at": "2026-01-23"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "5eb85f24c7cf4a31",
+      "id": "48600416563ae015",
+      "model": "",
+      "product": "",
+      "published_at": "2026-01-23",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202601/t20260115_114986.html",
+      "summary_zh": "奇瑞汽车股份有限公司召回部分奇瑞牌探索06、全新瑞虎7 1.6T车型",
+      "title_original": "奇瑞汽车股份有限公司召回部分奇瑞牌探索06、全新瑞虎7 1.6T车型",
+      "title_zh": "奇瑞汽车股份有限公司召回部分奇瑞牌探索06、全新瑞虎7 1.6T车型",
+      "updated_at": "2026-01-23"
+    },
+    {
+      "action": "查看召回公告并按官方指引处理。",
+      "brand": "",
+      "categories": [
+        "汽车"
+      ],
+      "dedupe_key": "23fa6682f79c4271",
+      "id": "47b469aeb9b182f1",
+      "model": "",
+      "product": "",
+      "published_at": "2026-01-16",
+      "region": "CN",
+      "risks": [
+        "未分类"
+      ],
+      "severity": "unknown",
+      "source": "China SAMR",
+      "source_url": "https://www.samrdprc.org.cn/qczh/gnzhqc/202601/t20260115_114987.html",
+      "summary_zh": "东风商用车新疆有限公司召回部分DFV4258GP6N型LNG半挂牵引车",
+      "title_original": "东风商用车新疆有限公司召回部分DFV4258GP6N型LNG半挂牵引车",
+      "title_zh": "东风商用车新疆有限公司召回部分DFV4258GP6N型LNG半挂牵引车",
+      "updated_at": "2026-01-16"
     },
     {
       "action": "查看召回公告并按官方指引处理。",
@@ -6946,29 +9246,6 @@
       "title_original": "NISSAN DIESEL AMERICA, INC UD UD3300 2007 SERVICE BRAKES, AIR:SUPPLY:QUICK RELEASE VALVE recall 10V005000",
       "title_zh": "NISSAN DIESEL AMERICA, INC UD UD3300 2007 SERVICE BRAKES, AIR:SUPPLY:QUICK RELEASE VALVE recall 10V005000",
       "updated_at": "2010-01-01"
-    },
-    {
-      "action": "查看召回公告并按官方指引处理。",
-      "brand": "",
-      "categories": [
-        "汽车交通"
-      ],
-      "dedupe_key": "e7993b64417a2915",
-      "id": "3d6f108f65f7b899",
-      "model": "",
-      "product": "",
-      "published_at": "",
-      "region": "CN",
-      "risks": [
-        "未分类"
-      ],
-      "severity": "unknown",
-      "source": "China SAMR",
-      "source_url": "",
-      "summary_zh": "缺陷汽车产品召回查询",
-      "title_original": "缺陷汽车产品召回查询",
-      "title_zh": "缺陷汽车产品召回查询",
-      "updated_at": ""
     }
   ]
 }
