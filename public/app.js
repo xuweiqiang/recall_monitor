@@ -45,6 +45,22 @@ function normalizeText(value) {
   return String(value).trim();
 }
 
+function safeHttpUrl(value) {
+  const text = normalizeText(value);
+  if (!text) {
+    return "";
+  }
+  try {
+    const parsed = new URL(text, window.location.href);
+    if (parsed.protocol !== "http:" && parsed.protocol !== "https:") {
+      return "";
+    }
+    return parsed.href;
+  } catch (error) {
+    return "";
+  }
+}
+
 function formatList(value) {
   const items = asArray(value).map(normalizeText).filter(Boolean);
   return items.length ? items.join("、") : "未标注";
@@ -236,7 +252,7 @@ function renderCards(records) {
       const card = el.cardTemplate.content.firstElementChild.cloneNode(true);
       const title = normalizeText(record.title_zh) || normalizeText(record.title_original) || "未命名召回";
       const originalTitle = normalizeText(record.title_original);
-      const sourceUrl = normalizeText(record.source_url);
+      const sourceUrl = safeHttpUrl(record.source_url);
 
       card.querySelector("h3").textContent = title;
       card.querySelector(".original-title").textContent = originalTitle && originalTitle !== title ? originalTitle : "";
@@ -311,7 +327,9 @@ async function init() {
   });
 
   try {
-    const [recalls, status] = await Promise.all([loadJson(DATA_URL), loadJson(STATUS_URL)]);
+    const [recallsResult, statusResult] = await Promise.allSettled([loadJson(DATA_URL), loadJson(STATUS_URL)]);
+    const recalls = recallsResult.status === "fulfilled" ? recallsResult.value : { records: [], generated_at: "" };
+    const status = statusResult.status === "fulfilled" ? statusResult.value : { sources: [], generated_at: "" };
     state.records = asArray(recalls.records || recalls.items || recalls.data);
     state.status = status;
     el.updatedAt.textContent = formatDate(recalls.generated_at || status.generated_at);

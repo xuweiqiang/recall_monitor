@@ -60,6 +60,14 @@ def test_parse_oecd_html_extracts_recall_links():
     assert records[0].region == "GLOBAL"
 
 
+def test_parse_oecd_html_drops_unsafe_link_schemes():
+    html = '<a href="data:text/html,<script>alert(1)</script>">Unsafe recall</a>'
+
+    records = parse_oecd_html(html, base_url="https://globalrecalls.oecd.org", limit=5)
+
+    assert records == []
+
+
 def test_oecd_fetcher_default_url_is_configurable():
     fetcher = OecdFetcher(limit=6, url="https://example.org")
 

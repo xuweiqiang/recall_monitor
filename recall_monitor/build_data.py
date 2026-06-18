@@ -7,6 +7,7 @@ import os
 
 from recall_monitor.classifier import classify_record_text
 from recall_monitor.fetchers.base import utc_now_iso
+from recall_monitor.fetchers.base import sanitize_url
 from recall_monitor.fetchers.canada import CanadaFetcher
 from recall_monitor.fetchers.china import ChinaFetcher
 from recall_monitor.fetchers.cpsc import CpscFetcher
@@ -125,6 +126,7 @@ def main(argv=None):
 
 
 def _classified_record(record):
+    record.source_url = sanitize_url(record.source_url)
     text = " ".join([record.title_original, record.title_zh, record.summary_zh])
     classification = classify_record_text(text)
 

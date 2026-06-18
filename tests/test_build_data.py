@@ -50,6 +50,36 @@ class OneRecordFetcher:
         )
 
 
+class UnsafeUrlFetcher:
+    name = "unsafe"
+
+    def fetch(self):
+        return FetchResult(
+            source=self.name,
+            records=[
+                RecallRecord(
+                    id="unsafe-1",
+                    source="UNSAFE",
+                    source_url="javascript:alert(1)",
+                    region="GLOBAL",
+                    published_at="2026-06-18",
+                    updated_at="2026-06-18",
+                    title_original="Unsafe URL recall",
+                    title_zh="不安全链接召回",
+                    summary_zh="用于验证链接过滤",
+                    brand="",
+                    product="",
+                    model="",
+                    categories=[],
+                    risks=[],
+                    action="",
+                    severity="unknown",
+                    dedupe_key="",
+                )
+            ],
+        )
+
+
 def test_build_data_writes_recalls_and_status(tmp_path):
     result = build_data([SampleFetcher()], tmp_path)
 
@@ -85,6 +115,14 @@ def test_build_data_classifies_records_without_classifier_fields(tmp_path):
     assert record["risks"] == ["污染"]
     assert record["action"] == "查看召回公告并按官方指引处理。"
     assert record["dedupe_key"]
+
+
+def test_build_data_strips_unsafe_source_urls(tmp_path):
+    build_data([UnsafeUrlFetcher()], tmp_path)
+
+    recalls = json.loads((tmp_path / "recalls.json").read_text(encoding="utf-8"))
+
+    assert recalls["records"][0]["source_url"] == ""
 
 
 def test_build_data_isolates_fetcher_exceptions(tmp_path):

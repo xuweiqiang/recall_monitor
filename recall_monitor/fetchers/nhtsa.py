@@ -1,57 +1,75 @@
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals
 
-from recall_monitor.fetchers.base import FetchResult, http_get_json, stable_id, utc_now_iso
+from io import BytesIO
+import zipfile
+
+import requests
+
+from recall_monitor.fetchers.base import FetchResult, stable_id, utc_now_iso
 from recall_monitor.model import RecallRecord, SourceStatus
 
 
-REPRESENTATIVE_MODELS = [
-    ("Honda", "Accord", "2020"),
-    ("Toyota", "Camry", "2020"),
-    ("Ford", "F-150", "2020"),
-]
+NHTSA_FLAT_RECALLS_URL = "https://static.nhtsa.gov/odi/ffdd/rcl/FLAT_RCL_POST_2010.zip"
 
 
 class NhtsaFetcher(object):
     name = "NHTSA"
 
-    def __init__(self, limit=50, vehicles=None):
+    def __init__(self, limit=50, url=NHTSA_FLAT_RECALLS_URL):
         self.limit = limit
-        self.vehicles = vehicles or list(REPRESENTATIVE_MODELS)
+        self.url = url
 
     def fetch(self):
-        records = []
-        seen = set()
-        for make, model, year in self.vehicles:
-            try:
-                payload = http_get_json(_vehicle_url(make, model, year))
-            except Exception:
-                continue
-            for item in payload.get("results", []):
-                campaign = _text(item.get("NHTSACampaignNumber"))
-                key = campaign or stable_id(item)
-                if key in seen:
-                    continue
-                seen.add(key)
-                records.append(map_nhtsa_item(item))
-                if len(records) >= self.limit:
-                    return _fetch_result(self.name, records)
-        return _fetch_result(self.name, records)
+        try:
+            zip_bytes = _http_get_binary(self.url)
+            rows = _read_first_text_file(zip_bytes)
+        except Exception as exc:
+            raise RuntimeError("NHTSA flat file request failed: %s" % exc)
+
+        records = parse_nhtsa_flat_rows(rows, self.limit)
+        result = FetchResult(source=self.name, records=records)
+        result.status = SourceStatus(self.name, True, utc_now_iso(), len(records))
+        return result
+
+
+def parse_nhtsa_flat_rows(rows, limit=50):
+    records = []
+    seen = set()
+    for line in (rows or "").splitlines():
+        if not line.strip():
+            continue
+        item = _flat_row_to_item(line)
+        campaign = _text(item.get("NHTSACampaignNumber"))
+        if campaign in seen:
+            continue
+        seen.add(campaign)
+        records.append(map_nhtsa_item(item))
+        if len(records) >= limit:
+            break
+    return records
 
 
 def map_nhtsa_item(item):
     campaign = _text(item.get("NHTSACampaignNumber"))
     report_date = _date(item.get("ReportReceivedDate"))
     manufacturer = _text(item.get("Manufacturer"))
+    make = _text(item.get("Make"))
+    model_text = _text(item.get("VehicleModel"))
+    year = _text(item.get("ModelYear"))
+    if year == "9999":
+        year = ""
     component = _text(item.get("Component"))
     summary = _text(item.get("Summary"))
+    consequence = _text(item.get("Consequence"))
     remedy = _text(item.get("Remedy"))
     notes = _text(item.get("Notes"))
-    title = " ".join(part for part in [manufacturer, component, "recall", campaign] if part)
-    summary_text = " ".join(part for part in [summary, remedy, notes] if part)
+    product = " ".join(part for part in [make, model_text, year, component] if part)
+    title = " ".join(part for part in [manufacturer, product, "recall", campaign] if part)
+    summary_text = " ".join(part for part in [summary, consequence, remedy, notes] if part)
 
     return RecallRecord(
-        id=stable_id("NHTSA", campaign, manufacturer, component),
+        id=stable_id("NHTSA", campaign, manufacturer, product),
         source="NHTSA",
         source_url="https://www.nhtsa.gov/recalls",
         region="US",
@@ -61,35 +79,59 @@ def map_nhtsa_item(item):
         title_zh=title,
         summary_zh=summary_text,
         brand=manufacturer,
-        product=component,
+        product=product,
         model=campaign,
-        dedupe_key=stable_id("NHTSA", manufacturer, component, campaign),
+        dedupe_key=stable_id("NHTSA", manufacturer, product, campaign),
         raw=item,
     )
 
 
-def _vehicle_url(make, model, year):
-    return (
-        "https://api.nhtsa.gov/recalls/recallsByVehicle?make=%s&model=%s&modelYear=%s"
-        % (make, model, year)
-    )
+def _flat_row_to_item(line):
+    fields = line.rstrip("\n").split("\t")
+    fields += [""] * max(0, 29 - len(fields))
+    return {
+        "RecordID": fields[0],
+        "NHTSACampaignNumber": fields[1],
+        "Make": fields[2],
+        "VehicleModel": fields[3],
+        "ModelYear": fields[4],
+        "ManufacturerCampaignNumber": fields[5],
+        "Component": fields[6],
+        "Manufacturer": fields[7],
+        "RecallType": fields[10],
+        "PotentialUnitsAffected": fields[11],
+        "ReportReceivedDate": fields[15],
+        "Summary": fields[19],
+        "Consequence": fields[20],
+        "Remedy": fields[21],
+        "Notes": fields[22],
+        "NhtsaComponentID": fields[23],
+        "DoNotDrive": fields[27],
+        "ParkOutside": fields[28],
+    }
 
 
-def _fetch_result(source, records):
-    result = FetchResult(source=source, records=records)
-    result.status = SourceStatus(
-        source=source,
-        ok=True,
-        fetched_at=utc_now_iso(),
-        count=len(records),
-    )
-    return result
+def _read_first_text_file(zip_bytes):
+    with zipfile.ZipFile(BytesIO(zip_bytes)) as archive:
+        for name in archive.namelist():
+            if name.lower().endswith(".txt"):
+                with archive.open(name) as handle:
+                    return handle.read().decode("utf-8", "replace")
+    raise RuntimeError("NHTSA zip did not contain a text file")
+
+
+def _http_get_binary(url, timeout=30.0):
+    response = requests.get(url, timeout=timeout)
+    response.raise_for_status()
+    return response.content
 
 
 def _date(value):
     text = _text(value)
     if not text:
         return ""
+    if len(text) == 8 and text.isdigit():
+        return "%s-%s-%s" % (text[0:4], text[4:6], text[6:8])
     if len(text) >= 10 and text[4:5] == "-" and text[7:8] == "-":
         return text[:10]
     parts = text.split("/")

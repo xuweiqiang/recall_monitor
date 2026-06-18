@@ -13,6 +13,11 @@ except ImportError:
     def dataclass(cls):
         return cls
 
+try:
+    from urllib.parse import urlparse
+except ImportError:
+    from urlparse import urlparse
+
 
 @dataclass
 class FetchResult:
@@ -53,6 +58,16 @@ def http_get_json(url, timeout=20.0):
     response = requests.get(url, timeout=timeout)
     response.raise_for_status()
     return response.json()
+
+
+def sanitize_url(url):
+    text = _to_text(url).strip()
+    if not text:
+        return ""
+    scheme = urlparse(text).scheme.lower()
+    if scheme not in ("http", "https"):
+        return ""
+    return text
 
 
 def _to_text(value):

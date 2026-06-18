@@ -60,6 +60,14 @@ def test_parse_eu_html_extracts_safety_gate_links():
     assert records[0].source_url == "https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/100"
 
 
+def test_parse_eu_html_drops_unsafe_link_schemes():
+    html = '<a href="javascript:alert(1)">Safety Gate Alert fake</a>'
+
+    records = parse_eu_html(html, base_url="https://ec.europa.eu", limit=5)
+
+    assert records == []
+
+
 def test_eu_fetcher_default_url_is_configurable():
     fetcher = EuSafetyGateFetcher(limit=4, url="https://example.eu/safety")
 

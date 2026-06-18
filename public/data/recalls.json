@@ -1,50 +1,50 @@
 {
-  "generated_at": "2026-06-18T06:56:40Z", 
+  "generated_at": "2026-06-18T07:28:05Z",
   "records": [
     {
-      "action": "立即停止给儿童使用，并按官方召回指引处理。", 
-      "brand": "Sample Kids", 
+      "action": "立即停止给儿童使用，并按官方召回指引处理。",
+      "brand": "Sample Kids",
       "categories": [
         "儿童婴幼儿"
-      ], 
-      "dedupe_key": "a9c846a498029e60", 
-      "id": "f9a26ae9ec8ca4cc", 
-      "model": "IR-1", 
-      "product": "婴儿摇铃", 
-      "published_at": "2026-06-18", 
-      "region": "GLOBAL", 
+      ],
+      "dedupe_key": "a9c846a498029e60",
+      "id": "f9a26ae9ec8ca4cc",
+      "model": "IR-1",
+      "product": "婴儿摇铃",
+      "published_at": "2026-06-18",
+      "region": "GLOBAL",
       "risks": [
         "窒息"
-      ], 
-      "severity": "high", 
-      "source": "SAMPLE", 
-      "source_url": "https://example.com/sample/infant-toy-choking", 
-      "summary_zh": "婴儿摇铃的小零件可能脱落，存在窒息风险。", 
-      "title_original": "Infant toy recalled for choking risk", 
-      "title_zh": "婴儿玩具因小零件脱落风险召回", 
+      ],
+      "severity": "high",
+      "source": "SAMPLE",
+      "source_url": "https://example.com/sample/infant-toy-choking",
+      "summary_zh": "婴儿摇铃的小零件可能脱落，存在窒息风险。",
+      "title_original": "Infant toy recalled for choking risk",
+      "title_zh": "婴儿玩具因小零件脱落风险召回",
       "updated_at": "2026-06-18"
-    }, 
+    },
     {
-      "action": "立即停止使用，远离可燃物，并按官方召回指引处理。", 
-      "brand": "Sample Power", 
+      "action": "立即停止使用，远离可燃物，并按官方召回指引处理。",
+      "brand": "Sample Power",
       "categories": [
         "电池充电"
-      ], 
-      "dedupe_key": "cda62a0f924121e6", 
-      "id": "2d0d990de3a258ae", 
-      "model": "PB-100", 
-      "product": "移动电源", 
-      "published_at": "2026-06-17", 
-      "region": "GLOBAL", 
+      ],
+      "dedupe_key": "cda62a0f924121e6",
+      "id": "2d0d990de3a258ae",
+      "model": "PB-100",
+      "product": "移动电源",
+      "published_at": "2026-06-17",
+      "region": "GLOBAL",
       "risks": [
         "火灾"
-      ], 
-      "severity": "high", 
-      "source": "SAMPLE", 
-      "source_url": "https://example.com/sample/power-bank-fire", 
-      "summary_zh": "部分移动电源锂电池在充电时可能过热，存在起火风险。", 
-      "title_original": "Power bank recalled for fire risk", 
-      "title_zh": "移动电源因过热起火风险召回", 
+      ],
+      "severity": "high",
+      "source": "SAMPLE",
+      "source_url": "https://example.com/sample/power-bank-fire",
+      "summary_zh": "部分移动电源锂电池在充电时可能过热，存在起火风险。",
+      "title_original": "Power bank recalled for fire risk",
+      "title_zh": "移动电源因过热起火风险召回",
       "updated_at": "2026-06-17"
     }
   ]

@@ -12,7 +12,7 @@ except ImportError:
 
 import requests
 
-from recall_monitor.fetchers.base import FetchResult, stable_id, utc_now_iso
+from recall_monitor.fetchers.base import FetchResult, sanitize_url, stable_id, utc_now_iso
 from recall_monitor.model import RecallRecord, SourceStatus
 
 
@@ -41,7 +41,9 @@ def parse_oecd_html(html, base_url, limit=50):
     for href, title in _extract_links(html):
         if not title or not href or not _looks_like_recall(title, href):
             continue
-        url = urljoin(base_url, href)
+        url = sanitize_url(urljoin(base_url, href))
+        if not url:
+            continue
         if url in seen:
             continue
         seen.add(url)
