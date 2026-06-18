@@ -7,11 +7,29 @@ import os
 
 from recall_monitor.classifier import classify_record_text
 from recall_monitor.fetchers.base import utc_now_iso
+from recall_monitor.fetchers.cpsc import CpscFetcher
+from recall_monitor.fetchers.fda import FdaFetcher
+from recall_monitor.fetchers.nhtsa import NhtsaFetcher
 from recall_monitor.fetchers.sample import SampleFetcher
+from recall_monitor.fetchers.usda import UsdaFetcher
 from recall_monitor.model import SourceStatus, dumps_json
 
 
 DEFAULT_OUTPUT_DIR = os.path.join("public", "data")
+
+
+def default_fetchers(offline_sample=False):
+    if offline_sample:
+        return [SampleFetcher()]
+    return [
+        FdaFetcher("food"),
+        FdaFetcher("drug"),
+        FdaFetcher("device"),
+        CpscFetcher(),
+        NhtsaFetcher(),
+        UsdaFetcher(),
+        SampleFetcher(),
+    ]
 
 
 def build_data(fetchers, output_dir=DEFAULT_OUTPUT_DIR):
@@ -92,7 +110,7 @@ def main(argv=None):
     )
     args = parser.parse_args(argv)
 
-    fetchers = [SampleFetcher()]
+    fetchers = default_fetchers(offline_sample=args.offline_sample)
     build_data(fetchers, args.output_dir)
     return 0
 

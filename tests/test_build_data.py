@@ -4,7 +4,7 @@ import sys
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
-from recall_monitor.build_data import build_data
+from recall_monitor.build_data import build_data, default_fetchers
 from recall_monitor.fetchers.base import FetchResult
 from recall_monitor.fetchers.sample import SampleFetcher
 from recall_monitor.model import RecallRecord
@@ -95,3 +95,19 @@ def test_build_data_isolates_fetcher_exceptions(tmp_path):
     assert status["sources"][0]["ok"] is False
     assert "network unavailable" in status["sources"][0]["error"]
     assert status["sources"][1]["ok"] is True
+
+
+def test_default_fetchers_include_us_sources_and_offline_sample_only():
+    online_names = [fetcher.name for fetcher in default_fetchers(offline_sample=False)]
+    offline_names = [fetcher.name for fetcher in default_fetchers(offline_sample=True)]
+
+    assert online_names == [
+        "FDA Food",
+        "FDA Drug",
+        "FDA Device",
+        "CPSC",
+        "NHTSA",
+        "USDA FSIS",
+        "sample",
+    ]
+    assert offline_names == ["sample"]
